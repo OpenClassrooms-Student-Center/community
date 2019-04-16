@@ -12,7 +12,8 @@ script:
 
 after_success:
   - if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then 
-      pelican content -s publishconf.py -o docs --fatal=warnings;
+      git checkout $TRAVIS_BRANCH;
+      pelican content -s publishconf.py -o docs;
       git add -A;
       git commit -m "publishing websites";
       git remote add origin-pages https://${GH_TOKEN}@github.com/OpenClassrooms-Student-Center/community.git;
