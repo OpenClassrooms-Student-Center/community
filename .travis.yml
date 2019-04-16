@@ -11,7 +11,13 @@ script:
   - pelican content -s publishconf.py -o docs --fatal=warnings
 
 after_success:
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then pelican content -s publishconf.py -o docs --fatal=warnings && git add -A && git commit -m "publishing websites" && git push origin $TRAVIS_BRANCH; fi' 
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then 
+      pelican content -s publishconf.py -o docs --fatal=warnings;
+      git add -A;
+      git commit -m "publishing websites";
+      git remote add origin-pages https://${GH_TOKEN}@github.com/OpenClassrooms-Student-Center/community.git > /dev/null 2>&;
+      git push origin-pages $TRAVIS_BRANCH; 
+    fi' 
 
 branches:
   only:
