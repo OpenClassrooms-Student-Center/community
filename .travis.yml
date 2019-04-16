@@ -10,6 +10,9 @@ script:
   - pip install -r requirements.txt
   - pelican content -s publishconf.py -o docs --fatal=warnings
 
+after_success:
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; pelican content -s publishconf.py -o docs --fatal=warnings; git add -A && git commit -m "publishing websites"; git push; fi' 
+
 branches:
   only:
   - master
