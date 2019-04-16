@@ -45,7 +45,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: vincent/projet_2.jpg
+    image: vincent/projet_1.jpg
     link: https://www.openclassrooms.com
     finished: false
 ---
