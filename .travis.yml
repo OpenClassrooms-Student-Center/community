@@ -11,6 +11,7 @@ script:
   - pelican content -s publishconf.py -o docs --fatal=warnings
 
 after_success:
+  - echo "$TRAVIS_COMMIT_MESSAGE"
   - if [ "$TRAVIS_PULL_REQUEST" = "false" && "$TRAVIS_COMMIT_MESSAGE" != "publishing websites" ]; then 
       git checkout $TRAVIS_BRANCH;
       pelican content -s publishconf.py -o docs;
