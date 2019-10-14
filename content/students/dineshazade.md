@@ -7,7 +7,7 @@ title: dinesh azade
 
 # First name or full name
 name: Dinesh azade
-date: 14 octobre 2019
+date: 2019-10-14
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
