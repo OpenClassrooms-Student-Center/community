@@ -42,4 +42,9 @@ projects:
     image: dineshazade/projet2.jpg
     link: https://github.com/jemeforme/community
     finished: true
+    title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Github et des pull requests.
+    image: dineshazade/projet3.jpg
+    link: https://github.com/jemeforme/community
+    finished: true
   
