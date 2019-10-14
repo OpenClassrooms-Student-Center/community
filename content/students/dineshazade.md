@@ -42,7 +42,7 @@ projects:
     image: dineshazade/projet2.jpg
     link: https://github.com/jemeforme/community
     finished: true
-    - title: mon premier jeu video avec swift
+  - title: mon premier jeu video avec swift
     description: mon premier jeu video avec swift
     image: dineshazade/projet1.jpg
     link: https://www.linkedin.com/in/dinesh-azade-25a635193/
