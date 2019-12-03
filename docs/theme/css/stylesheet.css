@@ -1,7 +1,6 @@
-
 /****** COLORS *******/
 /* blue: #4c88a1; */
-/* orange: #7451eb; */
+/* orange: #f56900; */
 
 /************ COMMON ***************/
 body {
@@ -11,7 +10,7 @@ body {
 }
 
 a {
-    color: #7451eb;
+    color: #f56900;
 }
 
 h1, h2 {
@@ -41,15 +40,15 @@ h2, h3 {
 }
 
 .button:hover {
-    color: #7451eb;
+    color: #f56900;
     background-color: #fff;
     text-decoration: none;
 }
 
 .button-primary {
-    background: #7451eb;
+    background: #f56900;
     color: #fff;
-    border-color: #7451eb;
+    border-color: #f56900;
 }
 
 .rounded {
@@ -182,7 +181,7 @@ h2, h3 {
 }
 
 .thumbnail.rounded {
-    border: 1px solid #7451eb;
+    border: 1px solid #f56900;
 }
 
 .student-item {
@@ -208,7 +207,7 @@ h2, h3 {
 }
 
 #description h3 {
-    color: #7451eb;
+    color: #f56900;
     text-align: center;
     margin: 0;
     padding: 5% 0 2% 0;
