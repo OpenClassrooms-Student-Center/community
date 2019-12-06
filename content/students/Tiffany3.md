@@ -28,7 +28,7 @@ description:
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: Tiffany2.png
+image: Tiffany3.png
 
 
 # Change this to True when you do you pull request.
@@ -41,7 +41,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
 
-    image: Tiffany2/Projet1.png
+    image: Tiffany3/Projet1.png
 
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.
@@ -50,14 +50,14 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendr. you
 
-    image: Tiffany2/Projet2.png
+    image: Tiffany3/Projet2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: Tiffany2/Projet3.png
+    image: Tiffany3/Projet3.png
 
     link: https://www.github.com
     finished: true
