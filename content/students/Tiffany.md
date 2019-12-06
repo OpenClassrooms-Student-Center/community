@@ -18,7 +18,7 @@ short_description: Description ca c'est de la description
 # don't touch that
 template: students
 description:
-    Blabla  consectetur adipisicing elit, sed do eiusmod
+    Blabla  XXXXXXXXXXX dipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même ahah
+    description: de moi-même ahah
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
     image: Tiffany/Projet1.png
