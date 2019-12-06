@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    color: #f56900;
+    color: #7451eb;
 }
 
 h1, h2 {
@@ -40,15 +40,15 @@ h2, h3 {
 }
 
 .button:hover {
-    color: #f56900;
+    color: #7451eb;
     background-color: #fff;
     text-decoration: none;
 }
 
 .button-primary {
-    background: #f56900;
+    background: #7451eb;
     color: #fff;
-    border-color: #f56900;
+    border-color: #7451eb;
 }
 
 .rounded {
@@ -181,7 +181,7 @@ h2, h3 {
 }
 
 .thumbnail.rounded {
-    border: 1px solid #f56900;
+    border: 1px solid #7451eb;
 }
 
 .student-item {
@@ -207,7 +207,7 @@ h2, h3 {
 }
 
 #description h3 {
-    color: #f56900;
+    color: #7451eb;
     text-align: center;
     margin: 0;
     padding: 5% 0 2% 0;
