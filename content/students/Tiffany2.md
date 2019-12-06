@@ -13,7 +13,7 @@ date: 2016-12-06 10:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Rien du tout
-short_description: Description ca c'est de la description
+short_description: HIHI bonjour je suis la numero 2
 
 # don't touch that
 template: students
