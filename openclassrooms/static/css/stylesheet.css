@@ -252,13 +252,14 @@ h2, h3 {
     margin-right: 10px;
 }
 .thumbnail a>img, .thumbnail>img {
-    margin-right: 0px;
-    margin-left: -10px;
+   margin-right: 0 !important;
+    margin-left: -10px !important;
+    margin-top: -10px !important;
 }
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-    display: block;
-    max-width: 140px;
-    height: 140px;
+    min-width: 140px;
+    min-height: 140px;
+    display:block;
 }
 img.img-responsive {
     width: 120%;
