@@ -177,6 +177,8 @@ h2, h3 {
 /************ Students section ***************/
 .thumbnail {
     max-width: 120px;
+    width:120px;
+    height:120px;
     overflow: hidden;
     margin: 20px auto;
 }
