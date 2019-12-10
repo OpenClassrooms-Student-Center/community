@@ -251,9 +251,18 @@ h2, h3 {
 .fa-map-signs {
     margin-right: 10px;
 }
-
+.thumbnail a>img, .thumbnail>img {
+    margin-right: 0px;
+    margin-left: -10px;
+}
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
     display: block;
-    max-width: 120px;
-    height: 120px;
+    max-width: 140px;
+    height: 140px;
+}
+img.img-responsive {
+    width: 120%;
+    height: 120%;
+    margin-left: -10%;
+    margin-top: -10%;
 }
