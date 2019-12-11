@@ -85,6 +85,7 @@ h2, h3 {
     text-decoration: underline;
 }
  
+
 #disclaimer-button {
     text-decoration: none;
     text-align: center;
@@ -251,9 +252,19 @@ h2, h3 {
 .fa-map-signs {
     margin-right: 10px;
 }
-
+.thumbnail a>img, .thumbnail>img {
+   margin-right: 0 !important;
+    margin-left: -10px !important;
+    margin-top: -10px !important;
+}
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-    display: block;
-    max-width: 120px;
-    height: 120px;
+    min-width: 140px;
+    min-height: 140px;
+    display:block;
+}
+img.img-responsive {
+    width: 120%;
+    height: 120%;
+    margin-left: -10%;
+    margin-top: -10%;
 }
