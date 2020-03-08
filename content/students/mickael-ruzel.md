@@ -12,7 +12,7 @@ date: 2020-03-08 11:40
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Dévenolleper de nouvelles compétences et agrendir mes perspectives d'avenir.
+objective: Dévelloper de nouvelles compétences et agrendir mes perspectives d'avenir.
 short_description: Je suis passionné de musique, de nouvelles technos et toujours en recherche de nouvelles connaissances.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -29,7 +29,7 @@ description:
 image: mickael-ruzel.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -41,7 +41,7 @@ projects:
     link: https://www.linkedin.com/in/mickael-ruzel-5579341a3/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: ratus/projet_2.png
