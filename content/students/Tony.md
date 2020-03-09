@@ -18,7 +18,7 @@ short_description: Développeur en devenir!
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J'ai 40 ans, et après presque 20ans dans l'aviation, je cherche à me reconvertir dans l'informatique.
+    J'ai 40 ans, et après presque 20 ans dans l'aviation, je cherche à me reconvertir dans l'informatique.
     Actuellement en formation développeur Python/Django.
 
 # image must be located in content/images/students
