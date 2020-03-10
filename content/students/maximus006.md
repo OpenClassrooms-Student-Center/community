@@ -78,7 +78,7 @@ projects:
 
     image: maximus006/projet2.png
 
-    link: https://openclassrooms-student-center.github.io/alumnis/students/maximus006.html
+    link: https://github.com/Maximus06/community
 
     finished: true
   
