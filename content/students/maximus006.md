@@ -81,6 +81,15 @@ projects:
     link: https://github.com/Maximus06/community
 
     finished: true
+  - title: Aidez MacGyver à sortir !
+
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+
+    image: maximus006/projet3.png
+
+    link: https://github.com/Maximus06/
+
+    finished: false    
   
 
 ---
