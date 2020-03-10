@@ -13,7 +13,7 @@
  # One line.
  # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
  objective: Je souhaite approfondir mes connaissances dans la langage SWIFT.
- short_description: Passionné par la marque à la pomme croquée, je souhaite approfondir mes connaissances dans le langage swift.
+ short_description: Je souhaite approfondir mes connaissances dans le langage swift.
 
  # don't touch that
  template: students
