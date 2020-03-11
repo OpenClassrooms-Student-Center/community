@@ -37,19 +37,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: mickael-ruzel/project1.png
+    image: mickael-ruzel/Project1.png
     link: https://www.linkedin.com/in/mickael-ruzel-5579341a3/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: mickael-ruzel/project2.png
+    image: mickael-ruzel/Project2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/mickael-ruzel.html
     finished: true
   - title: WarriorsQuest
     description: Créer la logique d'une RPG en gne de commande dans le language Swift.
-    image: mickael-ruzel/project3.png
+    image: mickael-ruzel/Project3.png
     link: https://github.com/imick666/WarriorsQuest
     finished: false
 ---
