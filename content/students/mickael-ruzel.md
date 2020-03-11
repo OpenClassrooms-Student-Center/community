@@ -13,7 +13,7 @@ date: 2020-03-08 11:40
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Dévelloper de nouvelles compétences et agrendir mes perspectives d'avenir.
-short_description:Passionné de technos je suis toujours en recherche de nouvelles connaissances.
+short_description: Passionné de technos je suis toujours en recherche de nouvelles connaissances.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
