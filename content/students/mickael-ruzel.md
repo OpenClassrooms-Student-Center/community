@@ -47,7 +47,7 @@ projects:
     image: mickael-ruzel/project2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/mickael-ruzel.html
     finished: true
-    - title: WarriorsQuest
+  - title: WarriorsQuest
     description: Créer la logique d'une RPG en gne de commande dans le language Swift.
     image: mickael-ruzel/project3.png
     link: https://github.com/imick666/WarriorsQuest
