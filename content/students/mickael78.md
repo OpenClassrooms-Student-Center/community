@@ -42,7 +42,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: mickael78/projet_2.png
+    image: mickael78/projet_02.png
     link: https://github.com/evilryu117
     finished: true
   - title: Aidez MacGyver à sortir !
