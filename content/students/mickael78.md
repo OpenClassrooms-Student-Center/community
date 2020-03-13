@@ -14,6 +14,7 @@ date: 2020-03-11 13:00
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: je souhaite apprendre le langage Python  afin de maîtriser le Deep learning.
 short_description: jeune entrepreneur qui souhaite apprendre la programmation
+
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
