@@ -44,12 +44,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: lincroyablemrbebe/project1.png
+    image: lincroyablemrbebe/project2.png
     link: https://github.com/evilryu117
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/project1.png
+    image: ratus/project3.png
     link: https://www.github.com
     finished: false
 ---
