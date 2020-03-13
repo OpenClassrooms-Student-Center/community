@@ -23,9 +23,10 @@ description:
     j'aime le langage Python car il est facile à comprendre et cela me permettra d'aborder une formation de 
     Deep learning plus tard.
 
+
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: mickael78.png
+image: mickael78.jpg
 
 # Change this to True when you do you pull request.
 public: True
