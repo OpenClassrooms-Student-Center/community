@@ -29,23 +29,18 @@ public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Définissez votre stratégie d'apprentissage !
+  - title: Présentez-vous !
     description: Définir un planning d'apprentissage et se présenter à la communauté
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/images/students/yourrepo/project1.png
     image: mohamedlemine/projet_1.png
     link: https://openclassrooms.workplace.com/profile.php?id=100042310957881
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source,comprendre le fonctionnement de Git,de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Github et des pull requests.
     image: mohamedlemine/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/mohamedlemine.html
+    link: https://github.com/jemeforme/community
     finished: true
-    - title: Aidez McGyver à s'échapper !
-      description: Créer un jeu python
-      image: mohamedlemine/projet_1.png
-      link: https://google.com
-      finished: false
----
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: mohamedlemine/projet_1.png
+    link: https://www.github.com
+    finished: false
