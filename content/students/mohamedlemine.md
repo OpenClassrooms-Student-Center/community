@@ -43,4 +43,9 @@ projects:
     image: mohamedlemine/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/mohamedlemine.html
     finished: true
+    - title: Aidez McGyver à s'échapper !
+      description: Créer un jeu python
+      image: mohamedlemine/projet_1.png
+      link: https://google.com
+      finished: false
 ---
