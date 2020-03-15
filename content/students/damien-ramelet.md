@@ -47,7 +47,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et PR.
-    image: damien-ramelet/projet_2.jpq
+    image: damien-ramelet/projet_2.jpg
     link: https://github.com/damien-devpy/community
     finished: true
   - title: Aidez MacGyver à sortir !
