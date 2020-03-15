@@ -52,7 +52,7 @@ projects:
     finished: true
   - title: Random maze generator
     description: Generate a random maze of any size you want.
-    image: ratus/projet_3.jpg
+    image: damien-ramelet/projet_3.jpg
     link: https://github.com/damien-devpy/maze
     finished: true
 ---
