@@ -50,9 +50,9 @@ projects:
     image: damien-ramelet/projet_2.jpg
     link: https://github.com/damien-devpy/community
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+  - title: Random maze generator
+    description: Generate a random maze of any size you want.
+    image: ratus/projet_3.jpg
+    link: https://github.com/damien-devpy/maze
+    finished: true
 ---
