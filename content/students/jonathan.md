@@ -23,7 +23,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: jonathan.jpeg
+image: jonathan.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -34,7 +34,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon profil OpenClassrooms.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: content/images/students/jonathanallard/jonathan.jpeg
+    image: content/images/students/jonathanallard/jonathan.jpg
     link: https://openclassrooms.com/fr/membres/jonathan-allard
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
