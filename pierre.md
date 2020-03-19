@@ -33,13 +33,11 @@
  projects:
    - title: Présentez-vous !
      description: Une présentation de moi-même et un lien vers mon LinkedIn.
-     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-     # Image must be here: content/images/students/yourrepo/project1.png
      image: pierre/projet1.png
-    link: https://www.linkedin.com/in/pierre-blotti%C3%A8re-12a67814a/
-    finished: true
+     link: https://www.linkedin.com/in/pierre-blotti%C3%A8re-12a67814a/
+     finished: true
    - title: Intégrez la communauté !
-     description: Intégrez la communauté OpenClassrooms ! 
+     description: intégrez la communauté OpenClassrooms.
      image: pierre/projet2.png
      link: https://github.com/PeyoData
      finished: true
