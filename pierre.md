@@ -1,9 +1,9 @@
 ---
-title: Pierre Blottiere
+title: pierre
 name: Blottiere
 date: 2020-03-19 13:53
-objective: Approfondir mes connaissances en Python et avoir des projets a présenter durant mes entretiens.
-short_description: J'habite en banlieue Parisienne et je suis passionné par l'informatique depuis le lycée.
+objective: Approfondir mes connaissances en Python.
+short_description: Je suis passionné par l'informatique depuis le lycée.
 template: students
 region: ILE DE FRANCE
 description:
