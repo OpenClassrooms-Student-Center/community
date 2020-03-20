@@ -9,7 +9,7 @@ region: ILE DE FRANCE
 description:
     Possédant actuellement un BTS SIO, je possède des connaissance en Python, C, Java, Base de données, Systemes et Réseaux.
     Je souhaite activement suivre cette formation diplômante et maitriser parfaitement l’utilisation de Python pour me positionner au plus vite sur le marché du travail.
-image: pierrre1.png
+image: pierre.png
 public: True 
 projects:
   - title: Présentez-vous !
