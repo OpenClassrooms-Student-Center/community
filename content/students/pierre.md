@@ -18,8 +18,13 @@ projects:
     link: https://www.linkedin.com/in/pierre-blotti%C3%A8re-12a67814a/
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même.
     image: pierre/projet2.png
     link: https://github.com/PeyoData
     finished: true
+  - title: Intégrez la communauté OpenClassrooms / PART II
+    description: Ajout du GitHub.
+    image: pierre/projet2.png
+    link: https://github.com/PeyoData
+    finished: false
 ---
