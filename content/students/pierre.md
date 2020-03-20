@@ -3,7 +3,7 @@ title: Pierre Blottiere
 name: Blottiere
 date: 2020-03-19 13:53
 objective: Approfondir mes connaissances en Python et avoir des projets a présenter durant mes entretiens.
-short_description: J'habite en banlieue Parisienne, j'ai 23 ans. Passionné par l'informatique depuis le Lycée, je fais pas mal de sport et de musique. 
+short_description: J'habite en banlieue Parisienne, 23 ans, je suis passionné par l'informatique.
 template: students
 region: ILE DE FRANCE
 description:
