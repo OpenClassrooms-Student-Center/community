@@ -75,7 +75,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, github et PR. 
 
-    image: cyril/projet_2.png
+    image: cyril/projet_2.jpg
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
