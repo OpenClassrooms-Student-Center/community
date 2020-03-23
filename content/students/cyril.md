@@ -77,7 +77,7 @@ projects:
 
     image: cyril/projet_2.jpg
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/cpawamgit
 
     finished: true
 
