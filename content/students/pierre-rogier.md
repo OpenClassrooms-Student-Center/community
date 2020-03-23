@@ -17,7 +17,7 @@ short_description: J'aime la musique, l'Histoire et le code bien sûr!
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: Je suis Infirmier diplômé d'Etat. Je suis inscris chez Openclassrooms sur le parcours Developpeur d'application Python.
+description: Je suis inscris chez Openclassrooms sur le parcours Developpeur d'application Python.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
