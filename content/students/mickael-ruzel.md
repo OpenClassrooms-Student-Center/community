@@ -45,10 +45,10 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet comprendre le fonctionnement de Git, Github et des pull requests
     image: mickael-ruzel/Project2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/mickael-ruzel.html
+    link: https://github.com/imick666
     finished: true
   - title: WarriorsQuest
-    description: Créer la logique d'une RPG en gne de commande dans le language Swift.
+    description: Créer la logique d'une RPG en ligne de commande dans le language Swift.
     image: mickael-ruzel/Project3.png
     link: https://github.com/imick666/WarriorsQuest
     finished: false
