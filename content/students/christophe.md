@@ -53,14 +53,31 @@ public: True
 
 projects:
 
+  - title: Présentez-vous !
 
-  - title:  Intégrez la communauté OpenClassrooms !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+
+    # Image must be here: content/images/students/yourrepo/project1.png
+
+    image: christophe/projet_1.png
+
+    link: https://www.linkedin.com/in/christophedupin/
+
+    # 'true' makes it fully available.
+
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+
+    finished: true
+
+  - title: Intégrez la communauté !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, github et PR.
 
     image: christophe/projet_2.png
 
-    link: https://github.com/Christophe-Dupin
+    link: https://github.com/Christophe-Dupin/
 
     finished: true
 
