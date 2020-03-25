@@ -32,7 +32,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Définissez votre stratégie d'apprentissage !
-    description: Mise en place du planning de formation, définition des objectifs et présentation sur le réseau WorkPlace
+    description: Mise en place du planning de formation, définition des objectifs et présentation WorkPlace.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: michael-dubois/projet_1.png
