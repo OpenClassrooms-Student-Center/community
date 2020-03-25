@@ -19,8 +19,8 @@ short_description: J'aime les bonnes choses de la vie, sans arôme artificiel !
 template: students
 description:
     je m'appelle Michael, 35 ans, j'ai longtemps travaillé dans le tourisme et la vente
-    comme interprète français-coréen, et aujourd'hui je souhaite apprendre
-    un nouveau langage: celui de la programmation :-)
+    comme interprète français-coréen, et aujourd'hui je souhaite apprendre un nouveau
+    langage, celui de la programmation !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
