@@ -18,7 +18,7 @@ short_description: Rien n'est impossible.... Du moins.. Je l'espère...
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Un développeur m'a dit : La programmation n'a pas de limite, si ce n'est celle de ton imagination.
+    La programmation n'a pas de limite, si ce n'est celle de ton imagination.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
