@@ -18,12 +18,7 @@ short_description: Rien n'est impossible.... Du moins.. Je l'espère...
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Un développeur m'a dit : La programmation n'a pas de limite, si ce n'est celle de ton imagination.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
