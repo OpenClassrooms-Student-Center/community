@@ -47,9 +47,14 @@ projects:
     image: mickael-ruzel/Project2.png
     link: https://github.com/imick666
     finished: true
-  - title: WarriorsQuest
+  - title: NewWarriorsQuest
     description: Créer la logique d'une RPG en ligne de commande dans le language Swift.
     image: mickael-ruzel/Project3.png
-    link: https://github.com/imick666/WarriorsQuest
+    link: https://github.com/imick666/NewWarriorQuest.git
+    finished: true
+  - title: InstaGrid
+    description: Créer une application de montage photo.
+    image: mickael-ruzel/Project4.png
+    link: https://github.com/imick666/InstaGrid
     finished: false
 ---
