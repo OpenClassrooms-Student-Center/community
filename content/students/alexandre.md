@@ -18,7 +18,9 @@ short_description: J'aime les nouvelles technologies et je souhaite appronfondir
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    
+    Je m'appelle Alexandre, j'ai 27 ans, et je suis cette formation
+	pour appronfondir mes connaissances en informatique.
+	
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
