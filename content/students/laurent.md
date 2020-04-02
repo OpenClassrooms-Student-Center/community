@@ -8,7 +8,7 @@ title: laurent
 
 # First name or full name
 name: Laurent
-date: 2020-03-18 23:00
+date: 2020-03-29 23:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -25,7 +25,7 @@ description:
 image: laurent.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -36,8 +36,19 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: laurent/projet_1.png
+    description: Comprendre le fonctionnement de Git, de Github et des pull requests. 
+    image: laurent/projet_1.jpg
     link: https://github.com/lnazar/community
-    finished: false
+    finished: true
+  - title: GitHub
+    description: Fork du dépôt community d'OC sur mon GitHub. 
+    image: laurent/projet_2.jpg
+    link: https://github.com/lnazar/community
+    finished: true
+  - title: LinkedIn
+    description: Le lien vers mon LinkedIn. 
+    image: laurent/projet_3.jpg
+    link: www.linkedin.com/in/laurent-nazar
+    finished: true
 ---
+
