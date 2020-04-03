@@ -22,12 +22,8 @@ short_description:
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Bonjour, je me présente, Schweitzer Mathieu j'ai 27 ans et je souhaite débuter une carrière dans le développement informatique !
-    Je suis technicien d'assistance en informatique suite à une formation à l'afpa de Belfort et j'ai poursuivi mes études à SUPINFO Strasbourg que j'ai dû arrêter pour des raisons financières et personnelles pendant 2 ans, ayant à cette époque toujours pour ambition de faire des études supérieures j'ai donc repris mes études cette fois en licence de langues (Anglais/Japonais, étant passionné des langues comme de l'informatique!)
+    Je suis technicien d'assistance en informatique suite à une formation à l'afpa de Belfort.
     Pour mon projet professionnel j'ai décidé de vraiment me lancer dans la programmation. Je suis confiant de mon niveau en anglais et n'ayant pas pour ambitions d'enseigner dans les langues  j'ai décidé de me lancer dans une formation OpenclassRooms que je m'auto finance et de débuter une carrière de développeur !
-
-    Mon expérience professionnelle est la suivante, j'ai travaillé en saisonnier chez Bernard Haegelin pendant 8 ans  (~ 30 jours/ an) en tant que coupeur pour les vendanges.
-    J'ai effectué plusieurs stages en comptabilité (6 mois environ) un stage en assurance pendant 1 mois et un stage de technicien d'assistance en informatique d'un mois pendant ma formation.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
