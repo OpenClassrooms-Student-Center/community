@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: alexis.png
+image: content/images/alexis.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -33,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: alexis/projet_1.png
+    image: content/images/students/alexis/projet_1.png
     link: https://fr.linkedin.com/in/alexis-demon-06a509115
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: alexis/projet_2.png
+    image: content/images/students/alexis/projet_2.png
     link: https://github.com/Alexis-Dem
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: alexis/projet_3.png
+    image: content/images/students/alexis/projet_3.png
     link: https://www.github.com
     finished: false
 ---
