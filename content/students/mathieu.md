@@ -38,7 +38,7 @@ projects:
     description: Créer mon planning de formation et me présenter à mon mentor et à la communauté.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: mathieu_projet1_planning.png
+    image: project1.png
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: false
