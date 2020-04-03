@@ -8,7 +8,7 @@ title: mathieu
 
 # First name or full name
 name: mathieu
-date: 2020-03-30 09:245
+date: 2020-03-30 09:45
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -31,10 +31,10 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: mathieu.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -42,21 +42,22 @@ projects:
     description: Créer mon planning de formation et me présenter à mon mentor et à la communauté.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: projet1_communaute.png
+    image: projet1_planning.png
+    image: projet1_presentation.png
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
 
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
 
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: 
     link: https://www.github.com
     finished: false
 ---
