@@ -23,7 +23,7 @@ short_description:
 template: students
 description:
     Je suis technicien d'assistance en informatique suite à une formation à l'afpa de Belfort.
-    Pour mon projet professionnel j'ai décidé de vraiment me lancer dans la programmation. Je suis confiant de mon niveau en anglais et n'ayant pas pour ambitions d'enseigner dans les langues  j'ai décidé de me lancer dans une formation OpenclassRooms que je m'auto finance et de débuter une carrière de développeur !
+    Pour mon projet professionnel j'ai décidé de vraiment me lancer dans la programmation. Je suis confiant de mon niveau en anglais suite à une licence Anglais/Japonais et n'ayant pas pour ambitions d'enseigner dans les langues  j'ai décidé de me lancer dans une formation OpenclassRooms que je m'auto finance et de débuter une carrière de développeur !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -38,12 +38,10 @@ projects:
     description: Créer mon planning de formation et me présenter à mon mentor et à la communauté.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: projet1_communaute.png
-    image: projet1_planning.png
-    image: projet1_presentation.png
+    image: mathieu_projet1_planning.png
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: false
 
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
