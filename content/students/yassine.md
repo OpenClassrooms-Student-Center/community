@@ -43,7 +43,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: yassine.jpg
+image: yassine.jpn
 
 
 # Change this to True when you do you pull request.
@@ -63,7 +63,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: yassine/projet1.png
+    image: yassine/projet1.jgp
 
     link: https://www.linkedin.com/in/yassine-westbrook-6692621a4/
 
@@ -77,7 +77,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
 
-    image: yassine/projet2.png
+    image: yassine/projet2.jpg
 
     link: https://openclassrooms.com/fr/projects/151/assignment
 
