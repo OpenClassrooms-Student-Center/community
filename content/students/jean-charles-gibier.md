@@ -48,7 +48,7 @@ projects:
     finished: true
     
   - title: Aidez MacGyver à s'échapper !
-    description: Créer un jeu 2D à partir de l'interface graphique Pygame en repsectant les bonnes pratiques du langage.
+    description: Créer un jeu 2D à partir de l'interface graphique Pygame en respectant les bonnes pratiques du langage.
     image: jean-charles-gibier/prj3_jcg.png
     link: https://github.com/jean-charles-gibier
     finished: true
