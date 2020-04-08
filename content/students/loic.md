@@ -65,7 +65,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: loic/projet_1.png
+    image: loic/projet1.jpg
 
     link: https://www.linkedin.com/in/lo%C3%AFc-romero-a5b302b8/
 
@@ -79,7 +79,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: loic/projet_2.png
+    image: loic/projet2.jpg
 
     link: https://github.com/ROL-1
 
@@ -89,7 +89,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: loic/projet3.jpg
 
     link: https://www.github.com
 
