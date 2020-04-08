@@ -56,5 +56,10 @@ projects:
     description: Créer une application de montage photo.
     image: mickael-ruzel/Project4.png
     link: https://github.com/imick666/InstaGrid
+    finished: true
+    - title: CountOnMe
+    description: terminé, débugué et améliorer une application existante.
+    image: mickael-ruzel/Project5.png
+    link: https://github.com/imick666/Projet_CountOnMe
     finished: false
 ---
