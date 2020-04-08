@@ -46,4 +46,8 @@ projects:
     image: ulrich/projet_2.png
     link: https://github.com/ulrich24/community.git
     finished: true
+- title: Aidez MacGyver à s'échapper !
+    description: Création d'un jeu développé en Python et utilisant PyGame
+    image: ulrich/projet_3.jpg
+    finished: true
 ---
