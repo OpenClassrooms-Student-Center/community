@@ -46,7 +46,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: marion.jpg
+image: marion.JPG
 
 
 # Change this to True when you do you pull request.
@@ -66,7 +66,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: marion/projet_1.png
+    image: marion/projet_1.PNG
 
     link: https://www.linkedin.com/in/marion-giusti-96862273/?locale=fr_FR
 
@@ -80,7 +80,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: marion/projet_2.png
+    image: marion/projet_2.PNG
 
     link: https://openclassrooms-student-center.github.io/community/students/marion.html
 
