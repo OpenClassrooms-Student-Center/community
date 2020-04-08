@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Ulrich
+title: ulrich
 
 # First name or full name
 name: Ulrich
@@ -49,5 +49,5 @@ projects:
 - title: Aidez MacGyver à s'échapper !
     description: Création d'un jeu développé en Python et utilisant PyGame
     image: ulrich/projet_3.jpg
-    finished: true
+    finished: false
 ---
