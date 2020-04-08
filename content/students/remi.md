@@ -38,8 +38,13 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Voici mon profil Github. 
-    image: remi/projet_2.jpg
+    description: Voici mon profil Github.
+    image: remi/projet_2.png
     link: https://github.com/RL444
     finished: true
+  - title: Aidez MacGyver à s'échapper !
+    description: Premier projet en Python du cursus!
+    image: remi/projet_3.png
+    link: https://github.com/RL444
+    finished: false
 ---
