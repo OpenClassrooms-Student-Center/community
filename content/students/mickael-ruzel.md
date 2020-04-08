@@ -57,7 +57,7 @@ projects:
     image: mickael-ruzel/Project4.png
     link: https://github.com/imick666/InstaGrid
     finished: true
-    - title: CountOnMe
+  - title: CountOnMe
     description: terminé, débugué et améliorer une application existante.
     image: mickael-ruzel/Project5.png
     link: https://github.com/imick666/Projet_CountOnMe
