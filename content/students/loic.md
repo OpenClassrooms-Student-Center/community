@@ -25,7 +25,7 @@ date: 2020-04-06 11:00
 
 objective: Devenir développeur d'application - Python.
 
-short_description: En reconversion profesionnelle des molécules aux bits, des fioles au clavier ; de chimiste à developpeur.
+short_description: En reconversion profesionnelle des molécules aux bits, des fioles au clavier.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
