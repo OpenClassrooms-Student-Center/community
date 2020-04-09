@@ -13,7 +13,7 @@ date: 2020-03-27 10:27
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Valider ma certification dev iOS, pour poursuivre sur un parcours en alternance.
-short_description: J'aime le sport, le cinéma et la lecture.  J'apprends à coder dans le cadre d'une reconversion professionnelle.
+short_description: J'apprends à coder dans le cadre d'une reconversion professionnelle.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
