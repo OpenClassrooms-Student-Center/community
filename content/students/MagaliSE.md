@@ -1,4 +1,4 @@
-﻿---
+---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -13,7 +13,7 @@ date: 2020-04-02 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Reconvertion professionnelle
-short_description: J'aime la musique, le sport et le code bien sûr!
+short_description: J'aime la musique, le sport, la nature et le code bien sûr!
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
