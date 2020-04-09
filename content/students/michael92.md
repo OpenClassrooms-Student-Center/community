@@ -1,3 +1,4 @@
+
 ---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
@@ -33,19 +34,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: michael92/projet_1.png
+    image: content/images/students/michael92/projet_1.png
     link: www.linkedin.com/in/michael-saint-just-5774081a5
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: michael92/projet_2.png
+    image: content/images/students/michael92/projet_2.png
     link: https://github.com/Michael92-coder/community
     finished: true
   - title: Mon premier jeu vidéo avec swift
     description: Création d’un jeu sur mobile développé en swift
-    image: michael92/projet_3.png
+    image: content/images/students/michael92/projet_3.png
     link: https://openclassrooms.com/fr/projects/59/assignment
     finished: false
 ---
