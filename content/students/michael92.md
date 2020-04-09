@@ -40,13 +40,13 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source. 
+    description: Modifier un projet Open Source sur Git et Gihub. 
     image: michael92/projet2.png
     link: https://github.com/Michael92-coder/community
     finished: true
   - title: Mon premier jeu vidéo avec swift
-    description: Création d’un jeu sur mobile développé en swift
+    description: Création d’un jeu sur mobile développé en swift.
     image: michael92/projet3.png
     link: https://openclassrooms.com/fr/projects/59/assignment
-    finished: false
+    finished: true
 ---
