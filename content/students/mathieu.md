@@ -41,17 +41,17 @@ projects:
     image: mathieu_project1.jpg
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: false
 
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: mathieu_projet1_communaute
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: true
+    finished: false
 
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: mathieu_projet1_presentation
     link: https://www.github.com
-    finished: true
+    finished: false
 ---
