@@ -8,19 +8,19 @@ title: ulrich
 
 # First name or full name
 name: Ulrich
-date: 2016-10-28 17:20
+date: 2020-04-10 11:15
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées.
+objective: Me perfectionner sur la technologie "python" pour répondre à des besoins spécifiques.
+short_description: Je cherche constamment les nouveaux défis qui me permettront de croitre dans mon apprentissage .
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
     Je m'appelle Ulrich , j'ai 32 ans , passionné par l'informatique depuis de nombreuses années ,
-	j'ai pu évoluer dans un domaine qui me passionne. 
-	J'ai maintenant de nouveaux objectifs que je suis déterminé à atteindre. 
+    j'ai pu évoluer dans un domaine qui me passionne.
+    J'ai maintenant de nouveaux objectifs que je suis déterminé à atteindre.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -33,14 +33,20 @@ public: False
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
-    image: ulrich/projet1.png
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: ulrich/projet_01.png
+    link: https://www.linkedin.com/in/ulrich-franchinard-230a55b7/
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ulrich/projet2.png
+    image: ulrich/projet_02.png
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ulrich/projet3.jpg
+    image: ulrich/projet_03.jpg
+    link: https://www.github.com
     finished: false
 ---
