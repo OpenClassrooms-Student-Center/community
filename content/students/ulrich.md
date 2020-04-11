@@ -43,6 +43,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git. 
     image: ulrich/projet_02.PNG
+	link: https://github.com/ulrich24/community
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
