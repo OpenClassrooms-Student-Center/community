@@ -223,9 +223,10 @@ class RandomTest(unittest.TestCase):
     def test_meta_is_ok(self):
         """Test si les meta sont bien présente sur chaque fichier"""
         files = os.listdir("content/students")
-        markdowns = list(
-            filter(lambda file: file.lower().endswith(".md"), files)
-        )
+        markdowns = [file for file in files if file.lower().endswith(".md")]
+        non_markdowns = [
+            file for file in files if not file.lower().endswith(".md")
+        ]
 
         # uncomment to list all wrong files
         # for md_file in sorted(markdowns):
@@ -237,6 +238,12 @@ class RandomTest(unittest.TestCase):
 
         for md_file in sorted(markdowns):
             self.student_file(md_file)
+
+        for non_md_file in sorted(non_markdowns):
+            self.assertTrue(
+                non_md_file.lower().endswith(".md"),
+                msg="Only markdown files must be found in .content/students/",
+            )
 
 
 # md = markdown.Markdown(extensions=["full_yaml_metadata"])
