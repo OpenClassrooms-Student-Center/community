@@ -181,7 +181,7 @@ class RandomTest(unittest.TestCase):
         self.meta_check_instance_type(filename, meta, "projects", list)
         projects = meta["projects"]
         self.assertTrue(
-            len(projects) >= 3,
+            len(projects) >= 2,
             msg="not enough project in {} (must be greater or equal than 3)".format(
                 filename
             ),
