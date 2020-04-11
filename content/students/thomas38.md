@@ -34,8 +34,10 @@ template: students
 
 description:
 
-    J'ai 21 ans je vis sur Grenoble j'aime autant les montagnes que l'informatique c'est à dire beaucoup,
-	je suis fan de l'environnement de la pomme voila pourquoi j'ai choisis le swift.
+    J'ai 21 ans je vis sur Grenoble j'aime autant 
+	les montagnes que l'informatique c'est à dire beaucoup,
+	je suis fan de l'environnement 
+	de la pomme voila pourquoi j'ai choisis le swift.
 
 
 # image must be located in content/images/students
