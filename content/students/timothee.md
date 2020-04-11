@@ -44,7 +44,7 @@ projects:
     image: timothee/projet_2.png
     link: https://github.com/Linocent/community
     finished: true
-   - title: Aidez MacGyver à sortir !
+  - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: timothee/projet_2.png
     link: https://github.com/Linocent/community
