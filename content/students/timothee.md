@@ -42,11 +42,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: timothee/projet_2.png
-    link: https://github.com/Linocent
+    link: https://github.com/OpenClassrooms-Student-Center/community
     finished: true
    - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: timothee/projet_2.png
     link: https://www.github.com
-    finished: false 
+    finished: https://github.com/Linocent
 ---
