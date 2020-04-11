@@ -115,7 +115,7 @@ class RandomTest(unittest.TestCase):
         self.meta_check_instance_type(filename, meta, "date", str)
         self.assertIsNotNone(
             time.strptime(meta["date"], "%Y-%m-%d %H:%M"),
-            msg="date in {} aren't good format".format(filename),
+            msg="Date in {} isn't in good format".format(filename),
         )
 
         self.meta_check_instance_type(
@@ -123,7 +123,7 @@ class RandomTest(unittest.TestCase):
         )
         self.assertTrue(
             len(meta["short_description"]) <= 100,
-            msg="Short description project must be lower than or equal to 100 characters in {}".format(
+            msg="Short description must be lower than or equal to 100 characters in {}".format(
                 filename
             ),
         )
@@ -135,7 +135,7 @@ class RandomTest(unittest.TestCase):
         )
         self.assertTrue(
             len(meta["description"]) <= 500,
-            msg="Description of the project must be lower than or equal to 500 characters in {}".format(
+            msg="Description must be lower than or equal to 500 characters in {}".format(
                 filename
             ),
         )
@@ -143,7 +143,7 @@ class RandomTest(unittest.TestCase):
         self.assertNotIn(
             "lorem ipsum dolor sit amet",
             meta["description"].lower(),
-            msg="Description of the project must not be a lorem ipsum text in {}. Customize it.".format(
+            msg="Description should not be a lorem ipsum text in {}. Customize it.".format(
                 filename
             ),
         )
@@ -170,9 +170,10 @@ class RandomTest(unittest.TestCase):
         imagename = "./content/images/students/" + meta["image"]
         self.assertTrue(
             os.path.isfile(imagename),
-            msg="Image given in {} not exist in folder ./contents/images/students".format(
-                filename
-            ),
+            msg=(
+                "Image {} given in {} does not exist "
+                "in folder ./contents/images/students"
+            ).format(meta["image"], filename),
         )
 
         self.meta_check_instance_type(filename, meta, "public", bool)
@@ -181,8 +182,8 @@ class RandomTest(unittest.TestCase):
         self.meta_check_instance_type(filename, meta, "projects", list)
         projects = meta["projects"]
         self.assertTrue(
-            len(projects) >= 2,
-            msg="not enough project in {} (must be greater or equal than 3)".format(
+            len(projects) >= 3,
+            msg="Not enough projects in {} (must be greater or equal than 3)".format(
                 filename
             ),
         )
@@ -194,7 +195,7 @@ class RandomTest(unittest.TestCase):
             )
             self.assertTrue(
                 len(project["description"]) <= 100,
-                msg="Description project must be lower than or equal to 100 characters (project {} in {})".format(
+                msg="Description of project must be lower than or equal to 100 characters (project {} in {})".format(
                     project["title"], filename
                 ),
             )
@@ -205,13 +206,13 @@ class RandomTest(unittest.TestCase):
                 projectImage = "./content/images/students/" + project["image"]
                 self.assertTrue(
                     project["image"].startswith(student_file_name),
-                    msg="Image given in project {} in file {} not start with student file name".format(
+                    msg="Image given in project {} in file {} does not start with student file name".format(
                         project["title"], filename
                     ),
                 )
                 self.assertTrue(
                     os.path.isfile(projectImage),
-                    msg="Image given in project {} in file {} not exist in folder ./contents/images/students/{}".format(
+                    msg="Image given in project {} in file {} does not exist in folder ./contents/images/students/{}".format(
                         project["title"], filename, student_file_name
                     ),
                 )
