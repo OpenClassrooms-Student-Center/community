@@ -6,3 +6,7 @@ output/
 env/*
 .idea/
 .vscode/
+.venv/
+.env
+venv/
+env/

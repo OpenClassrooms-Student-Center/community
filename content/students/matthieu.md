@@ -1,6 +1,6 @@
 ---
-title: matthieu_felder
-name: Felder
+title: matthieu
+name: Matthieu Felder
 date: 2017-06-12 11:50
 objective: Découvrir Python et développer mes compétences.
 short_description: J'aime le cinéma, voyager et bien manger. J'habite à Bordeaux et je débute en Python.
