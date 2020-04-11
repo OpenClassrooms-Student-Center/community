@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: Thomas Timmermans'profile
 
 # First name or full name
 name: Thomas Timmermans
@@ -22,13 +22,13 @@ description:
     Pendant longtemps j'ai pensé faire appel à des prestataires pour réaliser mes projets. 
     Aujourd'hui je pense que cela sera bien plus enrichissant pour moi de réaliser tout cela moi-même.
     Il est temps pour moi de mettre toutes mes idées en pratiques !
-    
+
     "Hello world !"
-    
+
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: thomas.jpg
+image: thomas-t-profile.jpg
 
 # Change this to True when you do you pull request.
 public: False
@@ -39,15 +39,13 @@ projects:
     description: Envie d'en savoir plus sur moi ? Venez faire un tour sur  mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/thomas/project1.png
-    image: thomas/projet_1.png
+    image: thomas/profil-01.png
     link: https://www.linkedin.com/in/thomas-timmermans-19b432111/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté Openclassroom !
     description: Objectif : Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: thomas/projet_2.png
+    image: thomas/profil-github.png
     link: https://openclassrooms-student-center.github.io/presentation/students/thomas.html
     finished: true
-
----
