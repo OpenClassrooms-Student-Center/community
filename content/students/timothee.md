@@ -13,12 +13,12 @@ date: 2020-04-11 13:25
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir developpeur Python
-short_description: Interessé par la prog et en recherche d'une formation je profite du confinement pour me lancer.
+short_description: Interessé par la prog et passioné par l'informatique.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Interessé par la prog et en recherche d'une formation je profite du confinement pour me lancer.
+    Interessé par la prog et passioné par l'informatique.
 	Je souhaite devenir developpeur Python.
 
 # image must be located in content/images/students
@@ -41,7 +41,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pullreques 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des PR. 
     image: timothee/projet_2.png
     link: https://github.com/Linocent/community
     finished: true
