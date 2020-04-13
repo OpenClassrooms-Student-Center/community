@@ -19,13 +19,18 @@ public: True
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même sur le Workplace de OpenClassrooms.
-    image: lomig/projet_1.png
+    image: lomigenfroy/projet_1.png
     link: https://openclassrooms.workplace.com/groups/108172763225648/permalink/526838931359027/
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: lomig/projet_2.png
+    image: lomigenfroy/projet_2.png
     link: https://openclassrooms-student-center.github.io/community/students/
+    finished: true
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: Apprendre les bases de Swift et de la programmation orientée objet.
+    image: lomigenfroy/projet_3.png
+    link: https://github.com/Lomig/FrenchGameFactory
     finished: true
 
 ---
