@@ -12,7 +12,7 @@ template: students
 description:
     J'aime coder, les livres, les jeux vidéo, jouer du piano et manger. Autant vous dire que le monde pourrait s'arrêter de tourner en raison d'une épidémie globale, je ne remarquerais pas la différence !
 
-image: lomigenfroy/lomig.jpg
+image: lomigenfroy.jpg
 
 public: True
 
