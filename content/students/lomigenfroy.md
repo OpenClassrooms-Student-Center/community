@@ -23,7 +23,7 @@ projects:
     link: https://openclassrooms.workplace.com/groups/108172763225648/permalink/526838931359027/
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: Modifier un projet pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: lomigenfroy/projet_2.png
     link: https://openclassrooms-student-center.github.io/community/students/
     finished: true
