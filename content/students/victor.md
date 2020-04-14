@@ -39,7 +39,7 @@ projects:
     finished: true
 
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source.
     image: victor/github.png
     link: https://github.com/2pie/community
     finished: true
