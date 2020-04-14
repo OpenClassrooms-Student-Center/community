@@ -21,7 +21,7 @@ description: Je joue de la clarinette et j'aime les aubergines.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: victor.jpeg
+image: victor.png
 
 # Change this to True when you do you pull request.
 public: True
