@@ -63,7 +63,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: yassine/projet1.jgp
+    image: yassine/projet1.jpg
 
     link: https://www.linkedin.com/in/yassine-westbrook-6692621a4/
 
