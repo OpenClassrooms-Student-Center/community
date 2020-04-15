@@ -24,7 +24,7 @@ description: Je suis inscris chez Openclassrooms sur le parcours Developpeur d'a
 image: pierre-rogier.png
 
 # Change this to True when you do you pull request.
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -36,15 +36,15 @@ projects:
     link: https://www.linkedin.com/in/pierre-rogier-7294b61a5/ 
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: True
   - title: Intégrez la communauté !
     description: Voici mon profil Github. 
     image: pierre-rogier/projet_2.jpg
     link: https://github.com/kissouffle
-    finished: true
+    finished: True
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: pierre-rogier/projet_2.jpg
     link: https://www.github.com
-    finished: false
+    finished: False
 ---
