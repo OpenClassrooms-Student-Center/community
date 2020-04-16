@@ -46,13 +46,13 @@ projects:
   - title: Intégrez la communauté !
     description: Comprendre le fonctionnement de Git, de Github et des pull requests.
     image: angelique/projet_2.png
+    link: https://github.com/fangel19
+    finished: true
+  - title: Forker un projet !
+    description: forker et cloner un projet.
+    image: angelique/projet_3.png
     link: https://github.com/fangel19/community
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
 ---
 
 
