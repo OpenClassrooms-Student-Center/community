@@ -15,7 +15,7 @@ date: 2020-04-15 11:20
 objective: Me former dans le domaine du digital.
 
 # max 100 characters
-short_description: J'aime les loisirs créatifs, les films asiatiques, prendre un verre en terrasse avec mon frère
+short_description: J'aime les films asiatiques, prendre un verre en terrasse avec mon frère
 
 # don't touch that
 template: students
