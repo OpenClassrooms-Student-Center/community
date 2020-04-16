@@ -13,12 +13,12 @@ date: 2020-04-16 14:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre et devenir developpeur d'application sous iOS
-short_description: Actuellement dans customer service agent pour une grande entreprise, je souhaite changer d'orientation
+short_description: Actuellement customer service agent pour une grande entreprise, je souhaite changer d'orientation.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-   Aussi excité que stréssé de decouvrir et d'apprendre plein de nouvelles choses, j'ai décidé d'apprendre le metier de developpeur iOS
+   Excité et stréssé de decouvrir et d'apprendre plein de nouvelles choses, je me forme pour etre developpeur iOS
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
