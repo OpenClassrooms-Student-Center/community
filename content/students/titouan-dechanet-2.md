@@ -36,19 +36,19 @@ projects:
     description: Une présentation de moi-même.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: titouan-dechanet-2/P1_déchanet_titouan/Présentation.png
+    image: titouan-dechanet-2/P1_déchanet_titouan/Présentation.PNG
     link: https://openclassrooms.workplace.com/groups/108172763225648/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: titouan-dechanet-2/P2_déchanet_titouan/GitHub.png
+    image: titouan-dechanet-2/P2_déchanet_titouan/GitHub.PNG
     link: https://github.com/Digoin
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: titouan-dechanet-2/P3_déchanet_titouan/ProjetLabyrinthe
+    image: titouan-dechanet-2/P3_déchanet_titouan/ProjetLabyrinthe.PNG
     link: https://www.github.com
     finished: false
 ---
