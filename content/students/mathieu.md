@@ -38,7 +38,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: mathieu/project1.jpg
-    link: https://github.com/Mathieusc
+    link: https://docs.google.com/spreadsheets/d/1C7SrtYOKeUckA3cnlFoETpQHMhOEnuBcIaeUnt0u1Pk/edit?usp=sharing
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
