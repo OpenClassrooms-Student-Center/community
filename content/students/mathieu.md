@@ -51,5 +51,5 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: mathieu/project3.png
     link: https://github.com/Mathieusc
-    finished: true
+    finished: false
 ---
