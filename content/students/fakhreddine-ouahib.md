@@ -29,9 +29,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-    finished: true
+
   - title: Presentez-vous !
-    
     description: Une presentation de moi-meme et un lien vers mon LinkedIn.
     
     image: fakhreddine-ouahib/projet1.png
@@ -39,8 +38,8 @@ projects:
     link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
     
     finished: true
+
     - title: Presentez-vous !
-    
     description: Une presentation de moi-meme et un lien vers mon LinkedIn.
     
     image: fakhreddine-ouahib/projet1.png
@@ -48,12 +47,13 @@ projects:
     link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
     
     finished: true
+
     - title: Presentez-vous !
-    
     description: Une presentation de moi-meme et un lien vers mon LinkedIn.
     
     image: fakhreddine-ouahib/projet1.png
     
     link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
-    finished: true
+    finished: false
+
 ---
