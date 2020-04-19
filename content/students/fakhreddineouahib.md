@@ -38,4 +38,12 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
+    - title: Présentez-vous !
+    image: fakhreddineouahib/projet1.png
+    link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
+    finished: true
+    - title: Présentez-vous !
+    image: fakhreddineouahib/projet1.png
+    link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
+    finished: true
 ---
