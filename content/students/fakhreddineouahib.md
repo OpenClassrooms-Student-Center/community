@@ -12,13 +12,13 @@ date: 2020-04-18 22:58
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir développeur IOS.
-short_description: Je suis développeur, je souhaite changer de technologie et motivé à la recherche de challenges.
+objective: Devenir developpeur IOS.
+short_description: Je suis developpeur, je souhaite changer de technologie et motive a la recherche de challenges.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je suis actuellement développeur à temps plein mais la technologie que j'utilise ne me plaît pas c'est pour ça j'ai décidé de la changer.
+    Je suis actuellement developpeur a temps plein mais la technologie que j'utilise ne me plait pas et je veux la changer.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -29,8 +29,8 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+  - title: Presentez-vous !
+    description: Une presentation de moi-meme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: fakhreddineouahib/projet1.png
@@ -38,11 +38,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-    - title: Présentez-vous !
+    - title: Presentez-vous !
+    description: Une presentation de moi-meme et un lien vers mon LinkedIn.
     image: fakhreddineouahib/projet1.png
     link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
     finished: true
-    - title: Présentez-vous !
+    - title: Presentez-vous !
+    description: Une presentation de moi-meme et un lien vers mon LinkedIn.
     image: fakhreddineouahib/projet1.png
     link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
     finished: true
