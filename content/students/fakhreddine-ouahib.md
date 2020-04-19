@@ -8,17 +8,17 @@ title: fakhreddine-ouahib
 
 # First name or full name
 name: Fakhreddine
-date: 2020-04-18 22:58
+date: 2016-10-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir developpeur IOS.
-short_description: Je suis développeur, je souhaite changer de technologie et motivé a la recherche de challenges.
+objective: Devenir le meilleur développeur IOS au monde.
+short_description: Passionné par l'univers Appel je suis prêt à apprendre tout ce qui concerne le développement IOS.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je suis actuellement developpeur a temps plein mais la technologie que j'utilise ne me plait pas et je veux la changer.
+    Jeune développeur motivé qui veut changer de technologie pour travail dans ce que j'aime le plus.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -29,31 +29,23 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-
-  - title: Presentez-vous !
-    description: Une presentation de moi-meme et un lien vers mon LinkedIn.
-    
-    image: fakhreddine-ouahib/projet1.png
-    
+  - title: Présentez-vous !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: fakhreddine-ouahib/projet_1.png
     link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
-    
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-
-    - title: Presentez-vous !
-    description: Une presentation de moi-meme et un lien vers mon LinkedIn.
-    
-    image: fakhreddine-ouahib/projet1.png
-    
+  - title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    image: fakhreddine-ouahib/projet_1.png
     link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
-    
     finished: true
-
-    - title: Presentez-vous !
-    description: Une presentation de moi-meme et un lien vers mon LinkedIn.
-    
-    image: fakhreddine-ouahib/projet1.png
-    
-    link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: fakhreddine-ouahib/projet_1.png
+    link: https://www.github.com
     finished: false
-
 ---
