@@ -8,7 +8,7 @@ title: gaelle00
 
 # First name or full name
 name: Ombeline
-date: 2020-04-13 15:00
+date: 2020-04-19 13:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -46,7 +46,7 @@ projects:
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et de Github.
     image: gaelle00/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/gaelle00.html
     finished: true
