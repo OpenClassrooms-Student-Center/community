@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: fakhreddineouahib
+title: fakhreddine-ouahib
 
 # First name or full name
 name: Fakhreddine
@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: fakhreddineouahib.jpg
+image: fakhreddine-ouahib.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -33,19 +33,19 @@ projects:
     description: Une presentation de moi-meme et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: fakhreddineouahib/projet1.png
+    image: fakhreddine-ouahib/projet1.png
     link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
     - title: Presentez-vous !
     description: Une presentation de moi-meme et un lien vers mon LinkedIn.
-    image: fakhreddineouahib/projet1.png
+    image: fakhreddine-ouahib/projet1.png
     link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
     finished: true
     - title: Presentez-vous !
     description: Une presentation de moi-meme et un lien vers mon LinkedIn.
-    image: fakhreddineouahib/projet1.png
+    image: fakhreddine-ouahib/projet1.png
     link: https://www.linkedin.com/in/fakhreddine-o-68921a1a6/
     finished: true
 ---
