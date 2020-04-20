@@ -21,8 +21,7 @@ short_description:
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je suis technicien d'assistance en informatique suite à une formation à l'afpa de Belfort.
-    Pour mon projet professionnel j'ai décidé de vraiment me lancer dans la programmation. Je suis confiant de mon niveau en anglais suite à une licence Anglais/Japonais et n'ayant pas pour ambitions d'enseigner dans les langues  j'ai décidé de me lancer dans une formation OpenclassRooms que je m'auto finance et de débuter une carrière de développeur !
+    Je suis diplomé d'une formation de technicien d'assistance en informatique. Je suis confiant de mon niveau en anglais suite à une licence Anglais/Japonais et j'ai décidé de me lancer dans une formation OpenclassRooms que je m'auto finance et de débuter une carrière de développeur !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
