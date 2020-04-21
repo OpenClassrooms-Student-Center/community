@@ -30,7 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers mon profils Github.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: fakhreddine-ouahib/projet_1.png
@@ -40,12 +40,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git
-    image: fakhreddine-ouahib/projet_2.png
+    image: fakhreddine-ouahib/projet_1.png
     link: https://github.com/devFo1
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: fakhreddine-ouahib/projet_2.png
+  - title: Participer au jeu monPigeonVoyageur !
+    description: Création d’un jeu développé en Swift.
+    image: fakhreddine-ouahib/projet_1.png
     link: https://github.com/devFo1
     finished: false
 ---
