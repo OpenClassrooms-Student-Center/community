@@ -35,7 +35,7 @@ public: True
 projects: 
   - title: Présentez-vous !
     description: Une présentation faite sur Workplace .
-    image: benjamin/projet1.png
+    image: benjamin/Projet1.png
     link: https://openclassrooms.workplace.com/groups/1489841677757902/permalink/3564850440257005/
     finished: true
   - title: Intégrez la communauté !
