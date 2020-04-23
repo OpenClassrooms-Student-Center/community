@@ -18,21 +18,21 @@ objective: Apprendre a coder pour devenir un acteur actif du changement digital 
 short_description: L'informatique étant un domaine en constante évolution ,parfait, j'ai soif de connaissance.
 
 # don't touch that
-template : students
+template: students
 
 # max 500 characters
-description : J'ai 28ans , je suis papa d'une petite fille de 4ans , je suis curieux de toutes choses ,je m'épanoui dans l'apprentissage et la pratique .
+description: J'ai 28ans , je suis papa d'une petite fille de 4ans , je suis curieux de toutes choses ,je m'épanoui dans l'apprentissage et la pratique .
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 # max size: 200ko
-image : benjamin.jpg
+image: benjamin.jpg
 
 # Change this to True when you do you pull request.
-public : True
+public: True
 
 # You need to keep the exact same structure for each new project.
-project : 
+project: 
   - title: Présentez-vous !
     description: Une présentation faite sur Workplace .
     image: benjamin/projet1.png
