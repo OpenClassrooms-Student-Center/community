@@ -33,10 +33,10 @@ public : True
 
 # You need to keep the exact same structure for each new project.
 project : 
-- title: Présentez-vous !
+  - title: Présentez-vous !
     description: Une présentation faite sur Workplace .
     image: benjamin/projet1.png
-    link:https://openclassrooms.workplace.com/groups/1489841677757902/permalink/3564850440257005/
+    link: https://openclassrooms.workplace.com/groups/1489841677757902/permalink/3564850440257005/
     finished: true
   - title: Intégrez la communauté !
     description: Forker et modifier un code source depuis Git Hub et apprendre a utiliser Git
