@@ -21,7 +21,7 @@ short_description: L'informatique étant un domaine en constante évolution ,par
 template : students
 
 # max 500 characters
-descripion : J'ai 28ans , je suis papa d'une petite fille de 4ans , je suis curieux de toutes choses ,je m'épanoui dans l'apprentissage et la pratique .
+description : J'ai 28ans , je suis papa d'une petite fille de 4ans , je suis curieux de toutes choses ,je m'épanoui dans l'apprentissage et la pratique .
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
