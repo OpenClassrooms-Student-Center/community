@@ -32,7 +32,7 @@ image: benjamin.jpg
 public: True
 
 # You need to keep the exact same structure for each new project.
-project: 
+projects: 
   - title: Présentez-vous !
     description: Une présentation faite sur Workplace .
     image: benjamin/projet1.png
