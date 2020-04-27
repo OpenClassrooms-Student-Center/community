@@ -2,7 +2,7 @@
 
 title: quentin
 
-name: Dubut-Touroul Quentin
+name: Quentin
 
 date: 2020-04-11 16:16
 
