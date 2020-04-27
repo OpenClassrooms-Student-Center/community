@@ -43,15 +43,15 @@ projects:
     image: romain-ro/Projet_1.jpg
     link: https://www.github.com
     # 'true' makes it public. If 'false', then it will not show on the website.
-    finished: true
+    finished: True
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: romain-ro/Projet_2.jpg
     link: https://www.github.com
-    finished: true
+    finished: True
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: romain-ro/Projet_3.jpg
     link: https://www.github.com
-    finished: false
+    finished: False
 ---
