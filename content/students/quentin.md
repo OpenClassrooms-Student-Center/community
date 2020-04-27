@@ -16,7 +16,7 @@ description:
     Je fais 1 m 89, chatain, les yeux bleus. Je suis calme, réflechi et spontané, faisant preuves
     d'une grande compétence d'analyse et de critique. Autonome, avec l'esprit d'initiative, je
     respect les régles et fais preuve d'une honnêteté infaillible. Avec ma capacité d'écoute, je suis
-    capable de grande chose en équipe et d'en être un élement moteur. J'aime être bon dans les
+    capable de grande chose en équipe et d'en être un élement moteur . J'aime être bon dans les
     domaines que j'aime et notamment dans le métier que je veux exercer.
 
 image: quentin.jpg
