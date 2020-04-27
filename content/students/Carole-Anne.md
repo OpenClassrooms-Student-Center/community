@@ -1,16 +1,15 @@
-----
-
- # FILENAME : please use your OpenClassrooms's name, available in your url.
+---
+# FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: Carole-Anne
 
- # First name or full name
+# First name or full name
 name: Carole-Anne
 date: 2020-04-21 14:30
 
- # One line.
+# One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Réussir ma formation.
 short_description: Je me suis inscrite dans cette formation parce que j'aime iOS.
