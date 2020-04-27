@@ -30,7 +30,7 @@ projects:
 
     description: Mise en place du planning de formation, définition des objectifs et présentation WorkPlace.
     
-    image: quentin/projet_1.png
+    image: quentin/projet_01.png
     
     link: https://www.linkedin.com/in/quentin-dubut-touroul-40a83513b/
 
@@ -40,7 +40,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: quentin/projet_2.png
+    image: quentin/projet_02.png
 
     link: https://github.com/nerangel
 
