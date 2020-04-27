@@ -40,18 +40,18 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: romain-ro/Projet_1.jpg
-    link: https://fr.linkedin.com/
+    image: Projet_1.jpg
+    link: https://www.github.com
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: romain-ro/Projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/romain.html
+    image: Projet_2.jpg
+    link: https://www.github.com
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: romain-ro/Projet_3.jpg
+    image: Projet_3.jpg
     link: https://www.github.com
     finished: false
 ---
