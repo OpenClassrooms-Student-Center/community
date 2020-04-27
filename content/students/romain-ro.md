@@ -7,7 +7,7 @@
 title: romain-ro
 
 # First name or full name
-name: Romain-ro
+name: romain-ro
 date: 2020-04-27 17:20
 
 # One line.
