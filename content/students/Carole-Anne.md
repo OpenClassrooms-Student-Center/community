@@ -18,12 +18,12 @@ short_description: Je me suis inscrite dans cette formation parce que j'aime iOS
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    e me suis inscrite dans cette formation, je me lance pour apprendre de nouvelles choses.
+    Je me suis inscrite dans cette formation, je me lance pour apprendre de nouvelles choses.
 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Carole-Anne.jpg
+image: Carole-Anne.jpeg
 
 # Change this to True when you do you pull request.
 public: True
