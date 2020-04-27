@@ -1,6 +1,6 @@
 ---
 
-title: quentin-dubut-touroul
+title: quentin
 
 name: Dubut-Touroul Quentin
 
