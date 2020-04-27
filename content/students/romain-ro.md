@@ -48,7 +48,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: romain-ro/Projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/romain.html
-    finished: False
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: romain-ro/Projet_3.jpg
