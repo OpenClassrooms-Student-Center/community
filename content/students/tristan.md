@@ -79,7 +79,7 @@ projects:
 
     image: tristan/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/tristan.html
+    link: https://openclassrooms-student-center.github.io/community/students/tristan.html
 
     finished: false
 
