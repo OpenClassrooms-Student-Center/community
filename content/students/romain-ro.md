@@ -42,13 +42,13 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: romain-ro/projet_1.png
-    link: https://www.github.com
+    link: https://fr.linkedin.com/
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: comprendre le fonctionnement de Git, de Github et des pull requests.
     image: romain-ro/projet_2.png
-    link: https://www.github.com
+    link: https://github.com/Romderful/community
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
