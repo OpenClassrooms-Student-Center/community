@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: hacker0uvert
+title: tristan
 
 
 # First name or full name
@@ -25,7 +25,7 @@ date: 2020-04-29 14:23
 
 objective: Passer du côté obscur de la force après une dizaine d'années côté systèmes
 
-short_description: J'aime voyager, randonner, le VTT, l'informatique, tout ce qui agit les neurones et le reste
+short_description: J'aime voyager, randonner, le VTT, l'informatique, tout ce qui agite le corps et l'esprit
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -57,15 +57,15 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et un lien vers mon GitHub.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: tristan/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://github.com/hacker0uvert
 
     # 'true' makes it fully available.
 
@@ -77,17 +77,17 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: tristan/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/tristan.html
 
-    finished: true
+    finished: false
 
   - title: Aidez MacGyver à sortir !
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: ratus/projet_3.png
+    image: tristan/projet_3.png
 
     link: https://www.github.com
 
