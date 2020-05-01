@@ -92,9 +92,9 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: manuo1/projet_3.png
+    image: manuo1/projet_3_01.png
 
-    link: https://www.github.com
+    link: https://github.com/manuo1/MacGyver_Mo1
 
     finished: true
 
