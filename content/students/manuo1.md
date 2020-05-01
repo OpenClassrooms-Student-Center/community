@@ -67,8 +67,6 @@ projects:
 
     image: manuo1/projet_1_01.png
 
-    image: manuo1/projet_1_02.png
-
     link: https://openclassrooms.workplace.com/groups/108172763225648/permalink/537233846986202/
 
     # 'true' makes it fully available.
@@ -82,9 +80,8 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests.
 
     image: manuo1/projet_2_01.png
-    image: manuo1/projet_2_02.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/manuo1.html
+    link: https://github.com/manuo1/community
 
     finished: true
 
