@@ -55,4 +55,4 @@ fonctionnement de GIT, de Github et des pull requests.
 
  
 
-**finished:** true
+**finished:** *true*
