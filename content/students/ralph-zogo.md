@@ -35,14 +35,13 @@ projects:
     link: https://openclassrooms.com/fr/membres/ralph-zogo
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre lefonctionnement de GIT, 
-    de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de GIT, de Github et des pull requests.
     image: ralph-zogo/Projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/community 
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: ralph-zogo/projet_3.png
     link: https://www.github.com
     finished: false
 ---
