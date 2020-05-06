@@ -34,7 +34,8 @@ projects:
     link: https://openclassrooms.com/fr/membres/ralph-zogo
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de GIT, de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de GIT,
+    de Github et des pull requests.
     image: ralph-zogo/Projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/community 
     finished: true
