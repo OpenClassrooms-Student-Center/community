@@ -18,7 +18,9 @@ short_description: Je suis un homme simple qui aime les choses simples.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description: 
-    Je m’appelle ZOGO AYENE Ralph, j’ai 32 ans et je suis légionnaire. 
+    Je m’appelle ZOGO AYENE Ralph, j’ai 32 ans et je suis un militaire en service
+    au sein de la Légion Etrangère. En quête de reconversion, c'est dans cette optique
+    que je me suis intéressé à la formation de développeur d'applications Python. 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: ralph-zogo.png
