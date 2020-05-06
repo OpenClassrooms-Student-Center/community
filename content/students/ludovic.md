@@ -25,7 +25,7 @@ description:
 image: ludovic.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -43,3 +43,8 @@ projects:
     image: ludovic/project2.png
     link: https://github.com/framboises
     finished: true
+  - title: Aidez MacGyver à s'échapper !
+    description: Un fil, du scotch et un tube, je vous en fait un tank.
+    image: ludovic/project3.png
+    link: https://github.com/framboises/project_3
+    finished: false
