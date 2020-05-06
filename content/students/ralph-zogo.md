@@ -12,7 +12,7 @@ description:
       Dans la perspective d’une reconversion, 
       je me suis intéressé à la formation dispensée par OPENCLASSROOM de développeur d’applications Python/Django.
 image: ralph-zogo/Projet_1.png
-public: True
+public: true
 
  
 
