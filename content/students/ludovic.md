@@ -33,13 +33,13 @@ projects:
     description: Passionné par l'informatique, je redécouvre mes amours de jeunesses au service de mon métier.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: ludovic/projet1.png
+    image: ludovic/project1.png
     link: https://www.linkedin.com/in/ludovic-arnault/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Découverte longue mais très intéressante de Github.
-    image: ludovic/projet2.png
+    image: ludovic/project2.png
     link: https://github.com/framboises
     finished: true
