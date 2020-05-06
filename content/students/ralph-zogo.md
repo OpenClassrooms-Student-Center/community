@@ -30,6 +30,7 @@ public: True
 projects:
   - title: Présentez-vous !
     description: Je m’appelle ZOGO AYENE Ralph,j’ai 32 ans et je suis légionnaire.
+    image: ralph-zogo/Projet_1.png
     link: https://openclassrooms.com/fr/membres/ralph-zogo
     finished: true
   - title: Intégrez la communauté !
