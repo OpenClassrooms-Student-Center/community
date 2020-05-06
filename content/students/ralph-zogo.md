@@ -15,7 +15,6 @@ image: ralph-zogo/Projet_1.png
 public: true
 
  
-
 projects:
   - title: Présentez-vous !
     description: Je m’appelle ZOGO AYENE Ralph,
