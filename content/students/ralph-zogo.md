@@ -2,10 +2,9 @@
 
 title: ralph-zogo
 
-name: Ralph
+name: ralph
 date: 2020-05-06 13:06
 
----
 objective: En quête de reconversion, je veux m'orienter vers le développement informatique.
 
 short_description: Je suis un homme simple qui aime les choses simples.
