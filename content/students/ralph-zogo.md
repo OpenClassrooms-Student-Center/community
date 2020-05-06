@@ -17,12 +17,8 @@ short_description: Je suis un homme simple qui aime les choses simples.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-    Je m’appelle ZOGO AYENE Ralph, j’ai 32 ans
-    et actuellement je suis sur contrat 
-    au sein du 2ème Régiment Etranger de génie basé dans la ville de Saint-Christol.
-    Dans la perspective d’une reconversion, je me suis intéressé 
-    à la formation dispensée par OPENCLASSROOM de développeur d’applications Python/Django.
+description: 
+    Je m’appelle ZOGO AYENE Ralph, j’ai 32 anset actuellement je suis sur contrat au sein du 2ème Régiment Etranger de génie basé dans la ville de Saint-Christol. Dans la perspective d'une reconversion, je me suis intéressé à la formation dispensée par OPENCLASSROOM de développeur d’applications Python/Django.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -34,9 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project. 
 projects:
   - title: Présentez-vous !
-    description: Je m’appelle ZOGO AYENE Ralph,j’ai 32 ans et actuellement je suis sur contrat 
-    au sein du 2ème Régiment Etranger de génie basé dans la ville de Saint-Christol. 
-    Dans la perspective d’une reconversion, je me suis intéressé à la formation dispensée par OPENCLASSROOM de développeur d’applications Python/Django.
+    description: Je m’appelle ZOGO AYENE Ralph,j’ai 32 ans et actuellement je suis sur contrat au sein du 2ème Régiment Etranger de génie basé dans la ville de Saint-Christol.Dans la perspective d’une reconversion, je me suis intéressé à la formation dispensée par OPENCLASSROOM de développeur d’applications Python/Django.
     image: ralph-zogo/Projet_1.png
     link: https://openclassrooms.com/fr/membres/ralph-zogo
     finished: true
