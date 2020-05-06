@@ -81,7 +81,7 @@ projects:
 
     link: https://openclassrooms-student-center.github.io/community/students/tristan.html
 
-    finished: false
+    finished: true
 
   - title: Aidez MacGyver à sortir !
 
