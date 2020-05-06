@@ -29,12 +29,12 @@ public: True
 # You need to keep the exact same structure for each new project. 
 projects:
   - title: Présentez-vous !
-    description: Je m’appelle ZOGO AYENE Ralph,j’ai 32 ans et je suis légionnaire.
+    description: Présentation et planning d'apprentissage.
     image: ralph-zogo/Projet_1.png
     link: https://openclassrooms.com/fr/membres/ralph-zogo
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de GIT, de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de GIT et Github.
     image: ralph-zogo/Projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/community 
     finished: true
