@@ -18,7 +18,7 @@ short_description: Se renouveller et prendre un nouveau depart. Apprendre switft
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Thibault, 29 ans. J'ai toujours ete interesse par le dommaine de l'informatique, comprendre les actions et les mecaniques des applications.
+    Thibault, 29 ans. Interesse par le dommaine de l'informatique.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
