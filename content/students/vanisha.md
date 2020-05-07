@@ -18,7 +18,7 @@ short_description: J'apprends à coder pour pouvoir travailler dans ce domaine.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je m'appelle Vanisha , j'ai 23 ans.	Ayant suivis une formation en développement web, je me tourne vers cette formation pour accroitre mes connaissances, et apprendre de nouvelles choses.
+    Je m'appelle Vanisha , j'ai 23 ans.	Ayant suivis une formation en développement web, je me tourne vers cette formation pour accroitre mes connaissances.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -39,7 +39,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet OpenSource pour comprendre le fonctionnement de Git,de Github et des pullreques 
     image: vanisha/projet2.png
     link: https://github.com/VanishaB/community
     finished: true
