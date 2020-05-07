@@ -38,13 +38,13 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre Git, Github et les pr 
     image: tjulliand/projet_2.png
     link: https://github.com/tjulliand
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Créez votre premier jeu vidéo avec Swift !
     image: tjulliand/projet_3.png
-    link: https://www.github.com
+    link: https://openclassrooms.com/fr/projects/59/assignment
     finished: false
 ---
