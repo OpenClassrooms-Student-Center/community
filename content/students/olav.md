@@ -1,4 +1,4 @@
-o---
+---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -30,27 +30,27 @@ description:
 image: olav.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
     # max 100 characters
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: N'ayant pas de compte LinkedIn, je vous emmène vers mon profile FB
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: olav/projet_1.png
+    link: https://www.facebook.com/olavdunord
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: olav/project_2.png
+    link: https://github.com/olavdunord/community
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+    image: olav/projet_3.png
+    link: 
     finished: false
 ---
