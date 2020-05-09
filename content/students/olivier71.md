@@ -27,7 +27,7 @@ description:
 image: linux_python.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -48,6 +48,6 @@ projects:
   - title: Aidez MacGyver Ã  sortir !
     description: CrÃ©ation dâun jeu dÃ©veloppÃ© en Python et utilisant PyGame.
     image: olivier71/projet_3.png
-    link: https://www.github.com
-    finished: false
+    link: https://www.github.com    
+    finished: true
 ---
