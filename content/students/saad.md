@@ -38,4 +38,22 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
+  - title: Work in Progress !
+    description: Future projects will show up here !
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: saad/projet_2.png
+    link: https://github.com/saadyousfi/
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    finished: false
+  - title: Not avaiblable yet !
+    description: This is not the projet you are looking for !
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: saad/projet_3.png
+    link: https://github.com/saadyousfi/
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    finished: false
 ---
