@@ -39,7 +39,7 @@ projects:
     description: N'ayant pas de compte LinkedIn, je vous emmène vers mon profile FB
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: olav/projet_1.png
+    image: olav/project_1.png
     link: https://www.facebook.com/olavdunord
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
