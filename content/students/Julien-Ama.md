@@ -41,7 +41,7 @@ projects:
     image: projet_1.PNG
     link: https://www.linkedin.com/feed/
     # 'true' makes it public. If 'false', then it will not show on the website.
-    finished: true
+    finished: False
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: projet_2.PNG
