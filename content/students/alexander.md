@@ -2,17 +2,17 @@
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
-# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
-# lowercase, no blank space, Capital case or special character.
-title: alexander
+# must be the name of your file. If file name is celinemartinet md title is celinemartinet.
+# lowercase no blank space Capital case or special character
+title alexander
 
 # First name or full name
-name: alexander
-date: 2020-05-09 15:00
+name alexander
+date 2020-05-09 15:00
 
 # One line.
-# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: M adapter au temps qui change
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'
+objective M adapter au temps qui change
 short_description: pour m adapter au monde qui change et qui se dirige vers une nouvelle ere
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -31,14 +31,14 @@ public true
 projects
   - title Presentez vous 
     description Une présentation de moi-même et un lien vers mon LinkedIn 
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/images/students/yourrepo/project1.png
-    image: Projet 1.jp2
+    # Create a new repository for your images Name it the same as your nickname and profile picture
+    # Image must be here content/images/students/yourrepo/project1.png
+    image Projet 1.jp2
     link https://fr.linkedin.com/in/nys-alexander-3638281a9?trk=public_profile_samename_profile_profile-result-card_result-card_full-click
     # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC
     finished true
-  - title Intégrez la communauté !
+  - title Intégrez la communaute
     description Modifier un projet Open Source pour comprendre le fonctionnement de Git de Github et des PR
     image Projet 2.jp2
     link https://github.com/ThOnizuka/community 
