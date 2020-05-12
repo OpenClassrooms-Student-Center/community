@@ -44,7 +44,12 @@ projects:
     link: https://github.com/framboises
     finished: true
   - title: Aidez MacGyver à s'échapper !
-    description: Un fil, du scotch et un tube, je vous en fait un tank.
+    description: Un fil, du scotch et un tube, je vous en fais un tank.
     image: ludovic/project3.png
     link: https://github.com/framboises/project_3
+    finished: true
+  - title: Analyser les besoins d'un client
+    description: Réaliser un dossier de spécifications fonctionnelles.
+    image: ludovic/project4.png
+    link: https://github.com/framboises/project_4
     finished: false
