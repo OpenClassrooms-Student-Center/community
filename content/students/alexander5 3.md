@@ -17,9 +17,8 @@ short_description: pour m adapter au monde qui change et qui se dirige vers une 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: je m appelle alexander j ai 23 ans et suite a l evolution numerique
+description je m appelle alexander j ai 23 ans et suite a l evolution numerique
 j ai decide de m adapter au monde qui change et qui se dirige vers une nouvelle ere
-
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: alexander5.jpg
