@@ -36,19 +36,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: project1.png
+    image: cleliofavocciaproject1.png
     link: https://www.linkedin.com/in/cl%C3%A9lio-favoccia-2278bb9b/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: project2.png
+    image: cleliofavocciaproject2.png
     link: https://github.com/cleliofavoccia
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: project3.png
+    image: cleliofavocciaproject3.png
     link: https://github.com/cleliofavoccia
     finished: false
 ---
