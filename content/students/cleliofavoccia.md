@@ -18,7 +18,7 @@ short_description: Je souhaite participer à des projets innovants et d'utilité
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Exerçant en tant que professeur de guitare, j’ai découvert l’informatique en développant deux sites internet et la mécanique de la programmation m'interesse beaucoup!
+    La mécanique de la programmation m’intéresse beaucoup!
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
