@@ -18,10 +18,7 @@ short_description: Je souhaite participer à des projets innovants et d'utilité
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Exerçant en tant que professeur de guitare, j’ai découvert l’informatique en développant deux sites internet 
-	via Wordpress/Woocommerce, un pour une association de musique, et un deuxième pour une jeune marque de thé. 
-	Les possibilités qu’offrent le développement informatique sont très passionnantes 
-	et je souhaiterais explorer davantage ce domaine. 
+    Exerçant en tant que professeur de guitare, j’ai découvert l’informatique en développant deux sites internet et la mécanique de la programmation m'interesse beaucoup!
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
