@@ -13,12 +13,11 @@ date: 2020-05-12 10:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Concevoir et développer des applications web/logiciels.
-short_description: Je souhaite participer à des projets innovants et d'utilité publique en start-up ou associations.
+short_description: Je souhaite participer à des projets innovants.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-    La mécanique de la programmation m’intéresse beaucoup!
+description: La mécanique de la programmation m’intéresse beaucoup!
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
