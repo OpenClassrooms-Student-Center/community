@@ -12,11 +12,12 @@ date: 2020-05-14 14:06
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Je souhaite donc aujourd’hui me spécialiser en iOS et peut-être devenir à l’avenir free-lance.
-short_description: J'aime la technologie depuis toujours, je souhaite travailler dans ce domaine. 
+short_description:
+    J'aime la technologie depuis toujours, je souhaite travailler dans ce domaine.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
+short_description:
     Je m'appelle Rudy, j'ai 26 ans, suite a un parcours d'étude et de travail compliquer, je suis ici afin de pouvoir développer de nouvelles compétences. Si possible, j'aimerais pouvoir travailler en free-lance afin d'être libre dans ma vie professionnelle.
 
 # image must be located in content/images/students
