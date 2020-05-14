@@ -19,6 +19,7 @@ short_description: J'aime la technologie depuis toujours, je souhaite travailler
 template: students
 short_description:
     Je m'appelle Rudy, j'ai 26 ans, suite a un parcours d'étude et de travail compliquer, je suis ici afin de pouvoir développer de nouvelles compétences. Si possible, j'aimerais pouvoir travailler en free-lance afin d'être libre dans ma vie professionnelle.
+    
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: rudy.png
