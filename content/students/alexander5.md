@@ -7,7 +7,7 @@
 title: alexander5
 
 # First name or full name
-name: Alexandre
+name: alexander5
 date: 2020-05-17 15:09
 
 # One line.
@@ -32,19 +32,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon linkedIn
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Projet 1.jp2
+    image: alexander5/Projet1.jp2
     link: https://fr.linkedin.com/in/nys-alexander-3638281a9?trk=public_profile_samename_profile_profile-result-card_result-card_full-click
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des PR. 
-    image: Projet 2.jp2
+    image: alexander5/Projet2.jp2
     link: https://github.com/ThOnizuka/community 
     finished: true
   - title: creer votre premier jeu video avec swift
     description: Création d un jeu developpe en swift et en utilisant xcode
-    image: projet3.jp2
+    image: alexander5/Projet3.jp2
     link: https://www.github.com
     finished: false
 ---
