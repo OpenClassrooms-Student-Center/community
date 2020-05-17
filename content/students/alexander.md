@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: alexander
+title alexander
 
 # First name or full name
 name alexander
@@ -33,12 +33,12 @@ projects
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here content/images/students/yourrepo/project1.png
     image alexander
-    link: https://fr.linkedin.com/in/nys-alexander-3638281a9?trk=public_profile_samename_profile_profile-result-card_result-card_full-click
+    link https://fr.linkedin.com/in/nys-alexander-3638281a9?trk=public_profile_samename_profile_profile-result-card_result-card_full-click
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished true
   - title Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des PR. 
+    description Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des PR. 
     image: alexander
     link https://github.com/ThOnizuka/community 
     finished true
