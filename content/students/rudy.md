@@ -43,4 +43,10 @@ projects:
     image: rudy/projet_2.png
     link: https://github.com/Rudy-zev/community
     finished: true
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: Composé de deux joueurs, en utilisant le terminal. 
+    image: rudy/projet_3.png
+    link: https://github.com/Rudy-zev/community
+    finished: true
+
 ---
