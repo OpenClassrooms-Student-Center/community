@@ -19,7 +19,7 @@ short_description: 27 ans, actuellement assistante de direction.
 template: students
 description:
     J'ai plusieurs passions qui m'amènent à utiliser régulièrement des outils
-    informatiques: composition musicale en MAO, montage vidéo... Le développe-
+    informatiques, composition musicale en MAO, montage vidéo... Le développe-
     ment m'attire également. Je serai ravie à l'idée de créer au final des
     applications qui accompagneront les personnes dans leur quotidien.
 
