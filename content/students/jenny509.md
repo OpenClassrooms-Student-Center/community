@@ -18,7 +18,7 @@ short_description: J'aime la vie et l'informatique. Chanter est ma façon de m'e
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-J'ai 24 ans, je vis en région parisienne. 
+    J'ai 24 ans, je vis en région parisienne. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
