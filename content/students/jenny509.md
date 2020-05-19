@@ -33,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: jenny509/projet1.png
+    image: jenny509/projet1.PNG
     link: https://www.linkedin.com/in/jennifer-charlestin-42ab56173/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git/Github et des pull requests 
-    image: jenny509/projet2.png
+    image: jenny509/projet2.PNG
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: jenny509/projet3.png
+    image: jenny509/projet3.PNG
     link: https://www.github.com
     finished: false
 ---
