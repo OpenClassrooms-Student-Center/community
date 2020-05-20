@@ -48,7 +48,7 @@ projects:
 
   - title: Aidez MacGyver à sortir !
 
-    description: Création d’une jeu développé en Python et utilisant PyGame.
+    description: Création d’un jeu développé en Python et utilisant PyGame.
 
     image: quentin/projet_03.png
 
