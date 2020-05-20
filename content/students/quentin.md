@@ -48,12 +48,22 @@ projects:
 
   - title: Aidez MacGyver à sortir !
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Création d’une jeu développé en Python et utilisant PyGame.
 
     image: quentin/projet_03.png
 
-    link: https://www.github.com
+    link: https://github.com/nerangel/P3-HelpMacGyver.git
+
+    finished: true
+
+  - title: Analysez les besoins d'un groupe de pizzerias
+  
+    description: Définir et rédiger les besoins d'un client.
+
+    image: quentin/projet_04.png
+
+    link: https://github.com/
 
     finished: false
 
----
+--- 
