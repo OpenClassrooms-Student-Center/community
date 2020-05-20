@@ -57,7 +57,7 @@ projects:
     finished: true
 
   - title: Analysez les besoins d'un groupe de pizzerias
-  
+
     description: Définir et rédiger les besoins d'un client.
 
     image: quentin/projet_04.png
@@ -66,4 +66,4 @@ projects:
 
     finished: false
 
---- 
+---
