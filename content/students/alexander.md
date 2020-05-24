@@ -44,10 +44,9 @@ projects:
     image: alexander/projet2.png
     link: https://github.com
     finished: true
-  title: swift 
+  - title: swift 
     description: creer avec swift 
     image: alexander/projet3.png
     link: https://www.github.com
     finished: false
----
 ---
