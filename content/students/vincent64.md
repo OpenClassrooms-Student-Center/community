@@ -7,8 +7,8 @@
 title: vincent64
 
 # First name or full name
-name: Vincent 
-date: 2020-05-19
+name: Vincent
+date: 2020-05-24
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -28,20 +28,24 @@ image: vincent64.png
 public: True
 
 # You need to keep the exact same structure for each new project.
+projects:
   - title: Présentez-vous !
     description: Je m'appelle Vincent, j'ai 27 ans et je suis le parcours Python.
-   # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: vincent64/projet1.png
     link: 
-
-# 'true' makes it fully available.
-# 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: vincent64/projet2.png
     link: 
     finished: true
-  
----# ProjetOpenSource
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: 
+    link: https://www.github.com
+    finished: false
+---
