@@ -34,19 +34,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: alexander/Projet1
+    image: alexander/Projet1.jp2
     link: https://fr.linkedin.com/in/nys-alexander-3638281a9?trk=public_profile_samename_profile_profile-result-card_result-card_full-click
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: alexander/Projet2
+    image: alexander/Projet2.jp2
     link: https://github.com/ThOnizuka/community 
     finished: true
   - title: creer un jeux avec swift
     description: creer un jeux avec swift
-    image: alexander/Projet3
+    image: alexander/Projet3.jp2
     link: https://github.com/ThOnizuka/community
     finished: false
 ---
