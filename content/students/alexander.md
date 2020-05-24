@@ -44,7 +44,7 @@ projects:
     image: alexander/Projet2.jp2
     link: https://github.com/ThOnizuka/community 
     finished: true
-  - title: creer un jeux avec swift
+  - title: creer en jeux avec swift
     description: creer un jeux avec swift
     image: alexander/Projet3.jp2
     link: https://github.com/ThOnizuka/community
