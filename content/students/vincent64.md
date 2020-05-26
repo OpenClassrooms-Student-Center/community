@@ -8,7 +8,7 @@ title: vincent64
 
 # First name or full name
 name: Vincent
-date: 2020-05-25
+date: 2020-05-25 22:40
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -18,7 +18,7 @@ short_description: J'aime le voyage, et l'entrepreneuriat.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je m'appelle Vincent et j'ai 27 ans. Je travaille dans un domaine viticole au Canada. Je me suis inscrit sur le parcours Python pour réaliser des projets.
+    Je m'appelle Vincent et j'ai 27 ans. Je travaille dans un domaine viticole au Canada. Je me suis inscrit sur le parcours Python pour réaliser des projets dans le futur.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
