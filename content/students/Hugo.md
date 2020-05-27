@@ -33,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Hugo/project_1.png
+    image: Hugo/project1.PNG
     link: https://www.linkedin.com/in/hugo-duch%C3%AAne-401b751aa/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Hugo/project_2.png
+    image: Hugo/project2.png
     link: https://github.com/hugoduchene?tab=repositories
     finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: Hugo/project_3.png
+    image: Hugo/project3.png
     link: https://github.com/hugoduchene?tab=repositories
     finished: false
 ---
