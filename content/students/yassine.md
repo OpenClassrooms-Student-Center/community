@@ -34,9 +34,7 @@ template: students
 
 description:
 
-    Hello, moi c'est Yassine, j'ai 24ans. Je commence cette formation pour approfondir mes connaissances en python
-
-    et travailler dans la data. Je suis en reconversion proffessionnel.
+    Hello, moi c'est Yassine, j'ai 24ans. Je commence cette formation pour approfondir mes connaissances.
 
 
 # image must be located in content/images/students
@@ -75,7 +73,7 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git.
 
     image: yassine/projet2.jpg
 
