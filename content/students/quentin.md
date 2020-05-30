@@ -62,7 +62,17 @@ projects:
 
     image: quentin/projet_04.png
 
-    link: https://github.com/
+    link: https://github.com/nerangel/
+
+    finished: true
+
+  - title: Utilisez les données publiques de l'OpenFoodFacts
+
+    description: Créer un programme qui interagirait avec la base Open Food Facts
+
+    image: quentin/projet_05.png
+
+    link: https://github.com/nerangel/P5-OpenFoodFacts.git
 
     finished: false
 
