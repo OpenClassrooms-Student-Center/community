@@ -22,12 +22,7 @@ template: students
 
 # max 500 characters
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je m'appelle Yoann et j'ai 27 ans, je suis actuellement consultant fonctionnel sur Office 365 mais j'aimerais me reconvertir dans un domaine qui me passionne un peu plus à savoir celui du développement d'application !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
