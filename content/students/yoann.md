@@ -4,15 +4,15 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: yoann
+title: ratus
 
 # First name or full name
 name: Yoann
-date: 2020-06-04 08:30
+date: 2020-06-04 10:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Reconversion en tant que développeur d'application
+objective: Reconversion en tant que développeur d'application.
 
 # max 100 characters
 short_description: J'aime le dev et les jeux-vidéos. J'apprends le développement pour pouvoir en faire mon métier.
@@ -39,18 +39,18 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: yoann/project1.png
-    link: 
+    image: yoann/projet_1.png
+    link: https://fr.linkedin.com/in/yoannlemoine
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: yoann/project2.png
-    link: 
+    image: yoann/projet_2.png
+    link: https://openclassrooms-student-center.github.io/presentation/students/yoann.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: yoann/project3.png
-    link: 
+    image: yoann/projet_3.png
+    link: https://www.github.com
     finished: false
 ---
