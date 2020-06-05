@@ -14,7 +14,7 @@ date: 2020-06-04 17:26
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Mettre enfin les mains dans le cambouis et le code.
 short_description:
-    Beaucoup d'expérience côté Produit, à martiriser les développeurs. Je veux voir ce que ça donne d'être de leur côté !
+    Beaucoup d'expérience côté Produit. Je veux maintenant voir ce que ça donne d'être de leur côté !
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -29,7 +29,7 @@ description:
 image: julien.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
