@@ -34,12 +34,24 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une courte présentation pour le projet 1 du parcours.
+    description: Une courte présentation pour le projet 1 du parcours et un lien vers mon linkedin.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: julien/p1.png
-    # link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: julien/P1.jpg
+    link: https://www.linkedin.com/in/julienlair/
     # 'true' makes it fully available.
+    finished: true
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
+  - title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et de Github.
+    image: julien/P2.jpg
+    link: https://github.com/julienlair01
+    finished: true
+  - title: Aidez MacGyver à sortir !
+    description: Création d'un jeu en Python. Pas encore commencé !
+    image: julien/P3.jpg
+    link: https://openclassrooms.com/fr/projects/156/assignment
+    finished: false
+---
 ---
