@@ -14,7 +14,7 @@ date: 2020-06-04 17:26
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Mettre enfin les mains dans le code.
 short_description:
-    Beaucoup d'expérience côté Produit. Je veux maintenant voir ce que ça donne d'être de leur côté !
+    Je veux voir ce qui se passe du côté des devs !
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
