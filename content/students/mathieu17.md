@@ -49,4 +49,9 @@ projects:
     image: mathieu17/projet_2.png
     link: https://openclassrooms-student-center.github.io/community/students/mathieu17.html
     finished: true
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: mathieu17/projet_3.png
+    link: https://github.com/mathieumetral
+    finished: false
 ---
