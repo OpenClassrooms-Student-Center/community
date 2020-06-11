@@ -23,7 +23,7 @@ template: students
 # max 500 characters
 description:
     Fraîchement diplômé en informatique, je souhaite dès lors me spécialiser dans le développement d'application.
-		La méthode pdéagogique promue par OpenClassrooms m'a tout de suite convaincu. Hâte de me lancer dans le vif du sujet et de pouvoir enrichir mon panel de connaissances.
+		La méthode pdéagogique promue par OpenClassrooms m'a tout de suite convaincu. J'ai hâte de me lancer dans le vif du sujet et de pouvoir enrichir mon panel de connaissances.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -31,7 +31,7 @@ description:
 image: mathieu17.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
