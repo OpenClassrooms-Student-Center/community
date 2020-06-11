@@ -45,7 +45,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame. (en cours)
-    image: en cours
-    link: en cours
+    image: Victor50/Projet3.jpg
+    link: https://github.com/
     finished: false
 ---
