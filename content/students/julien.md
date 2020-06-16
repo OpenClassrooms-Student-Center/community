@@ -44,7 +44,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et de Github.
     image: julien/P2.jpg
-    link: https://github.com/julienlair01
+    link: https://github.com/julienlair01/community
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d'un jeu en Python. Pas encore commencé mais déjà bientôt fini !
