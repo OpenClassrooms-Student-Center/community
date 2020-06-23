@@ -46,6 +46,6 @@ projects:
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: vincentmoulin5/projet_3.png
-    link: https://www.github.com
-    finished: false
+    link: https://github.com/Kharmaska/P3_McGyver_Maze
+    finished: true
 ---
