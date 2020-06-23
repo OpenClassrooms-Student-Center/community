@@ -13,11 +13,13 @@ date: 2016-10-28 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur d'application iOS
-short_description: J'aime le sport en général, voyager, jouer du jazz et désormais coder !
+short_description: 
+    J'aime le sport en général, voyager, jouer du jazz et désormais coder !
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: Je m'appelle Alessandro, j'ai 32 ans et suis actuellement en reconversion professionnelle après 11 ans dans la restauration. 
+description: 
+    Je m'appelle Alessandro, j'ai 32 ans et toutes mes dents
   
 
 # image must be located in content/images/students
@@ -30,11 +32,11 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: https://www.linkedin.com/in/alessandro-leonardi-5825931a5/
+    description: Une présentation de moi-même et un lien vers mon LinkedIn
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: alessandro/Projet_1.png
-    link: https://fr.linkedin.com/in/alessandro-leonardi-5825931a5?trk=people-guest_people_search-card
+    link: https://www.linkedin.com/in/alessandro-leonardi-5825931a5/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
