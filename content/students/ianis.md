@@ -77,7 +77,7 @@ projects:
 
     image: ianis/Projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ianis.html
+    link: https://openclassrooms-student-center.github.io/community/students/ianis.html
 
     finished: true
 
