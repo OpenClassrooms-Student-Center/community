@@ -46,7 +46,7 @@ image: manon.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -71,9 +71,9 @@ projects:
 
     finished: true
 
-  - title: P2 : Intégrez la communauté !
+  - title: P2 Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source
 
     image: manon/projet_2.png
 
@@ -83,7 +83,7 @@ projects:
 
   - title: Kit média pour Les Burgers de Papa !
 
-    description: Création d'un kit média répertoriant les prestations de partenariat à destinations de nos prospects et partenaires.
+    description: Création d'un kit média répertoriant les prestations de partenariat.
 
     image: manon/projet_3.png
 
