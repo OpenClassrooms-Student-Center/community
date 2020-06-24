@@ -46,7 +46,7 @@ image: manon.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -73,7 +73,7 @@ projects:
 
   - title: P2 : Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source
 
     image: manon/projet_2.png
 
