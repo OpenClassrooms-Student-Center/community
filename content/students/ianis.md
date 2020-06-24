@@ -85,7 +85,7 @@ projects:
 
     description: Création d'un kit média à destination des prospects et partenaires.
 
-    image: ianis/projet_3.png
+    image: ianis/Projet_3.png
 
     link: https://media-exp1.licdn.com/dms/document/C4E2DAQHRnSB5ygePuw/profile-treasury-document-pdf-analyzed/0?e=1593090000&v=beta&t=S08dmauQ0HhrJEj40O-wlvZ7OiNVvfuaCNaql5z-iXk
 
