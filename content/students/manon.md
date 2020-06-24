@@ -71,7 +71,7 @@ projects:
 
     finished: true
 
-  - title: P2 : Intégrez la communauté !
+  - title: P2 Intégrez la communauté !
 
     description: Modifier un projet Open Source
 
