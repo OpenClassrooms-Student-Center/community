@@ -23,7 +23,7 @@ date: 2020-06-24 14:01
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Découvrir le méier de développeur 
+objective: Découvrir le métier de développeur 
 
 short_description: J’aime la bière au beurre  
 
