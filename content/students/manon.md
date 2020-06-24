@@ -83,7 +83,7 @@ projects:
 
   - title: Kit média pour Les Burgers de Papa !
 
-    description: Création d'un kit média répertoriant les prestations de partenariat à destinations de nos prospects et partenaires.
+    description: Création d'un kit média répertoriant les prestations de partenariat.
 
     image: manon/projet_3.png
 
