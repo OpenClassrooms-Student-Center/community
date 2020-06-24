@@ -77,7 +77,7 @@ projects:
 
     image: manon/projet_2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/manon.html
+    link: https://openclassrooms-student-center.github.io/community/students/manon.html
 
     finished: true
 
