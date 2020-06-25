@@ -40,7 +40,7 @@ projects:
     # Create a nanew repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: 
-	\content\images\students\Amirouche\photo Amirouche
+	\content\images\students\Amirouche\Fork
 	
     link: https://www.linkedin.com/in/amirouche-nedjaa-44197b24/
     # 'true' makes it public. If 'false', then it will not show on the website.
@@ -52,7 +52,7 @@ projects:
     finished: true
   - title: Forker un projet !
     description: forker et cloner un projet.
-    image: \content\images\students\Amirouche\capture FORK
+    image: \content\images\students\Amirouche\Fork
     link: https://github.com/Amirouche2016/DebutOpenClass
     finished: true
 ---
