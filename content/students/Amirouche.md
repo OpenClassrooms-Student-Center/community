@@ -46,7 +46,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Comprendre le fonctionnement de Git, Colner un projet.
-    image: angelique/projet_2.png
+    image: Amirouche/projet_2.png
     link: https://github.com/Amirouche2016/DebutOpenClass
     finished: true
   - title: Forker un projet !
