@@ -8,7 +8,7 @@ title: amirouche
 
 # First name or full name
 name: Amirouche
-date: 2016-06-25 22:20
+date: 2020-06-25 22:33
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -18,12 +18,12 @@ short_description: J'aime les voyages et les randonnees.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-   Je m'appelle Amirouche je suis analyste media. J'ai besoin de nouvelles competences dans le domaine de mon travail, et'est pour cette raison que je suis ici. 
+   Je m'appelle Amirouche, je suis analyste media. J'ai besoin de nouvelles competences dans le domaine de mon travail, et'est pour cette raison que je suis ici. 
 Je suis heureuse de pouvoir apprendre une nouvelle discipline et bientôt l'ajouter à mon parcour professionnel..
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Amirouche\projet_1.jpg
+image: Amirouche/projet_1.jpg
 
 # Change this to True when you do you pull request.
 public: False
@@ -46,7 +46,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: Amirouche/projet_3.png
+    image: Amirouche/projet_2.png
     link: https://www.github.com
     finished: false
 ---
