@@ -27,7 +27,7 @@ description:
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemart.png
 # max size: 200ko
-image: Profil GitHub.png
+image: Amirouche\projet_2.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -39,8 +39,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a nanew repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: 
-	\content\images\students\Amirouche\Fork.png
+    image: Amirouche\projet_2.png
 	
     link: https://www.linkedin.com/in/amirouche-nedjaa-44197b24/
     # 'true' makes it public. If 'false', then it will not show on the website.
@@ -52,7 +51,7 @@ projects:
     finished: true
   - title: Forker un projet !
     description: forker et cloner un projet.
-    image: \content\images\students\Amirouche\Fork.png
+    image: Amirouche\projet_1.png
     link: https://github.com/Amirouche2016/DebutOpenClass
     finished: true
 ---
