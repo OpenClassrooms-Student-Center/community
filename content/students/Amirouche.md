@@ -4,10 +4,10 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: amirouche
+title:amirouche
 
 # First name or full name
-name: Amirouche
+name: amirouche
 date: 2020-06-26 12:44
 
 # One line.
@@ -18,14 +18,14 @@ short_description: J'aime les voyages et les randonnees.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-   Je m'appelle Amirouche, je suis analyste media. 
-   J'ai besoin de nouvelles competences dans le domaine de mon travail,
-   et c'est pour cette raison que je suis ici. 
+    Je m'appelle Amirouche, je suis analyste media. 
+    J'ai besoin de nouvelles competences dans le domaine de mon travail,
+    et c'est pour cette raison que je suis ici. 
 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: amirouche/projet_1.png
+image: projet_1.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -44,11 +44,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: amirouche/projet_2.png
-    link: https://github.com/Amirouche2016/DebutOpenClass
+    link: https://github.com/Amirouche2016/community
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: amirouche/projet_2.png
-    link: https://www.github.com
-    finished: true
+
 ---
