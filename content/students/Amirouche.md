@@ -18,12 +18,14 @@ short_description: J'aime les voyages et les randonnees.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-   Je m'appelle Amirouche, je suis analyste media. J'ai besoin de nouvelles competences dans le domaine de mon travail, et'est pour cette raison que je suis ici. 
-Je suis heureuse de pouvoir apprendre une nouvelle discipline et bientôt l'ajouter à mon parcour professionnel..
+   Je m'appelle Amirouche, je suis analyste media. 
+   J'ai besoin de nouvelles competences dans le domaine de mon travail,
+   et c'est pour cette raison que je suis ici. 
+
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Amirouche/projet_1.jpg
+image: Amirouche/projet_1.png
 
 # Change this to True when you do you pull request.
 public: True
