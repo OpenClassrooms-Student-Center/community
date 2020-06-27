@@ -8,12 +8,12 @@ title:amirouche
 
 # First name or full name
 name: amirouche
-date: 2020-06-26 17:20
+date: 2020-06-27 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre Python.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: J'apprends à coder en python.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
