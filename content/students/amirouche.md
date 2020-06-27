@@ -7,7 +7,7 @@
 title:amirouche
 
 # First name or full name
-name: Amirouche
+name: amirouche
 date: 2020-06-26 17:20
 
 # One line.
@@ -36,13 +36,13 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: amirouche/projet_1.png
-    link: https://www.linkedin.com/in/amirouche-nedjaa-44197b24/gel
+    link: https://www.linkedin.com/in/amirouche-nedjaa-44197b24/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: amirouche/projet_2.png
     link: https://github.com/Amirouche2016/community
     finished: true
 
