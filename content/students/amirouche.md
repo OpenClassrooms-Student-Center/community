@@ -13,7 +13,7 @@ date: 2020-06-27 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre Python.
-short_description: J'apprends à coder en python.
+short_description: J'aime les randonnees et les voyages.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -36,7 +36,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: amirouche/projet_1.png
-    link: https://www.linkedin.com/in/amirouche-nedjaa-44197b24/
+    link: https://www.linkedin.com/in/amirouche-nedjaa-44197b24
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
