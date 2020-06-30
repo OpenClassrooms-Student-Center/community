@@ -7,23 +7,19 @@
 title: yoann-pons-2
 
 # First name or full name
-name: Ratus
-date: 2016-10-28 17:20
+name: Yoann
+date: 2020-06-30 17:15
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Me reconvertir Concepteur et Développeur d'application Python dans l'IA/Data Science ou
+    la Big Data ou les jeux vidéos.
+short_description: Globe-trotter, Grimpeur et fan de cinéma, je suis un jeune padawan du Python !
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    A 30 ans, j'ai décidé de me reconvertir dans le développement informatique et notamment dans la programmation pour renouer avec ma fibre scientifique. Aventurier, Grimpeur et Voyageur, je passe le plus souvent de mon temps libre à la découverte de notre belle planète, spots d'escalade et plongée... tout en gardant un esprit curieux. Pourquoi, Python ? Simple, Logique, Puissant, et mutli-domaine/fonction, tout ce qu'il faut pour faire du bon code ainsi que travailler sur des projets intéressants.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
