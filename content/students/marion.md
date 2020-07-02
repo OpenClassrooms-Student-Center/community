@@ -96,7 +96,7 @@ projects:
 
     finished: true
 
-    - title: Analisez les besoins de votre client pour son groupe de pizzerias !
+  - title: Analisez les besoins de votre client pour son groupe de pizzerias !
 
     description: Réalisation d'un dossier de conception fonctionnelle.
 
@@ -106,7 +106,7 @@ projects:
 
     finished: true
 
-    - title: Utilisez les données publiques de l'OpenFoodFacts !
+  - title: Utilisez les données publiques de l'OpenFoodFacts !
 
     description: Création d’un programme qui suggère aliments plus sains à ceux de l'utilisateur.
 
