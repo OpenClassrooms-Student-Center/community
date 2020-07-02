@@ -108,7 +108,7 @@ projects:
 
     - title: Utilisez les données publiques de l'OpenFoodFacts !
 
-    description: Création d’un programme qui suggère des aliments plus sains à ceux rentrés par l'utilisateur.
+    description: Création d’un programme qui suggère aliments plus sains à ceux de l'utilisateur.
 
     image: marion/projet_5.jpg
 
