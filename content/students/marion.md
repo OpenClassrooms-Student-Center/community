@@ -86,13 +86,33 @@ projects:
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Aidez MacGyver à s'échapper !
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
     image: marion/projet_3.jpg
 
-    link: https://www.github.com
+    link: https://github.com/MarionGiusti/P3_MacGyver
+
+    finished: true
+
+    - title: Analisez les besoins de votre client pour son groupe de pizzerias !
+
+    description: Réalisation d'un dossier de conception fonctionnelle.
+
+    image: marion/projet_4.jpg
+
+    link: https://github.com
+
+    finished: true
+
+    - title: Utilisez les données publiques de l'OpenFoodFacts !
+
+    description: Création d’un programme qui suggère des aliments plus sains à ceux rentrés par l'utilisateur.
+
+    image: marion/projet_5.jpg
+
+    link: https://github.com/MarionGiusti/P5_PurBeurre
 
     finished: false
 
