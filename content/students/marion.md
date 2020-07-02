@@ -100,7 +100,7 @@ projects:
 
     description: Réalisation d'un dossier de conception fonctionnelle.
 
-    image: marion/projet_4.jpg
+    image: marion/projet_4.PNG
 
     link: https://github.com
 
