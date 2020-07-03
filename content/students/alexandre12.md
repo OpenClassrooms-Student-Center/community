@@ -33,8 +33,7 @@ short_description: J’aime le veau et le code
 template: students
 
 description:
-Je m’appelle Alexandre, j’ai 22 ans et après 1 an en Australie je décide
-de me lancer dans le développement d’application.
+    J’ai 22 ans et après 1 an en Australie je me lance dans le développement.
 
 
 # image must be located in content/images/students
