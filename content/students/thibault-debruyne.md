@@ -90,7 +90,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: thibault-debruyne/projet_3.png
+    image: thibault-debruyne/projet_3.jpg
 
     link: https://www.github.com
 
