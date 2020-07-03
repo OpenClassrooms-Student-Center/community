@@ -61,7 +61,7 @@ projects:
 
     image: jonathan-974/projet_1.jpg
 
-    link:
+    link: https://github.com/Glorfindel-00/community/blob/master/content/images/students/jonathan-974/projet_1.jpg
 
     # 'true' makes it fully available.
 
@@ -69,13 +69,23 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté OpenClassrooms !
+  - title: Intégrez la communauté OpenClassrooms
 
     description: Bacon ipsum dolor amet sausage cupim pork loin andouille t-bone kielbasa tri-tip picanha fatback alcatra chicken chislic.
 
     image: jonathan-974/projet_2.jpg
 
-    link:
+    link: https://github.com/Glorfindel-00/community/blob/master/content/images/students/jonathan-974/projet_2.jpg
 
     finished: true
+
+    title: Créez votre premier jeu vidéo avec Swift
+
+    description: Bacon ipsum dolor amet sausage cupim pork loin andouille.
+
+    image: jonathan-974/projet_3.jpg
+
+    link: https://github.com/Glorfindel-00/community/blob/master/content/images/students/jonathan-974/projet_3.jpg
+
+    finished: false
 ---
