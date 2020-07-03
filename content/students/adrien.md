@@ -25,7 +25,7 @@ date: 2020-06-26 14:36
 
 objective: Augmenter mon niveau de diplome.
 
-short_description: Je suis un webmestre et developpeur full-stack au ministère de l'intérieur. J'ai 21 ans
+short_description: Je suis un webmestre et developpeur full-stack au ministère de l'intérieur.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
