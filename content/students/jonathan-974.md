@@ -51,7 +51,7 @@ public: True
 
 projects:
 
-  - title: Définissez votre stratégie d'apprentissage
+  - title: P1 - Définissez votre stratégie d'apprentissage
 
     description: Corned beef pork loin pork chop pancetta capicola kielbasa fatback tail chuck brisket.
 
@@ -69,7 +69,7 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté OpenClassrooms
+  - title: P2 - Intégrez la communauté OpenClassrooms
 
     description: Bacon ipsum dolor amet sausage cupim pork loin andouille t-bone kielbasa tri-tip picanha fatback alcatra chicken chislic.
 
@@ -79,7 +79,7 @@ projects:
 
     finished: true
 
-    title: Créez votre premier jeu vidéo avec Swift
+  - title: P3 - Créez votre premier jeu vidéo avec Swift
 
     description: Bacon ipsum dolor amet sausage cupim pork loin andouille.
 
@@ -87,5 +87,5 @@ projects:
 
     link: https://github.com/Glorfindel-00/community/blob/master/content/images/students/jonathan-974/projet_3.jpg
 
-    finished: false
+    finished: true
 ---
