@@ -28,14 +28,14 @@ public: True
 projects:
   - title: Définnisez votre stratégie d'apprentissage !
     description: Mise en place d'un plan d'apprentissage pour la formation
-    image: serigne/projet_1.png
+    image: serigne/projet1.png
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: serigne/projet_2.png
+    image: serigne/projet2.png
     finished: true
   - title: Créer votre premier jeu vidéo avec SWIFT !
     description: Création d’un jeu en utilisant SWIFT
-    image: serigne/projet_3.png
+    image: serigne/projet3.png
     finished: false
 ---
