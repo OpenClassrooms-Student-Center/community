@@ -12,12 +12,12 @@ date: 2020-07-05 12:10
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir Data Engineer
+objective: Mon objectif ? Devenir Data Engineer
 short_description: J'adore apprendre et résoudre des problèmes. Le développement devrait me plaire.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: Sur OpenClassrooms, j'aiguiser toutes les compétences nécessaires pour devenir un Data Engineer.
+description: Sur OpenClassrooms, j'aiguise toutes les compétences nécessaires pour devenir un Data Engineer.
 
 
 # image must be located in content/images/students
@@ -30,24 +30,24 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je m'appelle Adou et je suis développeur décisionnel qui aspire à devenir une data engineer.
+    description: Je me nomme Adou et je suis développeur décisionnel qui aspire à devenir un data engineer.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: yapo-ako-adou/projet_1.png
     link: https://www.linkedin.com/in/adou-yapo-ako-1ab344146/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Comprendre le fonctionnement de Git, de Github et des pull requests.
     image: yapo-ako-adou/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/yapo-ako-adou.html
-    finished: false
+    link: https://openclassrooms-student-center.github.io/community/students/yapo-ako-adou.html
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: yapo-ako-adou/projet_3.png
-    link: https://github.com/Adoupro/
-    finished: false
+    link: https://github.com/Adoupro/OC_DEVPYTHON_P3
+    finished: true
   - title: Analysez les besoins de votre client pour son groupe de pizzerias
     description: Collecter des besoins, sélectionner une solution technique et rédiger des spécifications détaillées.
     image: yapo-ako-adou/projet_4.png
