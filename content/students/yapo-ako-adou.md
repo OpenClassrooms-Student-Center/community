@@ -40,12 +40,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: yapo-ako-adou/projet_2.png
+    image: yapo-ako-adou/projet_2_1.png
     link: https://openclassrooms-student-center.github.io/community/students/yapo-ako-adou.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: yapo-ako-adou/projet_3.png
+    image: yapo-ako-adou/projet_3_1.png
     link: https://github.com/Adoupro/OC_DEVPYTHON_P3
     finished: true
   - title: Analysez les besoins de votre client pour son groupe de pizzerias
