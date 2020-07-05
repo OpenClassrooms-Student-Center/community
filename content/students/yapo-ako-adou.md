@@ -49,13 +49,12 @@ projects:
     link: https://github.com/Adoupro/
     finished: false
   - title: Analysez les besoins de votre client pour son groupe de pizzerias
-    description: Recueillir un besoin et les fonctionnalités demandées,
-    afin de rédiger les spécifications détaillées d'un projet et sélectionner une solution technique adaptée.
+    description: Recueillir des besoins, sélectionner une solution technique adaptée et rédiger des spécifications détaillées.
     image: yapo-ako-adou/projet_4.png
     link: https://github.com/Adoupro/
     finished: false
   - title: Utilisez les données publiques de l'OpenFoodFacts
-    description: Travailler en méthodologie Agile, implémenter une base de donnée et respecter les bonnes pratiques de développement.
+    description: Travailler en méthodologie Agile et implémenter une base de données dans le respect des bonnes pratiques.
     image: yapo-ako-adou/projet_5.png
     link: https://github.com/Adoupro/
     finished: false
