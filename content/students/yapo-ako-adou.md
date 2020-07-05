@@ -88,7 +88,7 @@ projects:
     image: yapo-ako-adou/projet_11.png
     link: https://github.com/Adoupro/
     finished: false
-  - title: Projet final : prêt pour le feu d’artifices ?
+  - title: Projet final
     description: Identifier et mener un projet à impact social.
     image: yapo-ako-adou/projet_13.png
     link: https://github.com/Adoupro/
