@@ -17,12 +17,7 @@ short_description: J'adore apprendre et résoudre des problèmes. Le développem
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: Sur OpenClassrooms, j'aiguiser toutes les compétences nécessaires pour devenir un Data Engineer. Ces compétences sont :
--	La programmation avec un langage backend (Python).
--	L’utilisation de système de gestion de base de données SQL (SQL Server) et No SQL (MongoDB).
--	L’utilisation de système de caching pour faire du traitement de donnée en temps réel (REDIS).
--	La conception et la consommation d’API REST et SOAP.
--	La conception de cahiers de test de qualité.
+description: Sur OpenClassrooms, j'aiguiser toutes les compétences nécessaires pour devenir un Data Engineer.
 
 
 # image must be located in content/images/students
