@@ -39,7 +39,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: false
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: Comprendre le fonctionnement de Git, de Github et des pull requests.
     image: yapo-ako-adou/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/yapo-ako-adou.html
     finished: false
@@ -49,22 +49,22 @@ projects:
     link: https://github.com/Adoupro/
     finished: false
   - title: Analysez les besoins de votre client pour son groupe de pizzerias
-    description: Recueillir des besoins, sélectionner une solution technique adaptée et rédiger des spécifications détaillées.
+    description: Collecter des besoins, sélectionner une solution technique et rédiger des spécifications détaillées.
     image: yapo-ako-adou/projet_4.png
     link: https://github.com/Adoupro/
     finished: false
   - title: Utilisez les données publiques de l'OpenFoodFacts
-    description: Travailler en méthodologie Agile et implémenter une base de données dans le respect des bonnes pratiques.
+    description: Travailler en méthodologie Agile et Implémenter une base de données.
     image: yapo-ako-adou/projet_5.png
     link: https://github.com/Adoupro/
     finished: false
   - title: Concevez la solution technique d’un système de gestion de pizzeria
-    description: Concevoir des diagrammes UML, réaliser un modèle de données et l'implémenter.
+    description: Concevoir des diagrammes UML. Réaliser et implémenter un modèle de données.
     image: yapo-ako-adou/projet_6.png
     link: https://github.com/Adoupro/
     finished: false
   - title: Créez GrandPy Bot, le papy-robot
-    description: Interagir avec des API, créer un site statique et dynamique à l'aide de Javascript.
+    description: Interagir avec des APIs. Créer un site statique et dynamique à l'aide de Javascript.
     image: yapo-ako-adou/projet_7.png
     link: https://github.com/Adoupro/
     finished: false
@@ -74,7 +74,7 @@ projects:
     link: https://github.com/Adoupro/
     finished: false
   - title: Documentez votre système de gestion de pizzeria
-    description: Produire une documentation technique et fonctionnelle de l’application.
+    description: Produire une documentation technique et fonctionnelle d'une l’application.
     image: yapo-ako-adou/projet_9.png
     link: https://github.com/Adoupro/
     finished: false
@@ -84,12 +84,12 @@ projects:
     link: https://github.com/Adoupro/
     finished: false
   - title: Améliorez un projet existant en Python
-    description: Corriger et faire évoluer des fonctionnalités demandées par le client.
+    description: Corriger et améliorer des fonctionnalités demandées par le client.
     image: yapo-ako-adou/projet_11.png
     link: https://github.com/Adoupro/
     finished: false
   - title: Projet final
-    description: Identifier et mener un projet à impact social.
+    description: Identifier et mener un projet ayant un impact social.
     image: yapo-ako-adou/projet_13.png
     link: https://github.com/Adoupro/
     finished: false
