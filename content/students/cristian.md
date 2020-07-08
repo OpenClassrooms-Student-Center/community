@@ -40,7 +40,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Zettels, Template Hugo
-    description: Template permettant de publier son archive Zettelkasten en ligne (wikilinks, backlinks, transclusion de cotenu, recherche avec fuse.js...)
+    description: Theme permettant de publier son archive en ligne (wikilinks, backlinks, transclusion...)
     image: cristian/zettels.png
     link: https://github.com/crisrojas/zettels
     finished: true
