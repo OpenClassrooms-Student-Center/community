@@ -49,14 +49,4 @@ projects:
     image: cristian/notes.png
     link: https://notes.crisrojas.com
     finished: true
-  - title: MyRecipes
-    description: App de recettes crée pour apprendre à utiliser UITable
-    image: cristian/recettes.jpg
-    link: https://github.com/crisrojas/myrecipes
-    finished: true 
-  - title: MacOSX HTML5
-    description: Petit projet crée web avec UIKITv2 pour apprendre plus sur l'intégration des maquettes
-    image: cristian/osx.jpg
-    link: https://crisrojas.github.io/macosxcss/
-    finished: true  
 ---
