@@ -39,7 +39,7 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Zettels: Template Hugo
+  - title: Zettels, Template Hugo
     description: Template permettant de publier son archive Zettelkasten en ligne (wikilinks, backlinks, transclusion de cotenu, recherche avec fuse.js...)
     image: cristian/zettels.png
     link: https://github.com/crisrojas/zettels
@@ -49,4 +49,14 @@ projects:
     image: cristian/notes.png
     link: https://notes.crisrojas.com
     finished: true
+  - title: MyRecipes
+    description: App de recettes crée pour apprendre à utiliser UITable
+    image: cristian/recettes.jpg
+    link: https://github.com/crisrojas/myrecipes
+    finished: true 
+  - title: MacOSX HTML5
+    description: Petit projet crée web avec UIKITv2 pour apprendre plus sur l'intégration des maquettes
+    image: cristian/osx.jpg
+    link: https://crisrojas.github.io/macosxcss/
+    finished: true  
 ---
