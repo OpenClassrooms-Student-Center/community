@@ -45,9 +45,9 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et de Github
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github, pull requests
     image: benjamin-breton/project_2.png
-    link: https://github.com/bbenj28
+    link: https://openclassrooms-student-center.github.io/community/students/benjamin-breton.html
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Concevoir un prototype de jeu de combat entre personnages avec Swift
