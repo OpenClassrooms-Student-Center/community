@@ -13,7 +13,7 @@ template: students
 description: Après avoir obtenu mon bac j'ai d'abord fait une formation dans les travaux publics sur 2ans, puis une école de musique sur 5 ans. 
     Depuis 2ans je travaille dans des bars et restaurants et j'en ai clairement marre de travailler quand les autres s'amusent, c'est un métier très contraignant avec beaucoup
     de stress et très peu gratifiant...
-    La restauration m'a tout de même apporté énormément, surtout en rencontres : la personne qui est devenue ma femme était une cliente du restaurant venue de San Fransisco pour
+    La restauration m'a tout de même apporté énormément, surtout en rencontres, la personne qui est devenue ma femme était une cliente du restaurant venue de San Fransisco pour
     les vacances. C'est en partant là bas que mon interet pour l'informatique à refait surface.
     J'ai d'abord fait des petits cours et en réalisant que j'aime vraiment cela et qu'il y à de nombreuses opportunités professionnelles j'ai commencé à me renseigner sur les
     formations diplomantes (une vraie formation professionnelle, pas juste des petits cours que j'essayais de mettre à bout les uns les autres en m'éparpillant un peu trop).
