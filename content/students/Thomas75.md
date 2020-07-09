@@ -5,7 +5,7 @@ name: Thomas
 date: 2020-06-23 10:00
 
 
-objective: Me former sur Python, finir la formation en mois d'un an
+objective: Me former sur Python, finir la formation en plus ou moins un an
 short_description: Thomas, 28ans. Joueur de guitare jazz, j'aime l'informatique depuis mon enfance. J'ai travaillé quelques temps dans des bars et restaurants et souhaite me reconvertir.
 
 template: students
