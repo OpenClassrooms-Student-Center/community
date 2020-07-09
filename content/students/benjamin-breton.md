@@ -51,7 +51,7 @@ projects:
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Concevoir un prototype de jeu de combat entre personnages avec Swift
-    image: benjamin-breton/project_3.jpg
+    image: benjamin-breton/project_3.png
     link: https://github.com/bbenj28
     finished: true
     
