@@ -48,4 +48,9 @@ projects:
     image: benjamin-breton/project_2.png
     link: https://openclassrooms-student-center.github.io/community/students/benjamin-breton.html
     finished: true
+    - title: Créez votre premier jeu vidéo avec Swift !
+    description: Concevoir un prototype de jeu de combat entre personnages avec Swift.
+    image: benjamin-breton/project_3.png
+    link: https://github.com/bbenj28
+    finished: false
 ---
