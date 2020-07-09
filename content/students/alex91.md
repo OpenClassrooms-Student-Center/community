@@ -32,8 +32,7 @@ short_description: J’aime le veau et le code
 
 template: students
 
-description:
-    J’ai 22 ans et après 1 an en Australie je me lance dans le développement.
+description: J’ai 22 ans et après 1 an en Australie je me lance dans le développement.
 
 
 # image must be located in content/images/students
@@ -72,13 +71,21 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source
 
     image: alex91/projet_2.png
 
     link: https://github.com/rayxx91/
 
     finished: true
+
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+
+    image: alex91/projet_3.png
+
+    link: https://www.github.com
+
+    finished: false
 
 ---
 
