@@ -8,7 +8,7 @@ title: benjamin-breton
 
 # First name or full name
 name: Benjamin
-date: 2020-07-08 22:28
+date: 2020-07-09 09:57
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -53,6 +53,6 @@ projects:
     description: Concevoir un prototype de jeu de combat entre personnages avec Swift
     image: benjamin-breton/project_3.png
     link: https://github.com/bbenj28
-    finished: true
+    finished: false
     
 ---
