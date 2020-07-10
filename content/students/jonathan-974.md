@@ -16,7 +16,7 @@ title: jonathan-974
 
 name: jonathan-974
 
-date: 2020-06-30 16:20
+date: 2020-07-10 13:00
 
 
 # One line.
@@ -51,7 +51,7 @@ public: True
 
 projects:
 
-  - title: Définissez votre stratégie d'apprentissage
+  - title: P1 - Définissez votre stratégie d'apprentissage
 
     description: Corned beef pork loin pork chop.
 
@@ -69,7 +69,7 @@ projects:
 
     finished: true
 
-  - title: Intégrez la communauté OpenClassrooms
+  - title: P2 - Intégrez la communauté OpenClassrooms
 
     description: Bacon ipsum dolor amet sausage cupim pork.
 
@@ -79,13 +79,13 @@ projects:
 
     finished: true
 
-    title: Créez votre premier jeu vidéo avec Swift
+  - title: P3 - Créez votre premier jeu vidéo avec Swift
 
-    description: Bacon ipsum dolor amet sausage cupim pork loin andouille.
+    description: Bacon ipsum dolor amet sausage cupim.
 
     image: jonathan-974/projet_3.jpg
 
     link: https://github.com/Glorfindel-00/community/blob/master/content/images/students/jonathan-974/projet_3.jpg
 
-    finished: false
+    finished: true
 ---
