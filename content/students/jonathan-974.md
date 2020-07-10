@@ -32,7 +32,7 @@ short_description: Victoria mundis et mundis lacrima.
 
 template: students
 
-description: Si on cueille pas les cerises quand elles sont sur l'arbre, on fera tintin pour le clafoutis. Mais on sera pas plus avancés.
+description: Bacon ipsum dolor amet sausage.
 
 
 # image must be located in content/images/students
@@ -51,9 +51,9 @@ public: True
 
 projects:
 
-  - title: P1 - Définissez votre stratégie d'apprentissage
+  - title: Définissez votre stratégie d'apprentissage
 
-    description: Corned beef pork loin pork chop pancetta capicola kielbasa fatback tail chuck brisket.
+    description: Corned beef pork loin pork chop.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -69,9 +69,9 @@ projects:
 
     finished: true
 
-  - title: P2 - Intégrez la communauté OpenClassrooms
+  - title: Intégrez la communauté OpenClassrooms
 
-    description: Bacon ipsum dolor amet sausage cupim pork loin andouille t-bone kielbasa tri-tip picanha fatback alcatra chicken chislic.
+    description: Bacon ipsum dolor amet sausage cupim pork.
 
     image: jonathan-974/projet_2.jpg
 
@@ -79,7 +79,7 @@ projects:
 
     finished: true
 
-  - title: P3 - Créez votre premier jeu vidéo avec Swift
+    title: Créez votre premier jeu vidéo avec Swift
 
     description: Bacon ipsum dolor amet sausage cupim pork loin andouille.
 
@@ -87,5 +87,5 @@ projects:
 
     link: https://github.com/Glorfindel-00/community/blob/master/content/images/students/jonathan-974/projet_3.jpg
 
-    finished: true
+    finished: false
 ---
