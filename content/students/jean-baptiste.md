@@ -25,7 +25,7 @@ date: 2020-07-08 18:00
 
 objective: Devenir un super developpeur dans l'artisanat logiciel.
 
-short_description: J'aime la vie, jouer à des jeux de société en famille ou avec des amis
+short_description: J'aime la vie, jouer à des jeux de société ou vidéos en famille ou avec des amis.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -34,7 +34,7 @@ template: students
 
 description:
 
-Je m'appelle Jan-Baptiste Baillet, 35 ans. Marié et papa de 3 enfants.
+Je m'appelle Jean-Baptiste Baillet, 35 ans. Marié et papa de 3 enfants.
 J'habite entre Rennes et Fougères.
 Je profite d'une reconversion professionnelle pour me lancer dans la grande aventure du developpement d'applications pythons.
 
@@ -48,7 +48,7 @@ image: jean-baptiste.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -61,9 +61,9 @@ projects:
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-    # Image must be here: content/images/students/yourrepo/project1.png
+    # Image must be here: content/images/students/jean-baptiste/JBB_linkedin.png
 
-    image: jean-baptiste/projet_1.png
+    image: jean-baptiste/JBB_linkedin.png
 
     link: https://www.linkedin.com/in/jean-baptiste-baillet/
     # 'true' makes it fully available.
@@ -76,7 +76,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: jean-baptiste/JBB_IntégrezLaCommunaute.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
