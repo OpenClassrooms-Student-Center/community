@@ -32,11 +32,7 @@ short_description: J'aime la vie, jouer à des jeux de société ou vidéos en f
 
 template: students
 
-description:
-
-Je m'appelle Jean-Baptiste Baillet, 35 ans. Marié et papa de 3 enfants.
-J'habite entre Rennes et Fougères.
-Je profite d'une reconversion professionnelle pour me lancer dans la grande aventure du developpement d'applications pythons.
+description: Je m'appelle Jean-Baptiste Baillet, 35 ans. Marié et papa de 3 enfants. J'habite entre Rennes et Fougères. Je profite d'une reconversion professionnelle pour me lancer dans la grande aventure du developpement d'applications pythons.
 
 
 # image must be located in content/images/students
