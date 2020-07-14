@@ -78,7 +78,7 @@ projects:
 
     image: jean-baptiste/JBB_IntégrezLaCommunaute.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/jean-baptiste.html
 
     finished: true
 
