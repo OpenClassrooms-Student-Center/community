@@ -75,7 +75,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, github et PR. 
 
-    image: cyrilcatoire/projet_2.jpg
+    image: cyrilcatoire/projet_2.jpeg
 
     link: https://github.com/panbouh/community
 
