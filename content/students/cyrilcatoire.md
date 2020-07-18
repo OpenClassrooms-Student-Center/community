@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: cyril
+title: cyrilcatoire
 
 
 # First name or full name
@@ -23,25 +23,25 @@ date: 2020-03-22 17:32
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Devenir développeur informatique Full Stack
+objective: Devenir développeur iOS
 
-short_description: J'aime le beau code
+short_description: Musique, moto, Code, dormir.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 
 template: students
 
-description:
+description: Je suis un etudiant qui souhaite consolider ses acquis en developpemment et se specialiser en mobile iOS.
 
-    Je souhaite acquérir les compétences qui me permettront d'être autonome dans un environnement professionnel.
+    
 
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: cyril.jpg
+image: cyrilcatoire.png
 
 
 # Change this to True when you do you pull request.
@@ -61,9 +61,9 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: cyril/projet_1.jpg
+    image: cyrilcatoire/projet_1.png
 
-    link: https://www.linkedin.com/in/cyril-morin-a77a42143/
+    link: https://www.linkedin.com/in/cyrilcatoire/
 
     # 'true' makes it fully available.
 
@@ -75,19 +75,19 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, github et PR. 
 
-    image: cyril/projet_2.jpg
+    image: cyrilcatoire/projet_2.jpeg
 
-    link: https://github.com/cpawamgit
+    link: https://github.com/panbouh/community
 
     finished: true
 
-  - title: Aidez MacGyver à sortir !
+  - title: Watata_run
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Creer un jeu video simple en ligne de commande. Jeu de combat tour par tour a 2 joueur.
 
-    image: cyril/projet_3.jpg
+    image: cyrilcatoire/projet_3.png
 
-    link: https://www.github.com
+    link: https://github.com/panbouh/Watata_run
 
     finished: false
 
