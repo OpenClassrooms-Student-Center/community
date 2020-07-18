@@ -79,5 +79,17 @@ projects:
 
     link: https://github.com/panbouh/community
 
+    finished: true
+
+    - title: Watata_run
+
+    description: Creer un jeu video simple en ligne de commande. Jeu de combat tour par tour a 2 joueur.
+
+    image: cyrilcatoire/projet_3.png
+
+    link: https://github.com/panbouh/Watata_run
+
+    finished: false
+
 ---
 
