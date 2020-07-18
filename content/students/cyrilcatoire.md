@@ -81,7 +81,7 @@ projects:
 
     finished: true
 
-    - title: Watata_run
+  - title: Watata_run
 
     description: Creer un jeu video simple en ligne de commande. Jeu de combat tour par tour a 2 joueur.
 
