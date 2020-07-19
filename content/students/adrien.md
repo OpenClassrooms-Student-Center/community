@@ -93,8 +93,8 @@ projects:
 
     image: adrien/projet_3.png
 
-    link: https://www.github.com
+    link: https://github.com/adrien914/P3_Aidez_MacGyver_a_s-echapper-
 
-    finished: false
+    finished: true
 
 ---
