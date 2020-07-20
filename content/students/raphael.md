@@ -48,7 +48,7 @@ projects:
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: faire et refaire des git stash, git add, git push et git revert
     image: raphael/proj-1-push.png
     link: https://github.com/rapha3lle
     finished: true
