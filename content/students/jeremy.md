@@ -40,62 +40,62 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: jeremy/projet_2.png
+    image: jeremy/projet_2.PNGpng
     link: https://openclassrooms-student-center.github.io/presentation/students/jeremy.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: jeremy/projet_3.png
+    image: 
     link: https://www.github.com
     finished: false
   - title: Analisez les besoins de votre client pour son groupe de pizzieras !
     description: A faire
-    image: jeremy/projet_4.png
+    image: 
     link: https://www.github.com
     finished: false
   - title: Utilisez les données publiques de l'OpenFoodFacts
     description: A faire
-    image: jeremy/projet_5.png
+    image: 
     link: https://www.github.com
     finished: false
   - title: Concevez la solution technique d'un systéme de gestion de pizzeria
     description: A faire
-    image: jeremy/projet_6.png
+    image: 
     link: https://www.github.com
     finished: false
   - title: CrǸez GrandPy Bot, le papy-robot
     description: A faire
-    image: jeremy/projet_7.png
+    image: 
     link: https://www.github.com
     finished: false
   - title: Créez une plateforme pour amateurs de Nutella
     description: A faire
-    image: jeremy/projet_8.png
+    image: 
     link: https://www.github.com
     finished: false
   - title: Documentez votre systéme de gestion de pizzeria
     description: A faire
-    image: jeremy/projet_9.png
+    image: 
     link: https://www.github.com
     finished: false
   - title: Déployez votre application sur un serveur comme un pro !
     description: A faire
-    image: jeremy/projet_10.png
+    image: 
     link: https://www.github.com
     finished: false
   - title: Améliorez un projet existant en Python
     description: A faire
-    image: jeremy/projet_11.png
+    image: 
     link: https://www.github.com
     finished: false
   - title: Effectuez un stage ou construisez une veille technologique
     description: A faire
-    image: jeremy/projet_12.png
+    image: 
     link: https://www.github.com
     finished: false
   - title: Projet final prêt pour le feu d'artifices ?
     description: A faire
-    image: jeremy/projet_13.png
+    image: 
     link: https://www.github.com
     finished: false
 ---
