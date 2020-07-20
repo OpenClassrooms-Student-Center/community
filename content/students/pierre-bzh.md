@@ -38,7 +38,7 @@ projects:
     description: Une présentation de moi-même 
 
 
-    image: pierre-bzh/projet_1.png
+    image: pierre-bzh/projet_1.jpg
 
     link: https://openclassrooms.workplace.com/profile.php?id=100049508141247&eid=ARCmVgzidFpK9Svh1lKPhYuupkU0V6mnTKXjfwCQbp9lHaeOCSKAGy4EeDS9KAzqZYoEsJ2uGy-4gRN2
 
