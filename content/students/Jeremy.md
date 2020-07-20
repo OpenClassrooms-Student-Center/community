@@ -93,7 +93,7 @@ projects:
     image: jeremy/projet_12.png
     link: https://www.github.com
     finished: false
-  - title: Projet final : prêt pour le feu d'artifices ?
+  - title: Projet final prêt pour le feu d'artifices ?
     description: A faire
     image: jeremy/projet_13.png
     link: https://www.github.com
