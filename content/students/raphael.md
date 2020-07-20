@@ -41,7 +41,7 @@ projects:
     description: apprendre, continuer à apprendre..!!
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: content/images/students/raphael/raphael.png
+    image: raphael.png
 
     link: https://www.linkedin.com/in/rapha%C3%ABl-gerbeaux-aa284744
     #image: raphael/raph-linkedin.png
