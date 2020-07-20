@@ -41,7 +41,7 @@ projects:
     description: apprendre, continuer à apprendre..!!
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: raphael.png
+    image: raphael/raphael.png
 
     link: https://www.linkedin.com/in/rapha%C3%ABl-gerbeaux-aa284744
     #image: raphael/raph-linkedin.png
@@ -54,7 +54,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: raphael/projet_3.png
     link: https://www.github.com
     finished: false
 ---
