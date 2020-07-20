@@ -38,19 +38,19 @@ public: False
 projects:
   - title: Présentez-vous !
     # max 100 characters
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    apprendre, continuer à apprendre..!!
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: content/images/students/raphael/raphael.png
 
     link: https://www.linkedin.com/in/rapha%C3%ABl-gerbeaux-aa284744
-
+    image: raphael/raph-linkedin.png
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: raphael/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    image: raphael/proj-1-push.png
+    link: https://github.com/rapha3lle
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
