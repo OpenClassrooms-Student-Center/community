@@ -38,13 +38,13 @@ public: True
 projects:
   - title: Présentez-vous !
     # max 100 characters
-    apprendre, continuer à apprendre..!!
+    description: apprendre, continuer à apprendre..!!
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: content/images/students/raphael/raphael.png
 
     link: https://www.linkedin.com/in/rapha%C3%ABl-gerbeaux-aa284744
-    image: raphael/raph-linkedin.png
+    #image: raphael/raph-linkedin.png
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
