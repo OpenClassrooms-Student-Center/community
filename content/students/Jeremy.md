@@ -18,9 +18,7 @@ short_description: J'aime les voyages, jeux video et les séries. J'apprends à 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Actuellement contrôleur qualité dans l'industrie, j'apprend la programmation pour pouvoir en faire mon métier.
-Je connais un peu Python et je compte m'améliorer avec la formation Devenir dévellopeur Python d'openclassroom.
-Je souhaite plus tard faire du back end ou des logiciels.
+    Actuellement contrôleur qualité dans l'industrie, j'apprend la programmation pour pouvoir en faire mon métier. Je connais un peu Python et je compte m'améliorer avec la formation Devenir dévellopeur Python d'openclassroom. Je souhaite plus tard faire du back end ou des logiciels.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
