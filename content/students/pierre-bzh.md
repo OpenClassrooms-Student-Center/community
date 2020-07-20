@@ -35,8 +35,7 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même 
-
+    description: Une présentation de moi-même.
 
     image: pierre-bzh/projet_1.jpg
 
