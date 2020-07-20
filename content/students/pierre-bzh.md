@@ -8,7 +8,7 @@ title: pierre-bzh
 name: Pierre
 
 
-date: 2020-18-07 06:39
+date: 2020-07-18 06:39
 
 
 objective: Me faire tout les jours de nouveaux noeuds au cerveau et accessoirement devenir developpeur !
