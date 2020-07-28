@@ -13,7 +13,7 @@ date: 2016-10-28 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Réusssir le parcours developper applictaion python avec succées afin de réaliser tous mes projets.
-short_description: Une nouvelle reconvertion professionel pour un nouvel objectif.
+short_description: Une nouvelle reconversion professionelle pour un nouvel objectif.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -32,8 +32,8 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: nicolas35/projet.png
-    link:
+    image: nicolas35/projet1.1.png et projet1.2.png
+    link:www.linkedin.com/in/nicolasiguiniz
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
