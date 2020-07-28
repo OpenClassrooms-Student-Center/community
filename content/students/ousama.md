@@ -21,8 +21,8 @@ description:
     Je suis chef de projet technique depuis 10 ans et développeur iOS depuis 4 ans. Je suis curieux, autodicacte et motivé.
 
 # image must be located in content/images/students
-# name should be the same as this file. Eg: ousama.png
-image: ousama.png
+# name should be the same as this file. Eg: ousama.jpg
+image: ousama.jpg
 
 # Change this to True when you do you pull request.
 public: False
