@@ -65,7 +65,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: francois68/projet1.png
+    image: francois68/Projet1.png
 
     link: https://www.linkedin.com/in/fran%C3%A7ois-dubois-543a0b177/
 
@@ -79,7 +79,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: francois68/projet2.png
+    image: francois68/Projet2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
