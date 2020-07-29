@@ -13,8 +13,13 @@ date: 2020-07-19 15:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: 
+<<<<<<< HEAD
     Obtenir la certification "Développeur d'Application - Python"
 short_description : 
+=======
+    Obtenir la certification "Développeur d'Application - Python".
+short_description: 
+>>>>>>> ccf18d9684bfc623d998b06efb4ef258589bb90e
     Futur développeur Python 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -51,4 +56,8 @@ projects:
     image: rati/project3.png
     link: https://openclassrooms.com/fr/paths/68/projects/151/assignment
     finished: false
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> ccf18d9684bfc623d998b06efb4ef258589bb90e
