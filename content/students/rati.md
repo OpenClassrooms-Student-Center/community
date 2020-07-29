@@ -14,7 +14,8 @@ date: 2020-07-19 15:20
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: 
     Obtenir la certification "Développeur d'Application - Python".
-short_description : Futur développeur Python 
+short_description : 
+    Futur développeur Python 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -32,10 +33,10 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Définissez votre stratégie d'apprentissage !
-      description: Créer mon planning de formation, me présenter à mon mentor et à la communauté.
+    description: Créer mon planning de formation, me présenter à mon mentor et à la communauté.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: rati/projet1.png
+    image: rati/projec_1.png
     link: https://fr.linkedin.com/in/rati-lekishvili-76a543111/fr-fr
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -51,4 +52,3 @@ projects:
     link: https://openclassrooms.com/fr/paths/68/projects/151/assignment
     finished: false
 ---
-
