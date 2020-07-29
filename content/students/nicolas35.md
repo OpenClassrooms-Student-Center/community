@@ -7,7 +7,7 @@
 title: nicolas35
 
 # First name or full name
-name:nicolas
+name: nicolas
 date: 2016-10-28 17:20
 
 # One line.
@@ -33,7 +33,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: nicolas35/projet1.1.png et projet1.2.png
-    link:www.linkedin.com/in/nicolasiguiniz
+    link: www.linkedin.com/in/nicolasiguiniz
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
