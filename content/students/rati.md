@@ -14,7 +14,7 @@ date: 2020-07-19 15:20
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: 
     Obtenir la certification "Développeur d'Application - Python".
-short_description : 
+short_description: 
     Futur développeur Python 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
