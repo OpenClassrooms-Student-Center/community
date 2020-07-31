@@ -42,11 +42,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: francois68/Projet2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/Frantz680/community-1
     finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+    image: 
+    link: 
     finished: false
 ---
