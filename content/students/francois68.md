@@ -42,7 +42,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: francois68/Projet2.png
-    link: https://github.com/Frantz680/community-1
+    link: https://github.com/Frantz680/community-1/blob/projet2/content/students/francois68.md
     finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
