@@ -30,7 +30,7 @@ public: True
 projects:
   - title: Présentez-vous !
     description: En reconversion professionnelle, j'ai suivi une formation de développeur Web. 
-    Formation insuffisante pour trouver du travail donc je me spécialise dans le développement mobile.
+    Formation insuffisante pour trouver du travail, donc je me spécialise dans le développement mobile.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: marjolaine.jpg
