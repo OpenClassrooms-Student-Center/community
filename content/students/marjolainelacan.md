@@ -17,9 +17,7 @@ short_description: En reconversion professionnelle
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
-    Rien de plus à dire ...
+description: Rien de plus à dire ...
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
