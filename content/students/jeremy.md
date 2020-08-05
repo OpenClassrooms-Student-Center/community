@@ -41,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et de Github. 
     image: jeremy/projet_2.PNG
-    link: https://github.com/Walrick/community
+    link: https://github.com/Walrick/
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
