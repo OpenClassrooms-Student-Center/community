@@ -13,7 +13,8 @@ date: 2020-08-07 09:40
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Développer une application mobile de A à Z
-short_description: En reconversion professionnelle
+short_description: 
+    En reconversion professionnelle
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -29,7 +30,8 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: En reconversion professionnelle, j'ai suivi une formation de développeur Web. Formation insuffisante pour trouver du travail, donc je me spécialise dans le développement mobile.
+    description: En reconversion professionnelle, j'ai suivi une formation de développeur Web.
+    Formation insuffisante pour trouver du travail, donc je me spécialise dans le développement mobile.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: marjolainelacan.jpg
