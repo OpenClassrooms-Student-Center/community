@@ -31,8 +31,9 @@ public: true
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: En reconversion professionnelle, j'ai suivi une formation de développeur Web.
-    Formation insuffisante pour trouver du travail, donc je me spécialise dans le développement mobile.
+    description: 
+      En reconversion professionnelle, j'ai suivi une formation de développeur Web.
+      Formation insuffisante pour trouver du travail, donc je me spécialise dans le développement mobile.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: marjolainelacan.jpg
