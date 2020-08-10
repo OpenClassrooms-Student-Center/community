@@ -7,19 +7,19 @@
 title: marjolainelacan
 
 # First name or full name
-name: Marjolaine
-date: 2020-08-10 09:40
+name: marjolaine
+date: 2020-08-10 17:40
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Développer une application mobile de A à Z
 short_description: 
-    En reconversion professionnelle
+    en reconversion professionnelle
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description: 
-    Rien de plus à dire ...
+    rien de plus à dire ...
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -32,8 +32,8 @@ public: true
 projects:
   - title: Présentez-vous !
     description: 
-      En reconversion professionnelle, j'ai suivi une formation de développeur Web.
-      Formation insuffisante pour trouver du travail, donc je me spécialise dans le développement mobile.
+      en reconversion professionnelle, j'ai suivi une formation de développeur Web.
+      formation insuffisante pour trouver du travail, donc je me spécialise dans le développement mobile.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: marjolainelacan.jpg
@@ -42,12 +42,12 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests
+    description: modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests
     image: marjolainelacan.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/marjolainelacan.html
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
-    description: Concevoir un prototype de jeu de combat entre personnages avec Swift
+    description: concevoir un prototype de jeu de combat entre personnages avec Swift
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
