@@ -3,10 +3,11 @@ language: python
 python:
   - "3.8"
 
-install: python3 -m pip install -r requirements-dev.txt
+install: pip install -r requirements-dev.txt
 
 script:
   - python test.py
+  - pip install -r requirements.txt
   - pelican content -s publishconf.py -o docs --fatal=warnings
 
 after_success:
