@@ -18,7 +18,8 @@ short_description:
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-    description: Rien de plus à dire ...
+description: 
+    Rien de plus à dire ...
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
