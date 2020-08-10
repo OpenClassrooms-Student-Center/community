@@ -17,7 +17,7 @@ short_description: En reconversion professionnelle
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: Rien de plus à dire ...
+    description: Rien de plus à dire ...
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -38,7 +38,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests
     image: marjolainelacan.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/marjolainelacan.html
     finished: true
