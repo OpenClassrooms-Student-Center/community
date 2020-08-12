@@ -32,10 +32,10 @@ short_description: motard et musicien, mais pas en même temps hein.
 template: students
 
 description:
-
-	il a fallu que j'atteigne mes 35 ans pour enfin trouver ma voie.
-	comme il n'est jamais trop tard, j'ai quitté la société dans laquelle
-  j'étais pour pouvoir consacrer mon temps à cette formation
+             
+	           il a fallu que j'atteigne mes 35 ans pour enfin trouver ma voie.
+	           comme il n'est jamais trop tard, j'ai quitté la société dans laquelle
+             j'étais pour pouvoir consacrer mon temps à cette formation
 
 
 
