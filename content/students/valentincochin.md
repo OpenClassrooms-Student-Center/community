@@ -51,4 +51,9 @@ projects:
     image: valentincochin/projet_2.png
     link: https://github.com/valentin-cochin/community
     finished: true
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: valentincochin/projet_3.png
+    link: https://www.github.com
+    finished: false
 ---
