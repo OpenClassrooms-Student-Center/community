@@ -47,7 +47,7 @@ projects:
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et des pull requests.
     image: valentincochin/projet_2.png
     link: https://github.com/valentin-cochin/community
     finished: true
