@@ -89,6 +89,16 @@ projects:
 
     image: tristan/projet_3.png
 
+    link: https://github.com/hacker0uvert/MacGyver-game-2d
+
+    finished: true
+
+  - title: Analysez les besoins d'un client
+
+    description: Définition des spécifications fonctionnelles d'un système de gestion pour restaurants.
+
+    image: tristan/projet_4.png
+
     link: https://www.github.com
 
     finished: false
