@@ -18,7 +18,7 @@ short_description: J'ai un intérêt pour l'informatique et je souhaite l'explor
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Après avoir quitté un CDI puis avoir vécu à l'étranger, je souhaite acquérir des compétences afin d'excercer un métier qui m'attire.
+    Après avoir quitté un CDI puis avoir vécu à l'étranger, je souhaite acquérir des compétences afin d'exercer un métier qui m'attire.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
