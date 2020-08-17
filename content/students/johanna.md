@@ -13,7 +13,7 @@ date: 2016-10-28 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Changer de parcours professionnel.
-short_description: J'ai un intérêt pour l'informatique.
+short_description: Envie d'explorer mon intérêt pour l'informatique.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
