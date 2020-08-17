@@ -25,7 +25,7 @@ description:
 image: johanna.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -39,7 +39,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source. 
     image: johanna/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/johanna.html
     finished: true
