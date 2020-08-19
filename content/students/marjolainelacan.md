@@ -46,7 +46,7 @@ projects:
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: concevoir un prototype de jeu de combat entre personnages avec Swift
-    image: ratus/projet_3.png
+    image: marjolaineLacan/Icon.png
     link: https://www.github.com
     finished: false
 ---
