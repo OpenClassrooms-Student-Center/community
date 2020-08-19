@@ -42,7 +42,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests
     image: marjolainelacan/projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/marjolainelacan.html
+    link: https://www.github.com
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Concevoir un prototype de jeu de combat entre personnages avec Swift
