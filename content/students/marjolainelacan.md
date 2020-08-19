@@ -32,8 +32,7 @@ public: true
 projects:
   - title: Présentez-vous !
     description: 
-    en reconversion professionnelle, j'ai suivi une formation de développeur Web.
-    formation insuffisante pour trouver du travail, donc je me spécialise dans le développement mobile.
+    en reconversion professionnelle
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: marjolainelacan.jpg
