@@ -34,19 +34,19 @@ projects:
     description: en reconversion professionnelle
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: marjolainelacan.jpg
+    image: marjolaineLacan/projet_1.jpg
     link: https://openclassrooms.com/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests
-    image: marjolaineLacan/marjolainelacan.jpg
+    image: marjolaineLacan/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/marjolainelacan.html
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: concevoir un prototype de jeu de combat entre personnages avec Swift
-    image: marjolaineLacan/Icon.png
+    image: marjolaineLacan/projet_3.png
     link: https://www.github.com
     finished: false
 ---
