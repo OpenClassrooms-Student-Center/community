@@ -20,8 +20,7 @@ short_description :
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-     En reconversion professionnelle.
-     Je commence le parcours de Dev d'application Python     
+En reconversion professionnelle. 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: rati.jpg
