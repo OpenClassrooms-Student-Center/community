@@ -12,14 +12,13 @@ date: 2020-07-19 15:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: 
-    Obtenir la certification "Développeur d'Application - Python"
-short_description : 
-    Salut tout le monde
+objective: Obtenir la certification "Développeur d'Application - Python"
+short_description: Salut tout le monde
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: En reconversion professionnelle. 
+description: 
+    En reconversion professionnelle.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
