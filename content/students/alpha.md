@@ -13,7 +13,7 @@ date: 2020-08-21 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Compléter mes connaissances académique et autodidacte en développement informatique.
-short_description: Amteur de football, arbitre les dimanches matin.
+short_description: Amateur de football, arbitre les dimanches matin.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -38,13 +38,13 @@ projects:
 
   - title: Intégrez la communauté !
     description: Prise en main de Git et GitHub, contribution à un projet collectif hébergé sur GiHub. 
-    image: alpha/Projet2.3.png
+    image: alpha/Projet2.png
     link: https://github.com/OpenClassrooms-Student-Center/community
     finished: true
 
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: alpha/Projet2.3.png
+    image: alpha/Projet3.png
     link: https://openclassrooms.com/fr/paths/68/projects/156/assignment
     finished: false
 ---
