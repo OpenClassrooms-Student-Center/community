@@ -15,7 +15,7 @@ date: 2016-10-28 17:20
 objective: Changer de branche, apprendre de nouvelles choses, contribuer à la société autrement.
 short_description: Se décrire en une ligne, elle risque d'être sacrément longue !
 
-# Ne modifiez pas le param�tre 'template', seulement la description
+# Ne modifiez pas le param�tre 'template', seulement la description
 template: students
 description:
     Pour les besoins de l'exercice, je consens à remplir cette partie en n'ayant pas la moindre idée de comment se décrire sur un fichier .md
