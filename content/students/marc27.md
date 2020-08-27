@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: marc27
 
 # First name or full name
 name: Marc LEFEBVRE
@@ -19,10 +19,10 @@ short_description: Je suis fan de jeux vidéos et de musiques électroniques.
 template: students
 description:
     Je m'appelle Marc LEFEBVRE, j'ai 25 ans et je suis depuis toujours un grand fan de jeux vidéos.
-    Cette formation me permet de faire mes premiers pas vers le monde du développement.
+    Cette formation me permet de faire mes premiers pas dans le monde du développement.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: marc27.png
 
 # Change this to True when you do you pull request.
 public: True
