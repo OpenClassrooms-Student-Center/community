@@ -46,4 +46,9 @@ projects:
     image: jsdenize/projet_2.png
     link: https://www.linkedin.com/in/formateurdeveloppeurweb/
     finished: false
+  - title: Aidez MacGyver à s'échapper !
+    description: Coder un jeu en python pour comprendre les modules, les algo et la structure d'un projet. 
+    image: jsdenize/projet_2.png
+    link: https://www.linkedin.com/in/formateurdeveloppeurweb/
+    finished: false
 ---
