@@ -36,7 +36,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: jsdenize/projet_2.png
+    image: jsdenize/projet_1.png
     link: https://www.linkedin.com/in/formateurdeveloppeurweb/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -44,11 +44,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: jsdenize/projet_2.png
-    link: https://www.linkedin.com/in/formateurdeveloppeurweb/
+    link: https://openclassrooms-student-center.github.io/community/students/jsdenize.html
     finished: false
   - title: Aidez MacGyver à s'échapper !
     description: Coder un jeu en python pour comprendre les modules, les algo et la structure d'un projet. 
-    image: jsdenize/projet_2.png
-    link: https://www.linkedin.com/in/formateurdeveloppeurweb/
+    image: jsdenize/projet_3.png
+    link: https://github.com/bugsfunny/theHackLab
     finished: false
 ---
