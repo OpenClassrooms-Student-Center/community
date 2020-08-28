@@ -17,8 +17,7 @@ short_description: Devenir développeur Java.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-    Je suis économiste avec le désir d'apprendre encore plus.
+description: Je suis économiste avec le désir d'apprendre encore plus.
 
 
 # image must be located in content/images/students
