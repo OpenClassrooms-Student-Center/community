@@ -23,7 +23,6 @@ description:
     je souhaite acquérir des compétences dans le Dev pour développer une application ou autre
     afin de fluidifier le fonctionnement de la production.
     Par la suite devenir développeur à part entière.
-    Cela me permettra aussi de développer une application pour ma future société.
     J'aime et pratique le sport. Je suis fan de manga et de la saga "The Witcher".
     Je suis mordu de new technologie et je cherche à apprendre un maximum de chose.
 
