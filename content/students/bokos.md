@@ -34,64 +34,64 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: bohdan/Projet_1.jpg
+    image: bokos/Projet_1.jpg
     link: https://www.linkedin.com/in/bohdankosh/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et Github  
-    image: bohdan/Projet_2.jpg
+    image: bokos/Projet_2.jpg
     link: https://github.com/Asediab/community
     finished: true
   - title: Mettez votre logique à l'épreuve.
     description: Réalisation d’un jeu numérique basé sur le concept des Escape Games.
-    image: bohdan/Projet_3.jpg
+    image: bokos/Projet_3.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Analysez les besoins de votre client pour son groupe de pizzerias.
     description: Mise en place d’un nouveau système informatique pour l’ensemble des pizzerias du groupe.
-    image: bohdan/Projet_4.jpg
+    image: bokos/Projet_4.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Concevez la solution technique d’un système de gestion de pizzeria
     description: En tant qu’analyste-programmeur, votre travail consiste, à ce stade, à définir le domaine fonctionnel et à concevoir l’architecture technique de la solution répondant aux besoins du client.
-    image: bohdan/Projet_5.jpg
+    image: bokos/Projet_5.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Créez un site communautaire autour de l’escalade
     description: Développer une application proposant les fonctionnalités attendues par le client.
-    image: bohdan/Projet_6.jpg
+    image: bokos/Projet_6.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Développez le nouveau système d’information de la bibliothèque d’une grande ville
     description: Créer une API web avec un web service SOAP ou un microservice REST.
-    image: bohdan/Projet_7.jpg
+    image: bokos/Projet_7.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Documentez votre système de gestion de pizzeria
     description: Produire une documentation technique et fonctionnelle de l’application.
-    image: bohdan/Projet_8.jpg
+    image: bokos/Projet_8.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Testez vos développements Java
     description: Mettre en place une démarche qualité et sa méthodologie.
-    image: bohdan/Projet_9.jpg
+    image: bokos/Projet_9.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Améliorez le système d’information de la bibliothèque
     description: Apporter des améliorations de fonctionnalités demandées par le client.
-    image: bohdan/Projet_10.jpg
+    image: bokos/Projet_10.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Effectuez un stage ou construisez une veille technologique
     description: Construisez une veille technologique.
-    image: bohdan/Projet_11.jpg
+    image: bokos/Projet_11.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Aidez la communauté en tant que développeur d'application Java
     description: 
-    image: bohdan/Projet_12.jpg
+    image: bokos/Projet_12.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: false
 ---
