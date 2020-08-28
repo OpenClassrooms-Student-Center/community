@@ -18,12 +18,12 @@ short_description: Devenir développeur Java.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je suis économicte avec le désir d'en apprendre encore plus.
+    Je suis économiste avec le désir d'apprendre encore plus.
 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: bohdan.jpg
+image: bokos.jpg
 
 # Change this to True when you do you pull request.
 public: True
