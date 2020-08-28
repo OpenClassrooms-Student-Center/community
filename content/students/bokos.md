@@ -55,7 +55,7 @@ projects:
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Concevez la solution technique d’un système de gestion de pizzeria
-    description: En tant qu’analyste-programmeur, votre travail consiste, à ce stade, à définir le domaine fonctionnel et à concevoir l’architecture technique de la solution répondant aux besoins du client.
+    description: Concevez la solution technique d’un système de gestion de pizzeria.
     image: bokos/Projet_5.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
