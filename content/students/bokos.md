@@ -19,7 +19,6 @@ short_description: Devenir développeur Java.
 template: students
 description: Je suis économiste avec le désir d'apprendre encore plus.
 
-
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: bokos.jpg
@@ -89,7 +88,7 @@ projects:
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: true
   - title: Aidez la communauté en tant que développeur d'application Java
-    description: 
+    description: Aidez la communauté en tant que développeur d'application Java.
     image: bokos/Projet_12.jpg
     link: https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java
     finished: false
