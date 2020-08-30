@@ -4,10 +4,10 @@
 # https://openclassrooms.com/fr/membres/baraa-hamdi
 # baraa.md.
 # lowercase, no blank space, Capital case or special character.
-title: baraa
+title: baraa.md
 
 # baraa hamdi
-name: baraa
+name: baraa.md
 date: 2020-08-30 22:09
 
 # One line.
