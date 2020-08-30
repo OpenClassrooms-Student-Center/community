@@ -18,8 +18,7 @@ short_description: Je suis passionnée par la technologie et la mécatronique et
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J'ai 29 ans et je suis ingénieure en mécatronique. Je suis passionnée par la technologie et la mécatronique et ja'aime coder et apprendre de nouvelles choses.Je lancer ma formation en programmation python et je suis motivée à finir mes projets et devenir une développeuse d'application.
-
+    J'ai 29 ans et Je suis ingénieure en mécatronique. Je suis passionnée par la technologie et la robotique et j'aime coder.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: baraa.jpg
