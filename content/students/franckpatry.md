@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: franck.png
+image: franckpatry.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -34,7 +34,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: Franck/Présentation.png
-    link: https://www.linkedin.com/in/franck-patry-2953641b4
+    link: https://openclassrooms.com/fr/membres/franckpatry
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
