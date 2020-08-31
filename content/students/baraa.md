@@ -13,12 +13,12 @@ date: 2020-08-30 22:09
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir une développeuse d'application python.
-short_description: Passionnée par la technologie et la mécatronique et j'aime coder.
+short_description: Passionnée par la technologie et j'aime coder.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je suis ingénieure mécatronicienne et motivée pour apprendre le python.
+    Ingénieure mécatronicienne et motivée pour apprendre le python.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: baraa.jpg
