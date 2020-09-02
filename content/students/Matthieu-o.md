@@ -7,7 +7,7 @@
 title: matthieu-o
 
 # First name or full name
-name: Matthieu
+name: matthieu-o
 date: 2020-09-01 16:25
 
 # One line.
@@ -47,9 +47,4 @@ projects:
     image: matthieu-o/projet2.PNG
     link: https://openclassrooms-student-center.github.io/presentation/students/matthieu-o.html
     finished: true
- # - title: Aidez MacGyver à sortir !
- #   description: Création d’un jeu développé en Python et utilisant PyGame.
- #   image: ratus/projet_3.png
- #   link: https://www.github.com
- #   finished: false
 ---
