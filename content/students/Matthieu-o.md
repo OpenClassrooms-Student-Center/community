@@ -22,7 +22,7 @@ description:
     J'ai choisi la mécanique et après quelques années et un virage en cours de carrière
     me voici donc rejoignant cette communauté d'apprentis développeurs.
     Ayant tendance à beaucoup échanger, je suis sur que nous nous croiserons au détour
-    d'une question sur les espaces dédiés à la communauté ;-).
+    d'une question sur les espaces dédiés à la communauté ;-) .
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
