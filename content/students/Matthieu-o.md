@@ -18,11 +18,11 @@ short_description: J'aime voir le résultat concret de mes actions, le code est 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J'avais deux choix une fois le bac en poche: l'ingénierie mécanique ou informatique.
+    J'avais deux choix une fois le bac en poche, l'ingénierie mécanique ou informatique.
     J'ai choisi la mécanique et après quelques années et un virage en cours de carrière
     me voici donc rejoignant cette communauté d'apprentis développeurs.
     Ayant tendance à beaucoup échanger, je suis sur que nous nous croiserons au détour
-    d'une question sur les espaces dédiés à la communauté ;-)
+    d'une question sur les espaces dédiés à la communauté ;-).
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
