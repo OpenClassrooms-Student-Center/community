@@ -18,8 +18,7 @@ short_description: En reconversion dans le monde du développement d'application
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je m'appelle Gabriel Andrica, j'ai 36 ans et je suis passionné par l'informatique. J'ai décidé de suivre la formation de développeur d'applications Python car c'est un langage trés utilisé dans des domaines intéressants, facile à apprendre et trés efficace.
-  
+    Je m'appelle Gabriel Andrica, j'ai 36 ans et je suis passionné par l'informatique.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
