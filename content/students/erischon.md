@@ -20,7 +20,7 @@ template: students
 description:
     J’ai plus de 50 ans et je suis actuellement en reconversion professionnelle.
     Mon projet c'est de devenir Artisan Développeur.
-    En 35 ans d’activité professionnelle c’est ma 5ème reconversion, mes 2 dernières expériences : Program Manager et Coach Professionnel.
+    En 35 ans d’activité professionnelle c’est ma 5ème reconversion, mes 2 dernières expériences ont été Program Manager et Coach Professionnel.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
