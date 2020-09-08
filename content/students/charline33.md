@@ -15,7 +15,7 @@ date: 2020-09-08 15:45
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Je souhaite travailler dans un environnement qui me correspond et réciproquement.
 
-short_description: Je suis passionnée par les livres, la sculpture, le modeling et le chant... et le code!
+short_description: Je suis passionnée par les livres, la sculpture, le modeling le chant... et le code!
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
