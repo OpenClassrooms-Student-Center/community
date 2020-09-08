@@ -10,7 +10,7 @@ date: 2020-09-08 15:45
 
 objective: Je souhaite travailler dans un environnement qui me correspond et réciproquement
 
-short_description: Je suis passionnée par les livres, la sculpture, le modeling et le chant...et le code!
+short description: Je suis passionnée par les livres, la sculpture, le modeling et le chant...et le code!
 
 
 template: students
