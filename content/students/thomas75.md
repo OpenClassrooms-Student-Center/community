@@ -51,6 +51,11 @@ projects:
 
     link: https://github.com/OBud75/MacGyver.git
 
-    finished: false
+    finished: true
 
+  - title: Analysez les besoins de votre client
+
+    description: Rédaction du dossier de conception fonctionnelle
+    
+    finished: false
 ---
