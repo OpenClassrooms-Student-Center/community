@@ -52,12 +52,11 @@ projects:
     link: https://github.com/OBud75/MacGyver.git
 
     finished: true
+  
+  - title: Analysez les besoins de votre client.
 
-  - title: Analysez les besoins de votre client pour son groupe de pizzerias
-    
     description: Rédaction du dossier de conception fonctionnelle
-    
+
     finished: false
-    
 
 ---
