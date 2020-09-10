@@ -23,9 +23,9 @@ date: 2020-09-10 15:36
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Réussir mon diplôme et apprendre un nouveau métier passionnant.
+objective: Apprendre un nouveau métier passionnant.
 
-short_description: j'apprends à coder pour pouvoir être indépendant et non plus dépendante des expatriations de mon mari.
+short_description: j'apprends à coder pour pouvoir être indépendante.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -36,7 +36,7 @@ description:
 
     J'ai 32 ans, mère de 2 petites filles et j'ai arrêté ma carrière pour éduquer mes 
     enfants et permettre à mon mari de développer sa carrière.
-    Maintenant c'est à mon tour de reprendre ma vie comme je l'entend et de m'éclater.
+    Maintenant je reprend ma vie en main m'éclate.
 
 # image must be located in content/images/students
 
