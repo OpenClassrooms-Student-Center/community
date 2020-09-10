@@ -62,7 +62,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: delphine/projet_1.png
+    image: delphine/Projet_1.png
 
     link: https://www.linkedin.com/in/delphine-miel-8438771b5/
 
@@ -76,7 +76,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Github
 
-    image: delphine/projet_2.png
+    image: delphine/Projet_2.png
 
     link: https://github.com/MyBhive/community
 
@@ -86,10 +86,10 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: adrien/projet_3.png
+    image: delphine/Projet_3.png
 
-    link: https://github.com/adrien914/P3_Aidez_MacGyver_a_s-echapper-
+    link: https://www.github.com
 
-    finished: true
+    finished: false
 
 ---
