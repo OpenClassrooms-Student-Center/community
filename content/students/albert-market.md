@@ -29,7 +29,7 @@ So here I am, ready to crunch the Apple...
 image: alber-market.jpg
 
 # Change this to True when you do you pull request.
-public: false
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -38,7 +38,7 @@ projects:
     # Image must be here: content/images/students/yourrepo/project1.png
     image: albert-market/projet_1.jpg
     link:
-    finished: false
+    finished: true
   - title: Intégrez la communauté !
     description: Comprendre le fonctionnement de Git, de Github et des pull requests.
     image: albert-market/projet_2.jpg
