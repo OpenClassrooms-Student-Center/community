@@ -61,7 +61,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: albert-market/projet_1.png
+    image: albert-market/project_1.png
 
     link:
 
@@ -75,11 +75,11 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: albert-market/projet_2.png
+    image: 
 
     link: https://openclassrooms-student-center.github.io/presentation/students/alber-market.html
 
-    finished: true
+    finished: false
 
 
 ---
