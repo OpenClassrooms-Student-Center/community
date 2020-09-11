@@ -61,7 +61,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: albert-market/project_1.png
+    image: albert-market/project_1.jpg
 
     link:
 
