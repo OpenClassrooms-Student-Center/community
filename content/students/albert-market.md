@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: Pascal
+title: pascal
 
 
 # First name or full name
@@ -25,7 +25,7 @@ date: 2020-09-10 14:27
 
 objective: Learn Apple's development tools to create applications under iOS, iPadOs and macO.
 
-short_description: Human who wants to live a digital experience to put it at the service of other humans.
+short_description: A human being who wants to live a digital experience in order to put it at the service of other humans.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -33,7 +33,9 @@ short_description: Human who wants to live a digital experience to put it at the
 template: students
 
 description:
+
     Having worked for the medical world as product manager for a publisher, I wanted to look in the other side of the mirror. To be able to put my experience and creativity into practice, often blocked by replies like "Yeah ... but no, ... because we would have to review the architecture of our developments...". I make a bit of caricature, but it's real life! So here I am, ready to crunch the Apple...
+
 
 # image must be located in content/images/students
 
@@ -44,7 +46,7 @@ image: alber-market.jpg
 
 # Change this to True when you do you pull request.
 
-public: True
+public: true
 
 
 # You need to keep the exact same structure for each new project.
@@ -59,9 +61,9 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: alber-market/projet_1.jpg
+    image: alber-market/projet_1.png
 
-    link: 
+    link:
 
     # 'true' makes it fully available.
 
@@ -71,11 +73,11 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source en utilisant Git et Github.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: Joaquim/projet_2.png
+    image: alber-market/projet_2.png
 
-    link: 
+    link: https://openclassrooms-student-center.github.io/presentation/students/alber-market.html
 
     finished: true
 
