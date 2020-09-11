@@ -80,6 +80,14 @@ projects:
     link: https://openclassrooms-student-center.github.io/presentation/students/alber-market.html
 
     finished: false
+  - title: Créez votre premier jeu vidéo avec Swift !
 
+    description: Création d'un simulateur de jeu vidéo sous terminal.
+
+    image:
+
+    link: https://www.github.com
+
+    finished: false
 
 ---
