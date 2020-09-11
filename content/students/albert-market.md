@@ -41,7 +41,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: alber-market.jpg
+image: albert-market.jpg
 
 
 # Change this to True when you do you pull request.
@@ -61,7 +61,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: alber-market/projet_1.png
+    image: albert-market/projet_1.png
 
     link:
 
@@ -75,7 +75,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: alber-market/projet_2.png
+    image: albert-market/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/alber-market.html
 
