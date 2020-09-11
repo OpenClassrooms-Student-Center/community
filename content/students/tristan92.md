@@ -33,7 +33,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: tristan/projet_1.png
+    image: tristan92/projet_1.png
     link: https://www.linkedin.com/in/tristan-l%C3%A9cuyer-984a22160/?originalSubdomain=fr
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -45,7 +45,7 @@ projects:
     finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: tristan/92projet_3.png
+    image: tristan92/projet_3.png
     link: https://www.github.com
     finished: false
 ---
