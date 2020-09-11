@@ -25,7 +25,7 @@ date: 2020-09-10 14:27
 
 objective: Learn Apple's development tools to create applications under iOS, iPadOs and macO.
 
-short_description: A human being who wants to live a digital experience in order to put it at the service of other humans.
+short_description: Human being who wants to live digital experience in order to put it at the service of other humans.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
