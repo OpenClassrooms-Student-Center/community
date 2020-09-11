@@ -34,7 +34,7 @@ template: students
 
 description:
 
-    Having worked for the medical world as product manager for a publisher, I wanted to look in the other side of the mirror. To be able to put my experience and creativity into practice, often blocked by replies like "Yeah ... but no, ... because we would have to review the architecture of our developments...". I make a bit of caricature, but it's real life! So here I am, ready to crunch the Apple...
+    Ayant travaillé pour le monde médical chez un éditeur logiciel en tant que directeur produit, j'avais envie de passer de l'autre côté du miroir. Mettre ainsi en pratique mon approche fonctionnelle et ma créativité, souvent freinées coté Dev par des réponses du genre - "Ouais..., mais non..., parce que là il faudrait revoir l'architecture du nos développements...". Je caricature un peu mais c'est du vécu ! Alors me voilà, prêt à croquer la pomme.
 
 
 # image must be located in content/images/students
