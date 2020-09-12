@@ -17,7 +17,13 @@ short_description: J'aime jouer aux jeux vidéos,faire de la randonnée pour dé
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
+<<<<<<< HEAD
 description: Je suis inscrite chez Openclassrooms sur le parcours Developpeur d'application IOS. 
+=======
+description: 
+
+Je suis inscrite chez Openclassrooms sur le parcours Developpeur d'application IOS. 
+>>>>>>> 70304cc18d22cb0dbdc777e724e5b56ca3109603
 J'ai hâte de commencer à apprendre ce qui se cache derrière une application IOS pour en réaliser à mon tour mais aussi me lancer dans l'aventure de développer en équipe.
 Pourquoi pas après finaliser mon projet d'entreprenariat et être une développeuse nomade?
 
