@@ -34,8 +34,8 @@ template: students
 
 description:
 
-    Je change de vie de fond en comble : déménagement, tri pour ne garder que l'essentiel (papiers, livres, disques, bibelots...), changement des habitudes de consommation (c'est le plus difficile !) et donc reconversion professionnelle. Python est le langage qui m'attire le plus et je souhaite donc le maitriser, avec l'aide d'OpenClassrooms et de sa communauté ^^
-	A terme, je souhaite devenir indépendant, même si je sais par expérience que l'avenir est parfois différent de ce que j'avais prévu :D
+    Je change de vie de fond en comble \: déménagement, tri pour ne garder que l'essentiel (papiers, livres, disques, bibelots...), changement des habitudes de consommation (c'est le plus difficile !) et donc reconversion professionnelle. Python est le langage qui m'attire le plus et je souhaite donc le maitriser, avec l'aide d'OpenClassrooms et de sa communauté ^^
+    A terme, je souhaite devenir indépendant, même si je sais par expérience que l'avenir est parfois différent de ce que j'avais prévu :D
 
 # image must be located in content/images/students
 
