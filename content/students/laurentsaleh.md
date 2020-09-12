@@ -80,7 +80,7 @@ projects:
 
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
-    finished: true
+    finished: false
 
   - title: Aidez MacGyver à sortir !
 
