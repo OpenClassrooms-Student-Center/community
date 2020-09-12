@@ -54,7 +54,7 @@ projects:
     finished: True
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: Abdel/Projet_3.png
+    image: Abdel/Project_3.png
     link: https://www.github.com
     finished: False
 ---
