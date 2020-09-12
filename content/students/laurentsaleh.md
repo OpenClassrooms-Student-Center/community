@@ -34,7 +34,7 @@ template: students
 
 description:
 
-    Bonjour, je suis Laurent, j'ai 52 ans. J'ai été cadre supérieur pendant plus de vingt ans avant de sortir de ma zone de confort et de choisir de partir pour un long voyage en voilier. Riche de toutes ces expériences, je suis persuadé aujourd'hui que savoir coder est un atout indispensable pour pouvoir continuer à mener des projets ayant un impact positif pour les autres. Ravi d'intégrer la communauté !
+    Voileux, voyageur, photographe et bientôt développeur python.
 
 
 # image must be located in content/images/students
