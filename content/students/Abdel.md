@@ -43,18 +43,18 @@ projects:
     description: Une présentation de moi-même à la commu. OC et mon planning de formation.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Abdel/project_1.png
+    image: Abdel/Project_1.png
     link: https://github.com/Abdelhz
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: True
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: Abdel/project_2.png
+    image: Abdel/Project_2.png
     link: https://github.com/Abdelhzhttps://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: True
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: Abdel/Projet_3.png
     link: https://www.github.com
     finished: False
 ---
