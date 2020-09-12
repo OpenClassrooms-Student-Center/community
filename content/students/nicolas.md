@@ -23,7 +23,7 @@ date: 2020-09-12 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Grâce à Python, changer de vie et, à terme, devenir indépendant.
+objective: Changer de vie professionnelle grâce à Python et, à terme, devenir indépendant.
 
 short_description: Je suis passionné de musique, de plantes et par livres et films de SF/Fantastique/Horreur ^^
 
@@ -34,8 +34,8 @@ template: students
 
 description:
 
-    Je change de vie de fond en comble \: déménagement, tri pour ne garder que l'essentiel (papiers, livres, disques, bibelots...), changement des habitudes de consommation (c'est le plus difficile !) et donc reconversion professionnelle. Python est le langage qui m'attire le plus et je souhaite donc le maitriser, avec l'aide d'OpenClassrooms et de sa communauté ^^
-    A terme, je souhaite devenir indépendant, même si je sais par expérience que l'avenir est parfois différent de ce que j'avais prévu :D
+    Changement de vie en cours. J'ai déménagé, je trie pour ne garder que l'essentiel (papiers, livres, disques...), je change mes habitudes de consommation (c'est le plus difficile !) et je fais donc une reconversion professionnelle. Python est le langage qui m'attire le plus et je souhaite donc le maitriser, avec l'aide d'OpenClassrooms et de sa communauté ^^
+    A terme, je voudrais être à mon compte.
 
 # image must be located in content/images/students
 
