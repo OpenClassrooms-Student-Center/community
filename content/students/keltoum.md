@@ -17,9 +17,7 @@ short_description: J'aime jouer aux jeux vidéos,faire de la randonnée pour dé
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: Je suis inscrite chez Openclassrooms sur le parcours Developpeur d'application IOS. 
-J'ai hâte de commencer à apprendre ce qui se cache derrière une application IOS pour en réaliser à mon tour mais aussi me lancer dans l'aventure de développer en équipe.
-Pourquoi pas après finaliser mon projet d'entreprenariat et être une développeuse nomade?
+description: Je suis inscrite chez Openclassrooms sur le parcours Developpeur d'application IOS, j'ai hâte de commencer à apprendre ce qui se cache derrière une application IOS pour en réaliser à mon tour mais aussi finaliser mon projet d'entreprenariat et être une développeuse nomade?
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -48,5 +46,5 @@ projects:
         description: Voici mon dossier forké sur mon profil.
         image: keltoum/projet2.png
         link: https://github.com/Keltoum-BLK/community
-        finished: false
+        finished: true
 ---
