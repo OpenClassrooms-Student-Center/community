@@ -41,7 +41,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: nicolas.png
+image: nicolas/nicolas.png
 
 
 # Change this to True when you do you pull request.
@@ -61,7 +61,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: projet_1.png
+    image: nicolas/projet_1.png
 
     link: https://github.com/Githb-usr
 
@@ -75,7 +75,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre Git, Github et les pull requests. 
 
-    image: projet_2.png
+    image: nicolas/projet_2.png
 
     link: https://openclassrooms-student-center.github.io/presentation/students/nicolas.html
 
