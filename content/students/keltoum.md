@@ -42,9 +42,9 @@ projects:
     image: keltoum/projet1.png
     link: https://openclassrooms.workplace.com/profile.php?id=100047140323399
     finished: true
-    - title: Intégrez la communauté OpenClassrooms !
-        description: Voici mon dossier forké sur mon profil.
-        image: keltoum/projet2.png
-        link: https://github.com/Keltoum-BLK/community
-        finished: false
+  - title: Intégrez la communauté OpenClassrooms !
+    description: Voici mon dossier forké sur mon profil.
+    image: keltoum/projet2.png
+    link: https://github.com/Keltoum-BLK/community
+    finished: false
 ---
