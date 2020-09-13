@@ -36,13 +36,13 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: QuentinBarthelemy5/Projet_1/Profile
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://openclassrooms.com/fr/membres/quentin-barthelemy-5
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: QuentinBarthelemy5/Projet_2/Github
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/QuentinDevPython/community
     finished: true
 ---
