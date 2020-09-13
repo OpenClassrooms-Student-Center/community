@@ -8,7 +8,7 @@ title: Yohan
 
 # First name or full name
 name: Yohan
-date: 2020-09-4 10:30
+date: 2020-09-13 15:15
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -34,19 +34,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon Workplace.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: yohan/projet1.jpg
+    image: yohan/Projet1.png
     link: https://openclassrooms.workplace.com/profile.php?id=100055078269885
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: yohan/projet2.png
+    image: yohan/Projet2.png
     link: https://github.com/OpenClassrooms-Student-Center/community
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: ratus/Projet3.png
     link: https://www.github.com
     finished: false
 ---
