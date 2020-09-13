@@ -15,7 +15,7 @@ date: 2020-09-13 17:55
 objective: Apprendre pour me lancer dans l'entrepreneuriat.
 
 # max 100 characters
-short_description: J'aime les jeux vidéo, le sport, la musique et la cuisine. Prêt pour une nouvelle aventure dans l'univers du code !
+short_description: J'aime les jeux vidéo, le sport, la musique et la cuisine. Prêt pour une nouvelle aventure dans l'univers du code.
 
 # don't touch that
 template: students
