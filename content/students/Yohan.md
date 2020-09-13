@@ -34,19 +34,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon Workplace.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: images/students/Yohan/Projet1.png
+    image: content/images/students/Yohan/Projet1.png
     link: https://openclassrooms.workplace.com/profile.php?id=100055078269885
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: images/students/Yohan/Projet2.png
+    image: content/images/students/Yohan/Projet2.png
     link: https://github.com/OpenClassrooms-Student-Center/community
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: images/students/Yohan/Projet3.png
+    image: content/images/students/Yohan/Projet3.png
     link: https://www.github.com
     finished: false
 ---
