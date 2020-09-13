@@ -46,5 +46,5 @@ projects:
         description: Voici mon dossier forké sur mon profil.
         image: keltoum/projet2.png
         link: https://github.com/Keltoum-BLK/community
-        finished: true
+        finished: false
 ---
