@@ -34,7 +34,7 @@ template: students
 
 description:
 
-    Ayant travaillé pour le monde médical chez un éditeur logiciel en tant que directeur produit, j'avais envie de passer de l'autre côté du miroir. Mettre ainsi en pratique mon approche fonctionnelle et ma créativité, souvent freinées coté Dev par des réponses du genre - "Ouais..., mais non..., parce que là il faudrait revoir l'architecture du nos développements...". Je caricature un peu mais c'est du vécu ! Alors me voilà, prêt à croquer la pomme.
+    Ayant travaillé pour le monde médical chez un éditeur logiciel en tant que directeur produit, j'avais envie de passer de l'autre côté du miroir. Mettre ainsi en pratique mon approche fonctionnelle et ma créativité, souvent freinées coté Dev par des réponses du genre - "Ouais..., mais non..., parce que là il faudrait revoir l'architecture du nos développements...". Je caricature un peu mais c'est du vécu ! Alors me voilà, prêt à croquer dans la pomme.
 
 
 # image must be located in content/images/students
