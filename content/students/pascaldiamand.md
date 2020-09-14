@@ -23,7 +23,7 @@ date: 2020-09-10 14:27
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Learn Apple's development tools to create applications under iOS, iPadOs and macO.
+objective: Learn Apple's development tools to create applications under iOS, iPadOs and macOS.
 
 short_description: Human being who wants to live digital experience in order to put it at the service of other humans.
 
