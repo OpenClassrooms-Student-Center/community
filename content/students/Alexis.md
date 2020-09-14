@@ -31,7 +31,7 @@ public: True
 projects:
   - title: Définissez votre stratégie d'apprentissage !
     description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage... 
-    image: Alexis/Projet_1.png
+    image: Alexis/projet_1.png
     link: https://openclassrooms.com/fr/paths/68/projects/38/assignment
     finished: true
 
