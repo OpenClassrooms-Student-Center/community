@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: albert-market
+title: pascaldiamand
 
 
 # First name or full name
@@ -41,7 +41,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: albert-market.jpg
+image: pascaldiamand.jpg
 
 
 # Change this to True when you do you pull request.
@@ -61,7 +61,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: albert-market/project_1.jpg
+    image: pascaldiamand/project_1.jpg
 
     link:
 
