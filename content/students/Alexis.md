@@ -33,11 +33,10 @@ projects:
     description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage... 
     image: Alexis/Projet_1.png
     link: https://openclassrooms.com/fr/paths/68/projects/38/assignment
-    finished: true
+    finished: True
 
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: Alexis/projet_2.png
     link: https://github.com/AlexisFricard/community
-    finished: true
----
+    finished: True
