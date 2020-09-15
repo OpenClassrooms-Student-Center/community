@@ -13,12 +13,10 @@ date: 2020-09-15 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre les plus possible afin d'être employable le plus rapidement possible.
-short_description: Apprendre est une chance, en vivre est un objectif.
-
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J’étais jusqu’à présent technicien de maintenance dans l’électricité et il était grand temps de donner un autre tournant à ma vie professionnelle en faisant de ma passion mon quotidien.
+    J’étais jusqu’à présent technicien de maintenance dans l’électricité et il était grand temps de changer de vie.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: vincent01.jpg
