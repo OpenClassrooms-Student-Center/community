@@ -18,7 +18,7 @@ short_description: Apprendre est une chance, en vivre est un objectif.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J’étais jusqu’à présent technicien de maintenance dans l’électricité et il était grand temps de donner un autre tournant à ma vie professionnelle en faisant de ma passion mon quotidien. C’est la formation de développeur IOS qui m’a séduite et qui correspond à mes aspirations.
+    J’étais jusqu’à présent technicien de maintenance dans l’électricité et il était grand temps de donner un autre tournant à ma vie professionnelle en faisant de ma passion mon quotidien.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: vincent01.jpg
