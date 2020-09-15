@@ -17,7 +17,7 @@ objective: Apprendre les plus possible afin d'être employable le plus rapidemen
 template: students
 description:
     J’étais jusqu’à présent technicien de maintenance dans l’électricité et il était grand temps de changer de vie.
-short_description: j'aime l'informatique et les nouvelles technologies
+short_description: j'aime l'informatique et les nouvelles technologies.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: vincent01.jpg
@@ -37,7 +37,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.  
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git.  
     image: vincent01/projet_2.png
     link: https://github.com/vincentsantos01
     finished: true
