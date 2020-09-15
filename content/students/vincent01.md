@@ -17,6 +17,7 @@ objective: Apprendre les plus possible afin d'être employable le plus rapidemen
 template: students
 description:
     J’étais jusqu’à présent technicien de maintenance dans l’électricité et il était grand temps de changer de vie.
+short_description: j'aime l'informatique et les nouvelles technologies
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: vincent01.jpg
