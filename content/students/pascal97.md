@@ -66,33 +66,33 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image:
+    image: pascal97/project1.png
 
-    link:
+    link: https://www.linkedin.com/in/pascal-le-developpeur/
 
     # 'true' makes it fully available.
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    finished: false
+    finished: true
 
   - title: Intégrez la communauté !
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des PRs. 
 
-    image:
+    image: pascal97/project2.png
 
-    link:
+    link: https://github.com/PascalLeDeveloppeur/community
 
-    finished: false
+    finished: true
 
   - title: Aidez MacGyver à sortir !
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image:
+    image: pascal97/project3.png
 
-    link:
+    link: 
 
     finished: false
 
