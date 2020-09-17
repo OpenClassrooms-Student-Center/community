@@ -57,6 +57,10 @@ projects:
 
     description: Rédaction du dossier de conception fonctionnelle
 
+    image: thomas75/projet_04.png
+
+    link: none
+
     finished: false
 
 ---
