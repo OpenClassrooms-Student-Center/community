@@ -7,7 +7,7 @@
 title: Michael973
 
 # First name or full name
-name: Michael
+name: Michael973
 date: 2020-09-17 17:20
 
 # One line.
@@ -23,7 +23,6 @@ description:
     le mec qui a écrit ça c'est sur il n'a jamais vu un fleuve en Amazonie, entre 
     les crocodile et les annacondas, je vois pas ou est la tranquillité.
 # image must be located in content/images/students
-# name should be the same as this file. Eg: celinemartinet.png
 image: michael973.png
 
 # Change this to True when you do you pull request.
