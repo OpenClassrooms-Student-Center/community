@@ -23,7 +23,7 @@ description:
     le mec qui a écrit ça c'est sur il n'a jamais vu un fleuve en Amazonie, entre 
     les crocodile et les annacondas, je vois pas ou est la tranquillité.
 # image must be located in content/images/students
-image: michael973.jpeg
+image: Michael973.png
 
 # Change this to True when you do you pull request.
 public: True
