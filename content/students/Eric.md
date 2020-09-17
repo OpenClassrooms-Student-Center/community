@@ -15,7 +15,7 @@ date: 2020-09-17 13:04
 objective: Savoir si ma passion peut aussi devenir mon futur.
 
 
-short_description: J'aime les sciences, les multipass et Age of Empire, et je trouve ça "magique" à chaque fois qu'un code fonctionne comme souhaité.
+short_description: J'aime les sciences, les multipass et Age of Empire.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -23,12 +23,7 @@ short_description: J'aime les sciences, les multipass et Age of Empire, et je tr
 template: students
 
 description:
-
-    Je m'appelle Eric, j'ai 51 ans et j'habite à Marseille.
     Scientifique de formation j'adore les maths et la physique, et l'IA me fait rêver.
-    Je travaille aux Finances Publiques et j'ai pris une année de congé formation pour apprendre le langage Python.
-    J'ai adoré apprendre le langage Pascal à la fac et je suis sûr qu'il en     sera de même pour      
-    Python qui est un langage plein de promesses.
 
     
 # image must be located in content/images/students
