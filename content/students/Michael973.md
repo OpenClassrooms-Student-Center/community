@@ -21,14 +21,13 @@ description:
     J'aime les pâtes à la bolognaise, et faire du vélo seulement par temps
     de pluie.je déteste le dicton "La vie est un long fleuve tranquille" car
     le mec qui a écrit ça c'est sur il n'a jamais vu un fleuve en Amazonie, entre 
-    les crocodile et les annaconda, je vois pas ou est la tranquillité.
-
+    les crocodile et les annacondas, je vois pas ou est la tranquillité.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: Michael973.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
