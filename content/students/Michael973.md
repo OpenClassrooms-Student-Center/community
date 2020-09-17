@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Michael973
+title: michael973
 
 # First name or full name
 name: Michael
@@ -23,7 +23,7 @@ description:
     le mec qui a écrit ça c'est sur il n'a jamais vu un fleuve en Amazonie, entre 
     les crocodile et les annacondas, je vois pas ou est la tranquillité.
 # image must be located in content/images/students
-image: Michael973.png
+image: michael973.jpg
 
 # Change this to True when you do you pull request.
 public: True
