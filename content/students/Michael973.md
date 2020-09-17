@@ -23,7 +23,7 @@ description:
     le mec qui a écrit ça c'est sur il n'a jamais vu un fleuve en Amazonie, entre 
     les crocodile et les annacondas, je vois pas ou est la tranquillité.
 # image must be located in content/images/students
-image: michael973.png
+image: Michael973.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -33,7 +33,7 @@ projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    image: michael973/projet_1.jpg
+    image: Michael973/projet_1.jpg
     link: https://www.linkedin.com/in/michael-benoit-877979106/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -41,13 +41,13 @@ projects:
 	
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: michael973/projet_2.jpg
+    image: Michael973/projet_2.jpg
     link: https://github.com/MikaIce
     finished: true
 	
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: michael973/projet_3.jpg
+    image: Michael973/projet_3.jpg
     link: https://www.github.com
     finished: false
 ---
