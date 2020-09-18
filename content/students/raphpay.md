@@ -17,7 +17,7 @@ short_description: Aimant le challenge, la nouveauté et l'aventure.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: Je quitte l'île de la Réunion à 16 ans pour pratiquer le BMX à haut niveau. Je tombe dans le bain de la programmation plus tard, dans un cours dispensé à la fac. Je tombe ensuite vite amoureux de ce monde, qui allie créativité et esprit pratique.
+description: Passionné de BMX et de programmation, notamment du monde iOS !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -33,18 +33,18 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: raphpay/Projet1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/raphael-payet/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: raphpay/Projet2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/raphpay
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu développé en Swift et utilisant Xcode.
     image: raphpay/Projet_3.png
-    link: https://www.github.com
+    link: https://github.com/raphpay
     finished: false
 ---
