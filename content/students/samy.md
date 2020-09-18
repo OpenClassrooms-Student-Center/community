@@ -34,7 +34,7 @@ template: students
 
 description:
 
-    Zélote du Dieu serpent, amateur de jazz manouche.
+    Zélote du Dieu serpent. 
 
 # image must be located in content/images/students
 
@@ -72,7 +72,7 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source. 
 
     image: sam/projet_2.png
 
@@ -82,7 +82,7 @@ projects:
 
   - title: Aidez MacGyver à sortir !
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Création d’un jeu développé en Python. 
 
     image: sam/projet_3.png
 
