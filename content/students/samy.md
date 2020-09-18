@@ -9,12 +9,12 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: Sam-prog-sudo
+title: samy
 
 
 # First name or full name
 
-name: Sam-prog-sudo
+name: samy
 
 date: 2020-09-18 16:28
 
@@ -40,7 +40,7 @@ description:
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: Sam-prog-sudo.png
+image: samy.png
 
 
 # Change this to True when you do you pull request.
@@ -54,15 +54,15 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Ma vision du Python: un langage simple (mais pas facile), efficace, lisible, compatible avec les autres langages et adapté aux changements !Mon envie de travailler m'a permis de trouver une équipe dynamique, la bonne entreprise, celle avec qui je partage certaines valeurs. https://www.linkedin.com/in/samysaad/
+    description: Ma mamia.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: Sam-prog-sudo/projet_1.png
+    image: samy/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: http://www.linkedin.com/in/samysaad/
 
     # 'true' makes it fully available.
 
@@ -74,7 +74,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: Sam-prog-sudo/projet_2.png
+    image: sam/projet_2.png
 
     link: https://github.com/Sam-prog-sudo/community
 
@@ -84,7 +84,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: Sam-prog-sudo/projet_3.png
+    image: sam/projet_3.png
 
     link: https://fr.wikipedia.org/wiki/MacGyver
 
