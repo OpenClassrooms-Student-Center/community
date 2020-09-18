@@ -33,7 +33,7 @@ short_description: J'aime le domaine créatif, le code art, la 3D, et les arduin
 template: students
 
 description:
-
+    J'aime le domaine créatif, le code art, la 3D, et les arduinos.
 
 # image must be located in content/images/students
 
