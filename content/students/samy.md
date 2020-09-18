@@ -23,9 +23,9 @@ date: 2020-09-18 16:28
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Tuer Travis. 
 
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+short_description: Je n'aime pas Travis. 
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
