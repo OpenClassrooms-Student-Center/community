@@ -71,7 +71,7 @@ projects:
 
    - title: Intégrez la communauté !
 
-     description:Modifier un projet OpenSource pour comprendre le fonctionnement de Git,de Github et des pullrequests
+     description: Modifier un projet OpenSource pour comprendre le fonctionnement de Git, Github et des pullrequests
 
      image: leohehlen/projet2.jpg
 
