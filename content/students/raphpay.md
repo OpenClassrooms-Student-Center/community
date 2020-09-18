@@ -13,7 +13,7 @@ date: 2020-09-18 10:09
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Avoir une approche professionnelle du monde du développement informatique.
-short_description: Aimant le challenge, la nouveauté et l'aventure. Quelques peu maniaque dans le code, certaines de mes blagues peuvent s'y retrouver.
+short_description: Aimant le challenge, la nouveauté et l'aventure.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
