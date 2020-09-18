@@ -59,7 +59,7 @@ public: True
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-#    image: leohehlen/projet1.png
+#    image: leohehlen/projet1.jpg
 
 #    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
 
@@ -73,7 +73,7 @@ public: True
 
 #    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-#    image: leohehlen/projet2.png
+#    image: leohehlen/projet2.jpg
 
 #    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
@@ -83,7 +83,7 @@ public: True
 
 #    description: Création d’un jeu développé en Python et utilisant PyGame.
 
-#    image: leohehlen/projet3.png
+#    image: leohehlen/projet3.jpg
 
 #    link: https://www.github.com
 
