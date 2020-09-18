@@ -44,7 +44,7 @@ projects:
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu développé en Swift et utilisant Xcode.
-    image: raphpay/Projet_3.png
+    image: raphpay/Projet3.png
     link: https://github.com/raphpay
     finished: false
 ---
