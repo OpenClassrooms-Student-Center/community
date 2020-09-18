@@ -61,7 +61,7 @@ projects:
 
      image: leohehlen/projet1.jpg
 
-     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+     link: https://www.linkedin.com/in/l%C3%A9o-hehlen-18108a167/
 
     # 'true' makes it fully available.
 
@@ -73,9 +73,9 @@ projects:
 
      description: Modifier un projet OpenSource pour comprendre le fonctionnement de Git, Github et des pullrequests
 
-     image: leohehlen/projet2.jpg
+     image: leohehlen/projet2.png
 
-     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+     link: https://openclassrooms-student-center.github.io/community/students/leohehlen.html
 
      finished: true
 
@@ -83,7 +83,7 @@ projects:
 
      description: Création d’un jeu développé en Python et utilisant PyGame.
 
-     image: leohehlen/projet3.jpg
+     image: leohehlen/projet3.png
 
      link: https://www.github.com
 
