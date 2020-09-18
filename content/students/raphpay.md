@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: RapharlPayet3
+title: RaphaelPayet3
 
 # First name or full name
 name: Raphael Payet
@@ -17,8 +17,7 @@ short_description: Aimant le challenge, la nouveauté et l'aventure. Quelques pe
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-Je quitte l'île de la Réunion à 16 ans pour pratiquer le BMX à haut niveau. Je tombe dans le bain de la programmation plus tard, dans un cours dispensé à la fac. Je tombe ensuite vite amoureux de ce monde, qui allie créativité et esprit pratique.
+description: Je quitte l'île de la Réunion à 16 ans pour pratiquer le BMX à haut niveau. Je tombe dans le bain de la programmation plus tard, dans un cours dispensé à la fac. Je tombe ensuite vite amoureux de ce monde, qui allie créativité et esprit pratique.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
