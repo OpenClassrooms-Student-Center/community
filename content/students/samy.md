@@ -74,7 +74,7 @@ projects:
 
     description: Modifier un projet Open Source. 
 
-    image: sam/projet_2.png
+    image: samy/projet_2.png
 
     link: https://github.com/Sam-prog-sudo/community
 
@@ -84,7 +84,7 @@ projects:
 
     description: Création d’un jeu développé en Python. 
 
-    image: sam/projet_3.png
+    image: samy/projet_3.png
 
     link: https://fr.wikipedia.org/wiki/MacGyver
 
