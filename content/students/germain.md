@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: germain
+title: Germain
 
 
 # First name or full name
@@ -87,7 +87,7 @@ projects:
 
     image: germain/projet_3.png
 
-    link: https://www.github.com
+    link: https://github.com/screw-pack/MacGyver.git
 
     finished: false
 
