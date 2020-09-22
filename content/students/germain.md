@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: Germain
+title: germain
 
 
 # First name or full name
