@@ -43,4 +43,9 @@ projects:
     image: louis/projet_2.jpg
     link: https://github.com/louis78r
     finished: true
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: louis/projet_3.jpg
+    link: https://www.github.com
+    finished: false
 ---
