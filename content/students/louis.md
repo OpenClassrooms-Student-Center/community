@@ -13,7 +13,7 @@ date: 2020-09-21 15:36
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre à développer des applications iOS
-short_description: Passionné d'informatique, je suis curieux et touche à tout dans ce domaine, j'aimerais apprendre à développer des applications mobiles sur iOS
+short_description: Passionné d'informatique, j'aimerais apprendre à développer des applications mobiles sur iOS
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
