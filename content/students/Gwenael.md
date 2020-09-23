@@ -18,7 +18,7 @@ short_description: J'aime apprendre et les sciences en général. Mon but est de
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    En reconversion professionnelle j'aspire à plus d'autonomie et d'épanouissement dans mon travail, ainsi qu'à m'ouvrir à de nouveaux horizons tout en continuant à faire ce que j'aime:   
+    En reconversion professionnelle j'aspire à plus d'autonomie et d'épanouissement dans mon travail, tout en continuant à faire ce que j'aime:   
     voyager, apprendre et découvrir.
 
 # image must be located in content/images/students
@@ -26,7 +26,7 @@ description:
 image: gwenael.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -43,7 +43,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Github. 
     image: gwenael/projet_2.png
     link: https://github.com/gwen23/community
-    finished: true
+    finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: gwenael/projet_3.png
