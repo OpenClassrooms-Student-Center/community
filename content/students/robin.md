@@ -35,18 +35,18 @@ projects:
     # Image must be here: content/images/students/yourrepo/project1.png
     image: robin/projet1.png
     # Image must be here: content/images/students/yourrepo/project1.png
-    link:://openclashttpssrooms.workplace.com/?request_id=bkhologbldheioigbejjlnkimcocpdhooghgakdj&login_type=0
+    link: https://openclassrooms.workplace.com/profile.php?id=100000620099260
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre Git, Github et les pull requests.
     image: robin/projet_2.png
-    link:
+    link: https://github.com/robindauteuil/community.git
     finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: robin/projet_3.png
-    link: https://www.github.com
+    link: https://github.com/robindauteuil
     finished: false
   ---
