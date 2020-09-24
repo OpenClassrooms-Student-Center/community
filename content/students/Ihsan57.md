@@ -39,7 +39,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: utilisation de git et github
     image: Ihsan57/Projet_2.png.jpg
     link: https://github.com/ihsan-salman/community
     finished: true
