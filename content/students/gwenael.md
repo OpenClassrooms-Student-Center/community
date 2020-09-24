@@ -18,7 +18,7 @@ short_description: J'aime apprendre et les sciences en général. Mon but est de
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    En reconversion professionnelle j'aspire à plus d'autonomie et d'épanouissement dans mon travail, tout en continuant à faire ce que j'aime: voyager, apprendre et découvrir.
+    En reconversion professionnelle j'aspire à plus d'autonomie et d'épanouissement dans mon travail.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
