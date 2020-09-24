@@ -42,7 +42,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Github. 
     image: gwenael/Projet_2.png
     link: https://github.com/gwen23/community
-    finished: false
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: gwenael/Projet_3.png
