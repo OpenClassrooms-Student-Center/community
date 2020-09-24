@@ -18,15 +18,14 @@ short_description: J'aime apprendre et les sciences en général. Mon but est de
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    En reconversion professionnelle j'aspire à plus d'autonomie et d'épanouissement dans mon travail, ainsi qu'à m'ouvrir à de nouveaux horizons tout en continuant à faire ce que j'aime:   
-    voyager, apprendre et découvrir.
+    En reconversion professionnelle j'aspire à plus d'autonomie et d'épanouissement dans mon travail.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: gwenael.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -34,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: gwenael/projet_1.png
+    image: gwenael/Projet_1.png
     link: https://www.linkedin.com/in/gwénaël-le-tonquèze-a547351b7
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Github. 
-    image: gwenael/projet_2.png
+    image: gwenael/Projet_2.png
     link: https://github.com/gwen23/community
-    finished: true
+    finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: gwenael/projet_3.png
+    image: gwenael/Projet_3.png
     link: https://www.github.com
     finished: false
 ---
