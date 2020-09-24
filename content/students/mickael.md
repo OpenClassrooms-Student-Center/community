@@ -17,8 +17,7 @@ short_description: Mickael, 22ans, pelotari, motard, aime le longboard.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-Anciennement préparateur de commande, licenciement économique suite à la fermeture de l'entreprise, je décide de me reconvertir vers un milieu passionnant et bien loin de mes précédentes études. 
+description: Anciennement préparateur de commande, licenciement économique suite à la fermeture de l'entreprise, je décide de me reconvertir vers un milieu passionnant et bien loin de mes précédentes études. 
 
 
 # image must be located in content/images/students
@@ -46,7 +45,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: 
+    image: mickael/projet_3.jpg
     link: https://www.github.com
     finished: false
 ---
