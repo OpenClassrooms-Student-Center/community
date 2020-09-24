@@ -25,7 +25,7 @@ description: Anciennement préparateur de commande, licenciement économique sui
 image: mickael.png
 
 # Change this to True when you do you pull request.
-public: True
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -47,5 +47,5 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: mickael/projet_3.jpg
     link: https://www.github.com
-    finished: false
+    finished: true
 ---
