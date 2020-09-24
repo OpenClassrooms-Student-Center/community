@@ -33,19 +33,19 @@ projects:
     description: Une présentation de moi-même,de mon linkedin et de mes objectifs pour cette formation
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Ihsan57/projet1.png
+    image: Ihsan57/Projet_1.png
     link: https://www.linkedin.com/in/ihsan-salman-1ab2991b8/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Ihsan57/Projet2.png
+    image: Ihsan57/Projet_2.png
     link: https://github.com/ihsan-salman/community
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: Ihsan57/projet3.png
+    image: Ihsan57/Projet_3.png
     link: https://www.github.com
     finished: false
 ---
