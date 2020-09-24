@@ -25,7 +25,7 @@ description:
 image: gwenael.jpg
 
 # Change this to True when you do you pull request.
-public: True
+public: false
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -37,12 +37,12 @@ projects:
     link: https://www.linkedin.com/in/gwénaël-le-tonquèze-a547351b7
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: true
+    finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Github. 
     image: gwenael/Projet2.png
     link: https://github.com/gwen23/community
-    finished: true
+    finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: gwenael/Projet3.png
