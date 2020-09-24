@@ -25,7 +25,7 @@ description: Anciennement préparateur de commande, licenciement économique sui
 image: mickael.png
 
 # Change this to True when you do you pull request.
-public: true
+public: false
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -42,10 +42,10 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: mickael/projet_2.jpg
     link: https://github.com/MiPayan/community
-    finished: true
+    finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: mickael/projet_3.jpg
     link: https://www.github.com
-    finished: true
+    finished: false
 ---
