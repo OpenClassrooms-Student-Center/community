@@ -30,9 +30,9 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même,de mon linkedin et de mes objectifs pour cette formation
+    description: Une présentation de moi-même et de mon linkedin
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/images/students/yourrepo/project1.png
+    Image must be here: content/images/students/yourrepo/project1.png
     image: Ihsan57/Projet_1.png.jpg
     link: https://www.linkedin.com/in/ihsan-salman-1ab2991b8/
     # 'true' makes it fully available.
