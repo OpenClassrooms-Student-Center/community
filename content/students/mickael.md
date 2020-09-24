@@ -13,12 +13,12 @@ date: 2016-10-28 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Développer une application iOS innovante. 
-short_description: Mickaël, 22ans, pelotari, motard, aime le longboard et la mécanique.
+short_description: Mickael, 22ans, pelotari, motard, aime le longboard.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-   Anciennement préparateur de commande, licenciement économique suite à la fermeture de l'entreprise, je décide de me reconvertir vers un milieu passionnant et bien loin de mes précédentes études. 
+Anciennement préparateur de commande, licenciement économique suite à la fermeture de l'entreprise, je décide de me reconvertir vers un milieu passionnant et bien loin de mes précédentes études. 
 
 
 # image must be located in content/images/students
