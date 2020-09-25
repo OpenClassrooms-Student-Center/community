@@ -41,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git.
     image: ghazi/project2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ghazi.html
+    link: https://openclassrooms-student-center.github.io/community/students/ghazi.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
