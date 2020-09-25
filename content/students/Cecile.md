@@ -29,23 +29,24 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Je m'appelle Cécile, je suis directrice artistique depuis plus de 4 ans et je souhaiterais apprendre le swift pour avoir la double compétence DA/Dev iOS
-    description: https://www.linkedin.com/in/cecilehuynh/
+  - title: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Je m'appelle Cécile, je suis directrice artistique depuis plus de 4 ans et je souhaiterais apprendre le swift 
+    pour avoir la double compétence DA/Dev iOS
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/Cecile/projet_1.png
-    image: ratus/Cecile/projet_1.png
+    image: Cecile/projet_1.png
     link: https://www.linkedin.com/in/cecilehuynh/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/Cecile/projet_2.png
+    image: Cecile/projet_2.png
     link: content/images/students/Cecile/projet_2.png
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: ...
     link: https://www.github.com
     finished: false
 ---
