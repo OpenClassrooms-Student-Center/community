@@ -23,9 +23,9 @@ date: 2020-09-18 16:28
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Tuer Travis. 
+objective: Valider mon diplome. 
 
-short_description: Je n'aime pas Travis. 
+short_description: Passionné de python, je suis en contrat d'alternance, sur le parcours DA python.  
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -34,7 +34,7 @@ template: students
 
 description:
 
-    Zélote du Dieu serpent. 
+    Zélote du Dieu serpent, passionné de rugby, Cordon bleu à mes heures perdues/retrouvées, je n'aime pas les scooters
 
 # image must be located in content/images/students
 
@@ -54,7 +54,7 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Ma mamia.
+    description: Voici un screenshot de mon profil linkedin.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -72,7 +72,7 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source. 
+    description: Lien vers le projet Open Source, partagée par la communauté OC.
 
     image: samy/projet_2.png
 
