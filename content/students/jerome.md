@@ -81,7 +81,7 @@ projects:
 
     link: https://openclassrooms-student-center.github.io/presentation/students/jerome.html
 
-    finished: false
+    finished: true
 
   - title: Aidez MacGyver à sortir !
 
