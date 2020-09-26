@@ -16,7 +16,7 @@ title: jerome
 
 name: Jerome
 
-date: 2016-10-28 17:20
+date: 2020-09-13 18:30
 
 
 # One line.
@@ -25,7 +25,7 @@ date: 2016-10-28 17:20
 
 objective: Faire de ma passion mon métier.
 
-short_description: Je suis passionné par l'informatique, j'ai un appétit de cinéphage et j'aime la course à pied. 
+short_description: Passionné par l'informatique, j'ai un appétit de cinéphage et j'aime la course à pied. 
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -34,7 +34,7 @@ template: students
 
 description:
 
-    Autodidacte de 48 ans, je me lance dans cette aventure avec pour mission  
+    Autodidacte de 49 ans, je me lance dans cette aventure avec pour mission  
 
     me reconvertir en développeur d'application python.
 
@@ -57,7 +57,7 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même et mon workplace pour l'instant.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
