@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Gwen23.jpg
+image: gwenael.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -33,14 +33,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Gwen23/Projet1.jpg
+    image: gwenael/Projet1.jpg
     link: https://www.linkedin.com/in/gwénaël-le-tonquèze-a547351b7
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Github. 
-    image: Gwen23/Projet2.png
+    image: gwenael/Projet2.png
     link: https://github.com/gwen23/community
     finished: true
   - title: Aidez MacGyver à sortir !
