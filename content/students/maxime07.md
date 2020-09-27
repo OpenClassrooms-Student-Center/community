@@ -39,7 +39,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     
-    image: maxime07/project1.png
+    image: maxime07/projet_1.png
    
     link: https://www.linkedin.com/in/maxime-kélani-67021919a 
     # 'true' makes it fully available.
@@ -51,7 +51,7 @@ projects:
     
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     
-    image: maxime07/project2.png
+    image: maxime07/projet_2.png
     
     link: https://github.com/Maximekln/community
     
@@ -61,7 +61,7 @@ projects:
     
     description: Création d’un jeu développé en Python et utilisant PyGame.
     
-    image: maxime07/project3.png
+    image: maxime07/projet_2.png
     
     link: https://www.github.com
     
