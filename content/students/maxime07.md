@@ -15,7 +15,7 @@ date: 2020-09-21 19:07
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: J'aspire à devenir développeur professionnel d'application.
 
-short_description: Je me reconvertis en codant.
+short_description: Je me réinvente en codant.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
