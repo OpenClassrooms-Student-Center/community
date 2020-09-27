@@ -15,11 +15,7 @@ date: 2020-09-21 19:07
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: J'aspire à devenir développeur professionnel d'application.
 
-<<<<<<< HEAD
 short_description: Je me réinvente en codant.
-=======
-short_description: Je me reconvertis en codant.
->>>>>>> 73fd73baeffd17e332d7223b765463f84195edf0
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -61,11 +57,7 @@ projects:
     
     finished: true
  
-<<<<<<< HEAD
   - title: Aidez MacGyver à sortir !
-=======
- - title: Aidez MacGyver à sortir !
->>>>>>> 73fd73baeffd17e332d7223b765463f84195edf0
     
     description: Création d’un jeu développé en Python et utilisant PyGame.
     
