@@ -41,7 +41,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests.
     image: marie/Projet2_en-cours.jpg
     link: 
     finished: false 
