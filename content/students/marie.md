@@ -10,7 +10,7 @@ date: 2020-09-22 10:41
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: me reconvertir professionnellement en programmation informatique pour travailler en freelance ou évoluer en bio-informatique. 
-short description: Passionnée de biologie animale et végétale. J'aime le sport, la nature (rando montagne, kayak, voyage).
+short_description: Passionnée de biologie animale et végétale. J'aime le sport, la nature (rando montagne, kayak, voyage).
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
