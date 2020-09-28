@@ -18,7 +18,7 @@ short_description: J'aime me confronter aux problèmes liés à l'informatique.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J'ai 26 ans, après 6 ans dans l'informatique et le réseau, je veux me diversifier et apprendre le métier de Développeur.
+    J'ai 26 ans, je veux me diversifier et apprendre le métier de Développeur.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
