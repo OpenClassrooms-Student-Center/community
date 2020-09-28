@@ -36,7 +36,6 @@ description:
 
     Je commence la formation de dévoloppeur d'application-Python.
 
-
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
@@ -73,7 +72,7 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre Git, Github et les pull requests. 
 
     image: margueritet/Projet2.png
 
