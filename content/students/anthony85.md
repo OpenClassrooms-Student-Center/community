@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: anthony85.PNG
+image: anthony85.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -33,7 +33,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: anthony85/projet1.PNG
+    image: anthony85/projet1.png
     link: https://www.linkedin.com/in/anthony-tuffery-51758570/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -45,7 +45,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: anthony85/projet3.PNG
+    image: anthony85/projet3.png
     link: https://www.github.com
     finished: false
 ---
