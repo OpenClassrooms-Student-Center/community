@@ -56,14 +56,13 @@ projects:
 
   - title: Définissez votre stratégie d'apprentissage !
 
-    description: Les clés pour réussir notre parcours & notre insertion professionnelle!
-    Mise en place d'un planing, d'un plan d'apperntissage ...
+    description: Les clés pour réussir notre parcours & notre insertion professionnelle! 
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: quentinr80/Projet_1.png
+    image: quentinr80/projet_1.png
 
     link: https://openclassrooms.com/fr/paths/68/projects/38/assignment
 
