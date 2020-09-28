@@ -10,7 +10,7 @@ date: 2020-09-22 10:41
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: me reconvertir professionnellement en programmation informatique pour travailler en freelance ou évoluer en bio-informatique. 
-short_description: Passionnée de biologie animale et végétale. J'aime le sport, la nature (rando montagne, kayak, voyage).
+short_description: Passionnée de biologie animale et végétale. J'aime le sport, la nature (rando, kayak, voyage).
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -20,7 +20,7 @@ description:
     que je compte exploiter dans mon projet pro. J'ai 2 objectifs qui sont travailler en freelance
     sur des solutions pour des TPE agricoles et/ou me remettre à jour en génétique, microbiologie etc..
     pour évoluer au sein d'une équipe de recherche en bio-informatique.
-    Je suis le parcours DA spécialité Python à temps plein. 
+    Je suis le parcours DA spécialité Python à temps plein.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: marie.jpg
