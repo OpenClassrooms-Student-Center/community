@@ -30,7 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description:Je m'appelle robin, je travaille au Mcdo, j'ai 21 ans, j'habite en region parisienne. Et un lien vers mon Workplace.
+    description: Je m'appelle robin, je travaille au Mcdo, j'ai 21 ans, j'habite en region parisienne. Et un lien vers mon Workplace.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: robin/projet1.png
@@ -43,7 +43,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre Git, Github et les pull requests.
     image: robin/projet_2.png
     link: https://github.com/robindauteuil/community.git
-    finished: false
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: robin/projet_3.png
