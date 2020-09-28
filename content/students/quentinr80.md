@@ -74,10 +74,9 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Comprendre le fonctionnement de Git, GitHub pour enuite apporter ma pierre 
-    à l'édifice!
+    description: Comprendre le fonctionnement de Git, GitHub pour enuite apporter ma pierre à l'édifice!
 
-    image: quentinr80/projet_2.png
+    image: 
 
     link: https://github.com/Q-R-Code
 
@@ -87,7 +86,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: quentinr80/projet_3.png
+    image: 
 
     link: https://github.com/Q-R-Code
 
