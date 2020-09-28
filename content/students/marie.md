@@ -17,7 +17,7 @@ short description: Passionnée de biologie animale et végétale. J'aime le spor
 template: students
 description:
     J'ai un master bio-informatique (2013) et une licence pro. agriculture bio (2018)
-    que je compte exploiter dans mon projet pro. J'ai 2 objectifs : travailler en freelance
+    que je compte exploiter dans mon projet pro. J'ai 2 objectifs ui sont travailler en freelance
     sur des solutions pour des TPE agricoles et/ou me remettre à jour en génétique, microbiologie etc..
     pour évoluer au sein d'une équipe de recherche en bio-informatique.
     Je suis le parcours DA spécialité Python à temps plein. 
