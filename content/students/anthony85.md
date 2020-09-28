@@ -41,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git. 
     image: anthony85/projet2.PNG
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/Austinstunner
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
