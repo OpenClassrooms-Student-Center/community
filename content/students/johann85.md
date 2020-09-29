@@ -18,8 +18,8 @@ short_description: J'aime les voyages, la photographie, apprendre de nouvelles c
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J'ai 33 ans et après plusieures années en tant que Chef de projets / AdminSys, j'ai envie de découvrir l'autre côté de l'informatique. Afin d'apporter mes propres solutions logicielles, et me tourner vers le métier de développeur.
-
+    J'ai 33 ans et après un parcours d’AdminSys, j'ai envie de découvrir le métier de Développeur.
+    
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: johann85.png
