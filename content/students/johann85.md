@@ -12,7 +12,7 @@ date: 2020-09-29 13:56
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me former sur le developpement d'applications mobiles sur Ios après des années côté AdminSys.
+objective: Me former sur le developpement d'applications Ios après des années côté AdminSys.
 short_description: J'aime les voyages, la photographie, apprendre de nouvelles choses.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
