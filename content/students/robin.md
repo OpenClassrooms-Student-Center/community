@@ -30,7 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je m'appelle robin, je travaille au Mcdo, j'ai 21 ans, j'habite en region parisienne. Et un lien vers mon Workplace.
+    description: Je m'appelle robin, je travaille au Mcdo, j'ai 21 ans. Et un lien vers mon Workplace.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: robin/projet1.png
