@@ -16,7 +16,7 @@ title: betty
 
 name: Betty
 
-date: 2020-09-29 03:07
+date: 2020-09-30 13:11
 
 
 # One line.
@@ -46,7 +46,7 @@ image: betty.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 # You need to keep the exact same structure for each new project.
@@ -61,7 +61,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: betty/projet_1.jpg
 
     link: https://www.linkedin.com/in/betty-del%C3%A9on-5363781b7/
 
@@ -75,20 +75,10 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: betty/projet_2.jpg
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/betty.md
 
     finished: true
-
-  - title: Aidez MacGyver à sortir !
-
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: ratus/projet_3.png
-
-    link: https://www.github.com
-
-    finished: false
 
 ---
