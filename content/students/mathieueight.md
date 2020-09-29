@@ -11,7 +11,7 @@ short_description: Artiste 2D-3D aime l'art en général et le code
 template: students
 description:
     Autodidacte en graphisme 2D et 3D, je réalise cette formation developpement python pour pouvoir collaborer sur des logiciels et des
-applications dans l'industrie du jeu, cinema et publicite. Je cherche à developper des nouveaux outils pour le graphisme, 2D, 3D, et tout ce qui touche de près ou de loin au secteur.
+    applications dans l'industrie du jeu, cinema et publicite. Je cherche à developper des nouveaux outils pour le graphisme, 2D, 3D, et tout ce qui touche de près ou de loin au secteur.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -60,6 +60,6 @@ projects:
 
     link: https://www.github.com
 
-    finished: false
+    finished: True
 
 ---
