@@ -53,4 +53,9 @@ projects:
     image: loik/projet_2.png
     link: https://github.com/loguima
     finished: true
+  - title: Aidez MacGyver à s'échapper !
+    description: Créer un mini jeu 
+    image: 
+    link: https://github.com/loguima/community
+    finished: false    
 ---
