@@ -19,12 +19,12 @@ short_description: Je ne suis pas GEEK mais, jadore les nouvelles technologies, 
 template: students
 description:
     Hello World!
-    Je m'appel Nassir, 23 ans(en 2020) et je suis developpeur web et web mobile junior
+    Je m'appel Nassir, 23 ans(en 2020) et je suis developpeur web et web mobile junior,
     titulaire du titre RNCP de "Developpeur Web et Web Mobile", obtenu en Aout 2020.
-    Je suis passioner par le Marvel Cinematic Univers (MCU) et j'ai toujours voulu ressembler
+    Je suis passioné par le Marvel Cinematic Univers (MCU) et j'ai toujours voulu ressembler
     à "Tony Starck" dans la saga "Iron Man".
-    J'ai de nombreux projets en tête lier à la tech ainsi je veux continuer à me former
-    et apprendre pour aboutir mes idées. Je vous souhaites à toutes et tous de réalisers vos rêve.
+    J'ai de nombreux projets en tête liés à la tech, ainsi je veux continuer à me former
+    et apprendre pour aboutir mes idées. Je vous souhaites à toutes et tous de réaliser vos rêves.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
