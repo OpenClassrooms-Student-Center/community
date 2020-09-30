@@ -32,7 +32,16 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  
+  - title: Définissez votre stratégie d'apprentissage !
+
+    description: Construire pas à pas son projet professionnel.
+
+    image: maxime07/projet_2.png
+
+    link: https://openclassrooms.com/fr/paths/68/projects/38/project-evaluation
+
+    finished: true
+
   - title: Intégrez la communauté !
     
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
@@ -41,7 +50,7 @@ projects:
     
     link: https://github.com/Maximekln/community
     
-    finished: true
+    finished: false
  
   - title: Aidez MacGyver à sortir !
     
