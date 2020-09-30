@@ -36,7 +36,7 @@ projects:
 
     description: Construire pas à pas son projet professionnel.
 
-    image: maxime07/projet_2.png
+    image: maxime07/projet1.PNG
 
     link: https://openclassrooms.com/fr/paths/68/projects/38/project-evaluation
 
@@ -46,7 +46,7 @@ projects:
     
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     
-    image: maxime07/projet_2.png
+    image: maxime07/projet_2.PNG
     
     link: https://github.com/Maximekln/community
     
@@ -56,7 +56,7 @@ projects:
     
     description: Création d’un jeu développé en Python et utilisant PyGame.
     
-    image: maxime07/projet_2.png
+    image: maxime07/projet_2.PNG
     
     link: https://www.github.com
     
