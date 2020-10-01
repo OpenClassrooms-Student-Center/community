@@ -89,7 +89,7 @@ projects:
 
     image: jerome/project_3.png
 
-    link: https://www.github.com
+    link: https://github.com/Jerome-LorD/MacGyver
 
     finished: false
 
