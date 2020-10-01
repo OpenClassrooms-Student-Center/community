@@ -36,7 +36,7 @@ public: False
 projects:
   - title: Présentez-vous !
 # max 100 characters
-    description: En reconversion du marketing vers le développement
+    description: En reconversion du marketing vers le développement.
 # Create a new repository for your images. Name it the same as your nickname and profile picture.
 # Image must be here: content/images/students/Axel/project1.png
     image: Axel2/projet_1.png
