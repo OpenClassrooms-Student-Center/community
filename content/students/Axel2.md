@@ -27,7 +27,7 @@ description:
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 # max size: 200ko
-image: Axel2.png
+image: Axel2.jpg
 
 # Change this to True when you do you pull request.
 public: False
