@@ -41,7 +41,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pullreques
-    image: sandrine/projet_2.png
+    image: sebastien/projet_2.png
     link: https://github.com/thorpe01/community
     finished: true
   - title: Aidez MacGyver à sortir !
