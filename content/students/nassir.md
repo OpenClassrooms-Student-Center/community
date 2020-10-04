@@ -13,7 +13,7 @@ date: 2020-09-28 15:14
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir un "As" de la programmation d'applications iOS pour réaliser mes projets.
-short_description: Je ne suis pas GEEK mais, j'adore les nouvelles technologies, et j'aime exprimer ma créativité par la programmation.
+short_description: J'adore les nouvelles technologies, et j'aime exprimer ma créativité par la programmation.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
