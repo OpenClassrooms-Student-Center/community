@@ -19,8 +19,7 @@ short_description: J'adore exprimer ma créativité par la programmation.
 template: students
 description:
     Hello World!
-    Je m'appel Nassir, 23 ans(en 2020) et je suis developpeur web et web mobile junior,
-    titulaire du titre RNCP de "Developpeur Web et Web Mobile", obtenu en Aout 2020.
+    Je m'appel Nassir, 23 ans(en 2020) et je suis developpeur web et web mobile junior.
     Je suis passioné par le Marvel Cinematic Univers (MCU) et j'ai toujours voulu ressembler
     à "Tony Starck" dans la saga "Iron Man".
     J'ai de nombreux projets en tête liés à la tech, ainsi je veux continuer à me former
@@ -45,7 +44,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et Github.
     image: nassir/projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/community
     finished: true
