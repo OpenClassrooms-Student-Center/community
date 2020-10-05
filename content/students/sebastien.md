@@ -19,7 +19,7 @@ short_description: Je suis passionné par tout ce qui est création et le web.
 template: students
 description:
     Je suis un ex maquettiste en reconversion qui a gouté aux joies de la programmation .
-    Mon projet pour le futur est de maitriser le developpement python afin de pouvoir trouver un métier vraiment passionnant et de pouvoir faire des projets personnel.
+    Mon projet pour le futur est de maitriser le développement python afin de pouvoir trouver un métier vraiment passionnant et de pouvoir faire des projets personnel.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
