@@ -13,7 +13,7 @@ date: 2020-09-22 11:40
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur python confirmé .
-short_description: Je suis pasionné par tout ce qui est création et le web .
+short_description: Je suis passionné par tout ce qui est création et le web .
 
 # don't touch that
 template: students
