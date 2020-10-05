@@ -18,7 +18,7 @@ short_description: Je suis pasionné par tout ce qui est création et le web .
 # don't touch that
 template: students
 description:
-    Je suis un ex maquettiste en reconversion qui a gout� aux joie de la programmation .
+    Je suis un ex maquettiste en reconversion qui a gouté aux joie de la programmation .
     Mon projet pour le futur est de maitriser le developpement python afin de pouvoir trouver un métier vraiment passionnant et de pouvoir faire des projets personnel.
 
 # image must be located in content/images/students
