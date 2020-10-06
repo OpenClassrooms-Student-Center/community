@@ -39,7 +39,7 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: Intégrez la communauté!
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pullreques
     image: sebastien/projet_2.png
     link: https://github.com/thorpe01/community
