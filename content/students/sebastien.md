@@ -44,7 +44,7 @@ projects:
     image: sebastien/projet_2.png
     link: https://github.com/thorpe01/community
     finished: true
-  #- title: Aidez MacGyver Ã  sortir !
+  - title: Aidez MacGyver Ã  sortir !
     description: Création d'un jeu développé en Python et utilisant PyGame.
     image: sebastien/projet_2.png
     link: https://www.github.com
