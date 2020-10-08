@@ -50,7 +50,7 @@ projects:
     link: https://www.github.com
     finished: true
   - title: Développez Instagrid
-    description: Une application de montage photo
+    description: Une application de montage photos
     image: marjolainelacan/Projet_4.png
     link: https://www.github.com
     finished: false
