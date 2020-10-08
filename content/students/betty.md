@@ -16,7 +16,7 @@ title: betty
 
 name: Betty
 
-date: 2020-10-03 09:41
+date: 2020-10-03 22:39
 
 
 # One line.
@@ -81,5 +81,14 @@ projects:
 
     finished: true
 
+  - title: Aidez MacGyver à sortir !
+
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+
+    image: betty/projet_3.png
+
+    link: https://www.github.com
+
+    finished: false
 
 ---
