@@ -7,7 +7,7 @@
 title: kika
 
 # First name or full name
-name: kika
+name: Kika
 date: 2020-10-09 03:56
 
 # One line.
