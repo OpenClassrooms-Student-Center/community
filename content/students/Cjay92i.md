@@ -26,7 +26,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: cyriljoret.jpg
+image: Cjay92i.jpg
 
 # Change this to True when you do you pull request.
 public: true
@@ -37,7 +37,7 @@ projects:
     description: Salut à tous ! Je suis Cyril, un entrepreneur de 36 ans qui rejoint la formation pour apprendre à coder ! à bientôt!
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: ratus/projet_1.png
+    image: Cjay92i/projet_1.png
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -51,5 +51,5 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
     link: https://www.github.com
-    finished: false
+    finished: 
 ---
