@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: anthony31.jpg
+image: anthony31.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -40,12 +40,12 @@ projects:
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: projet_2.jpg
+    image: projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/community
     finished: true
   - title: Aidez MacGyver à s'échapper !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: projet_3.jpg
+    image: projet_3.png
     link: https://www.github.com
     finished: false
 ---
