@@ -85,7 +85,7 @@ projects:
 
     description: Création d’un jeu développé en Python et utilisant PyGame.
 
-    image: betty/projet_3.png
+    image: betty/projet_3.jpg
 
     link: https://www.github.com
 
