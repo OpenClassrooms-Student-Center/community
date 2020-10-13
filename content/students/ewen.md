@@ -42,7 +42,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre Git, Github et les pull requests. 
     image: ewen/projet_2.png
-    link: https://github.com/Jinr0h404/community
+    link: https://openclassrooms-student-center.github.io/community/students/ewen.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
