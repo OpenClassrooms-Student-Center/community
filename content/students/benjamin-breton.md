@@ -69,6 +69,3 @@ projects:
     image: benjamin-breton/project_6.png
     link: https://github.com/bbenj28/OC_project_6
     finished: false
-      
-    
----
