@@ -13,15 +13,13 @@ date: 2020-10-14 09:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur Python
-short_description: Je deviendrai ce que je souhaite devenir, développeur.
+short_description: 
+    Je deviendrai ce que je souhaite devenir, développeur.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je m'appelle Quentin, j'ai 30 ans, mari et père en quête de reconversion professionnelle. 
-    Je suis opérateur de production sur machine de thermo-formage. C'est plus sympa que de dire que je fabrique des seringues.
-    Je suis un gamer de longue date (toutes ces parties d'Age of Empire...), passioné d'histoire, de vieilles pierres et de foot,
-    le week-end.
+    Je m'appelle Quentin, j'ai 30 ans, mari et père en quête de reconversion professionnelle.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
