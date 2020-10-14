@@ -16,13 +16,10 @@ objective: Devenir développeur Python
 short_description: 
     Je deviendrai ce que je souhaite devenir, développeur.
 
-# Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je m'appelle Quentin, j'ai 30 ans, mari et père en quête de reconversion professionnelle.
+    Je m'appelle Quentin j'ai 30 ans, mari et père en quête de reconversion professionnelle.
 
-# image must be located in content/images/students
-# name should be the same as this file. Eg: celinemartinet.png
 image: quentin38.jpg
 
 # Change this to True when you do you pull request.
