@@ -54,7 +54,7 @@ projects:
     image: benjamin-breton/project_3.png
     link: https://github.com/bbenj28/OC_project_3
     finished: true
-  - title: Développez Instagrid : une application de montage photo !
+  - title: Développez Instagrid une application de montage photo !
     description: Concevoir une application responsive respectant le MVC
     image: benjamin-breton/project_4.png
     link: https://github.com/bbenj28/OC_project_4
