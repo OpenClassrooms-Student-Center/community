@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: kika.PNG
+image: kika.png
 
 # Change this to True when you do you pull request.
 public: true
@@ -33,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: kika/projet_1.PNG
+    image: kika/projet_1.png
     link: https://www.linkedin.com/in/kika-dien-616b26152/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: texte de présentation dans le workplace. 
-    image: kika/projet_2.PNG
+    image: kika/projet_2.png
     link: https://openclassrooms.workplace.com/groups/1489841677757902
     finished: true
   - title: Mon compte Github
     description: Lien de mon compte Github.
-    image: kika/projet_3.PNG
+    image: kika/projet_3.png
     link: https://github.com/KikaDIEN1994
-    finished: true
+    finished: false
 ---
