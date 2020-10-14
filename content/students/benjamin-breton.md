@@ -54,21 +54,21 @@ projects:
     image: benjamin-breton/project_3.png
     link: https://github.com/bbenj28/OC_project_3
     finished: true
-    - title: Développez Instagrid : une application de montage photo !
-      description: Concevoir une application responsive respectant le MVC
-      image: benjamin-breton/project_4.png
-      link: https://github.com/bbenj28/OC_project_4
-      finished: true
-      - title: Améliorez une application existante
-        description: Améliorer, débuguer, et tester une application existante.
-        image: benjamin-breton/project_5.png
-        link: https://github.com/bbenj28/OC_project_5
-        finished: true
-        - title: Analysez les besoins de votre client pour son groupe de pizzerias
-          description: Concevoir un dossier de spécifications fonctionnelles et trouver une solution technique
-          image: benjamin-breton/project_6.png
-          link: https://github.com/bbenj28
-          finished: false
+  - title: Développez Instagrid : une application de montage photo !
+    description: Concevoir une application responsive respectant le MVC
+    image: benjamin-breton/project_4.png
+    link: https://github.com/bbenj28/OC_project_4
+    finished: true
+  - title: Améliorez une application existante
+    description: Améliorer, débuguer, et tester une application existante
+    image: benjamin-breton/project_5.png
+    link: https://github.com/bbenj28/OC_project_5
+    finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+    description: Concevoir un dossier de spécifications fonctionnelles et trouver une solution technique
+    image: benjamin-breton/project_6.png
+    link: https://github.com/bbenj28/OC_project_6
+    finished: false
       
     
 ---
