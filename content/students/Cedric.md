@@ -13,7 +13,7 @@ date: 2020-10-14 15:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir un développeur junior autonome.
-short_description: Rattrapé par la passion du Code !
+short_description: Le code! Une passion de jeunesse. Je veux en faire mon avenir.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -47,6 +47,16 @@ projects:
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: Cedric/projet3.jpg
+    link: https://github.com/FaillHarder/MacGyver
+    finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias.
+    description: Création d’un dossier de spécifications fonctionnelles et technique.
+    image: Cedric/projet4.jpg
     link: 
-    finished: false
+    finished: true
+  - title: Utilisez les données publiques de l'OpenFoodFacts.
+    description: Developper un programme qui interagirait avec la base OpenFoodFacts pour en récupérer les aliments, les comparer et proposer à l'utilisateur un substitut plus sain.
+    image: Cedric/projet5.jpg
+    link: https://github.com/FaillHarder/P5_OpenFoodFacts.git
+    finished: true
 ---
