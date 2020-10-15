@@ -1,7 +1,7 @@
 # Eliane
 ---
 
-# FILENAME : please use your OpenClassrooms's name, available in your url.
+# FILENAME : please use your OpenClassrooms'name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
@@ -25,9 +25,9 @@ template: students
 # max 500 characters
 description:
     Je m'appelle Eliane Edou mon nom d'artiste est Ndoho Ange je suis performeuse 
-    j'utilise l'image et le son puis je me mets en scene
-    C'est la techno qui m'a rapproche du monde digital.
-    Durant le confinement je me suis essayee a creer un site web sous html et cela 
+    j'utilise l'image et le son , je me mets en scene.
+    C'est la techno qui m'a rapprochée du monde digital.
+    Durant le confinement je me suis essayée a créer un site web sous html et cela 
     m'a plu . So here i am !  
 
 # image must be located in content/images/students
