@@ -13,7 +13,7 @@ date: 2020-10-14 15:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir un développeur junior autonome.
-short_description: Rattrapé par la passion du Code !
+short_description: Le code! Une passion de jeunesse. Je veux en faire mon avenir.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
