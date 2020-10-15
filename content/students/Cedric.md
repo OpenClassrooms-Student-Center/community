@@ -13,7 +13,7 @@ date: 2020-10-14 15:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir un développeur junior autonome.
-short_description: Père de famille en pleine reconversion
+short_description: Rattrapé par la passion du Code !
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -46,7 +46,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: 
+    image: Cedric/projet3.jpg
     link: 
     finished: false
 ---
