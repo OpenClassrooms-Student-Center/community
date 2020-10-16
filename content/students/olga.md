@@ -50,7 +50,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: olga/projet_3.png
+    image: olga/projet_3.jpg
     link: https://github.com/PrincessePython/community
     finished: false
 
