@@ -34,7 +34,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: briac/projet_1.jpg
-    https://www.linkedin.com/in/briac-putsch-02658a113/
+    link : https://www.linkedin.com/in/briac-putsch-02658a113/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
