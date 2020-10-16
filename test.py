@@ -229,7 +229,7 @@ class RandomTest(unittest.TestCase):
 
         # uncomment to list all wrong files
         # for md_file in sorted(markdowns):
-        #     try:
+        #
         #         self.student_file(md_file)
         #     except:
         #         print(md_file)
