@@ -44,7 +44,7 @@ projects:
     link: https://github.com/PBriac
     finished: true
   - title: FrenchGame Factory
-    description: Création d’un jeu développé SWIFT.
+    description: Création d’un jeu développé en SWIFT.
     image: briac/projet_3.jpg
     link: https://www.github.com
     finished: false
