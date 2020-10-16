@@ -40,7 +40,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre Git et Github. 
-    image: Amar/projet_2.png
+    image: Amar/Projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/community
     finished: true
   - title: Aidez MacGyver à sortir !
