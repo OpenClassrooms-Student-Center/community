@@ -8,17 +8,17 @@ title: olga
 
 # First name or full name
 name: olga
-date: 2020-10-16 09:41
+date: 2020-10-16 12:50
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeuse Python full-stack.
-short_description: Au-delà du développement web, je suis tout particulièrement intéressée par l’intelligence artificielle et les objets connectés.
+short_description: Je suis intéressée par l’intelligence artificielle et les objets connectés.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je m'appelle Olga et je commence mon apprentissage dans le but de devenir une
+    Je commence mon apprentissage dans le but de devenir une
     développeuse Web fullstack (spécialisée en Python) d’ici la toute fin 2021.
     Anciennement conseillère de vente pour les grandes marques de luxe, aujourd’hui je suis
     en reconversion professionnelle vers le secteur d’informatique. Pour moi c’est plus qu’une
