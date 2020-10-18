@@ -18,7 +18,7 @@ short_description: J'aime lire, apprendre, rire, partager, manger, voyager, déc
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-   Je souhaite apprendre un nouveau métier pour contribuer aux avancées technologiques dans le secteur de la santé, notamment dans le développement d'application médicale.  
+   Je souhaite contribuer aux avancées technologiques dans le secteur de la santé, notamment dans le développement d'application médicale.  
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
