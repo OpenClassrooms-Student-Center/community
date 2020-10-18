@@ -12,13 +12,13 @@ date: 2020-10-17 10:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Apprendre un nouveau métier et sortir de ma zone de confort.
-short_description: J'aime lire, apprendre, rire, partager, manger, voyager, découvrir... 
+objective: Apprendre un nouveau métier 
+short_description: "Vis comme si tu devais mourir demain. Apprends comme si tu devais vivre toujours." Gandhi
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-   Je souhaite contribuer aux avancées technologiques dans le secteur de la santé, notamment dans le développement d'application médicale.  
+   Je souhaite m'orienter, à terme, dans le developpement d'application médicale. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -30,7 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: « Soyez le changement que vous voulez voir dans le monde », Gandhi 
+    description: Intégrer la communauté OpenClassrooms 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: claire/projet_1.png
@@ -39,7 +39,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: git et Github 
+    description: Apprendre à utiliser Git et GitHub 
     image: claire/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/claire.html
     finished: true
