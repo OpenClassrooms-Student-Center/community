@@ -13,7 +13,7 @@ date: 2020-10-17 10:30
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre un nouveau métier 
-short_description: "Vis comme si tu devais mourir demain. Apprends comme si tu devais vivre toujours." Gandhi
+short_description: J'aime regarder les Monty Python..
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
