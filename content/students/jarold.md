@@ -34,6 +34,7 @@ public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
+
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
 
@@ -41,7 +42,7 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-        image: ratus/projet_1.png
+        image: jarold/projet_1.png
 
         link: https://github.com/jayvee99
 
