@@ -42,9 +42,9 @@ projects:
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-        image: jarold/projet_1.png
+     image: jarold/projet_1.png
 
-        link: https://github.com/jayvee99
+     link: https://github.com/jayvee99
 
     # 'true' makes it fully available.
 
