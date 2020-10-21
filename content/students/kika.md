@@ -4,26 +4,28 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: quentin38
+title: kika
 
 # First name or full name
-name: Quentin38
-date: 2020-10-14 09:20
+name: kika
+date: 2020-10-09 03:56
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir développeur Python
-short_description: 
-    Je deviendrai ce que je souhaite devenir, développeur.
+objective: Devenir développeur Python et en faire mon métier.
+short_description: Passionné d'informatique et de nouvelle technologie, j'apprend le Python.
 
+# Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je m'appelle Quentin j'ai 30 ans, mari et père en quête de reconversion professionnelle.
+    Curieux d'apprendre et passionné d'informatique. Je souhaite devenir développeur Python.
 
-image: quentin38.jpg
+# image must be located in content/images/students
+# name should be the same as this file. Eg: celinemartinet.png
+image: kika.jpeg
 
 # Change this to True when you do you pull request.
-public: True
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -31,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: quentin38/projet_1.png
-    link: https://www.linkedin.com/in/quentin-faure-b818221b9/
+    image: kika/projet_1.png
+    link: https://www.linkedin.com/in/kika-dien-616b26152/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre Git, de Github et les pull requests. 
-    image: quentin38/projet_2.png
-    link: https://github.com/Gotha01/community
+    description: texte de présentation dans le workplace. 
+    image: kika/projet_2.png
+    link: https://openclassrooms.workplace.com/groups/1489841677757902
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: quentin38/projet_3.jpg
-    link: https://openclassrooms.com/fr/projects/156/assignment
+  - title: Mon compte Github
+    description: Lien de mon compte Github.
+    image: kika/projet_3.png
+    link: https://github.com/KikaDIEN1994
     finished: false
 ---
