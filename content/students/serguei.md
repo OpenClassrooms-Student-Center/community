@@ -37,13 +37,13 @@ projects:
     description: Une présentation faite sur Workplace
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: serguei/projet_1.PNG
+    image: serguei/projet_1.png
     link: https://openclassrooms.workplace.com/profile.php?id=100055483852342
     finished: True
 
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: serguei/projet_2.PNG
+    image: serguei/projet_2.png
     link: https://github.com/SergueiNK/community
     finished: True
 
