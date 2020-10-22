@@ -42,7 +42,7 @@ projects:
     finished: True
 
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le Git, de Github et des pull requests. 
     image: serguei/projet_2.png
     link: https://github.com/SergueiNK/community
     finished: True
