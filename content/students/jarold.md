@@ -8,20 +8,21 @@ title: jarold
 
 # First name or full name
 name: jarold
-date: 2020-10-17 17:59
+date: 24/10/2020 13:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me reconvertir professionellement 
 
-short_description: j'aime jouer de la guitare du piano et depuis peu je trouve le code très passionnant 
+objective: me reconvertir professionellement.
+
+short_description: j'aime la musique et les instruments, et découvert le code et l'informatique depuis peu, 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 
 template: students
 
 description:
-    je suis jeune et j'ai toujours travailler dans la restauration, j'ai découvert le code et le monde de la programmation et j'aimerai en apprendre plus et pourquoi pas en faire mon futur métier
+    Ayant travailler seulement dans la restauration,j'aimerai me reconvertir professionnellement, de plus la programmation me plait énormément. 
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -34,40 +35,41 @@ public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
-
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
-
+    
+    description: Une présentation de moi-même et un lien vers mon profil github.
+    
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-
+    
     # Image must be here: content/images/students/yourrepo/project1.png
-
-     image: jarold/projet_1.png
-
-     link: https://github.com/jayvee99
-
+    
+    image: jarold/projet_1.png
+    
+    link: https://github.com/jayvee99
+    
     # 'true' makes it fully available.
-
+   
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-
+    
     finished: true
-
+  
   - title: Intégrez la communauté !
-
+   
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-
-    image: Jarold/projet_2.png
-
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-
+    
+    image: jarold/projet_2.png
+    
+    link: https://github.com/jayvee99/community
+    
     finished: true
-
+  
   - title: Aidez MacGyver à sortir !
+    
     description: Création d’un jeu développé en Python et utilisant PyGame.
-
-    image: ratus/projet_3.png
-
+    
+    image: jarold/projet_3.png
+    
     link: https://www.github.com
-
+    
     finished: false
 ---
