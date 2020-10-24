@@ -8,7 +8,7 @@ title: jarold
 
 # First name or full name
 name: jarold
-date: 24/10/2020 13:00
+date: 2020-10-24 13:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
