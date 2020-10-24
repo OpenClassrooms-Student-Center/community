@@ -67,7 +67,7 @@ projects:
     
     description: Création d’un jeu développé en Python et utilisant PyGame.
     
-    image: jarold/projet_3.png
+    image: 
     
     link: https://www.github.com
     
