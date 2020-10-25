@@ -23,8 +23,6 @@ template: students
 # max 500 characters
 description:
     Commercial depuis 15 ans, j'ai décidé de faire une reconversion professionnel aprés avoir été commercial pour American Express pendant 9 ans.
-    J'espère réussir ma reconversion professionnel, dans le domaine du developpement d'applications Ios, et un jour pourquoi pas, travailler à mon compte et essayer 
-    de developper une application de A à Z.Bon courage à tous!!
     
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -36,7 +34,7 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Formation OC Dev Ios !
+  - title: Formation OC Developpeur Ios !
     # max 100 characters
     description: je m'appel David, et je suis en bonne santé.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
@@ -52,7 +50,7 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: david/Project3.png
+    image: david/Project2.png
     link: https://www.github.com
     finished: false
 
