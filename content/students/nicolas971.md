@@ -13,7 +13,7 @@ date: 2020-10-23 00:29
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur et maitriser plusieurs langages de programmation.
-short_description: J'aime les jeux-vidéos, les ordinateurs et les tutos youtube. J'apprends à coder pour en faire mon métier.
+short_description: J'aime les jeux-vidéos, les ordinateurs et les tutos youtube.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
