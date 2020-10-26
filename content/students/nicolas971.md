@@ -18,8 +18,7 @@ short_description: J'aime les jeux-vidéos, les ordinateurs et les tutos youtube
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-	Je m'appel Pierre-Nicolas j'ai 32 ans et je suis en reconversion professionnelle.	
-
+	Je m'appelle Pierre-Nicolas j'ai 32 ans et je suis en reconversion professionnelle.	
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: 	nicolas971.jpg
@@ -39,9 +38,9 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre Git,Github et les pull requests. 
     image: nicolas971/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/nicolas971.html
+    link: https://github.com/Nico971139/community
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
