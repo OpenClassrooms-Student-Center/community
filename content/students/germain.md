@@ -14,7 +14,7 @@ title: germain
 
 # First name or full name
 
-name: Germain GAILLARD
+name: Germain
 
 date: 2020-09-15 17:30
 
@@ -89,6 +89,6 @@ projects:
 
     link: https://github.com/screw-pack/MacGyver.git
 
-    finished: false
+    finished: true
 
 ---
