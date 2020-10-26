@@ -9,7 +9,7 @@ title: nicolas971
 # First name or full name
 name: nicolas971
 date: 2020-10-23 00:29
-
+ 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur et maitriser plusieurs langages de programmation.
@@ -18,10 +18,7 @@ short_description: J'aime les jeux-vidéos, les ordinateurs et les tutos youtube
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Bonjour,
-	Je m'appel Pierre-Nicolas j'ai 32 ans et je suis en reconversion professionnelle.
-	J'ai décider de franchir le pas et commencer la programmation que j'ai longtemps considéré
-	comme réservé au matheu.	
+	Je m'appel Pierre-Nicolas j'ai 32 ans et je suis en reconversion professionnelle.	
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
