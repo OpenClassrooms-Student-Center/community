@@ -21,7 +21,7 @@ description:
     je suis étudiant j'ai fais un bac s puis, j'ai enchainé deux ans avec une prépa scientifique et cette année j'ai décidé de commencer une formation sur openclassrooms.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: marin.jpg
+image: marin.png
 
 # Change this to True when you do you pull request.
 public: False
