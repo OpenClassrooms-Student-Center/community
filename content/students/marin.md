@@ -8,7 +8,6 @@ title: marin
 
 # First name or full name
 name: Marin
-https://openclassrooms.com/fr/members/1wld7rbfrh82
 date: 2020-10-17 15:00
 
 # One line.
