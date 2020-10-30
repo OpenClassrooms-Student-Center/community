@@ -29,7 +29,7 @@ description:
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: eliane3.jpg
+image: eliane3.png
 
 # Change this to True when you do you pull request.
 
@@ -46,7 +46,7 @@ description: Je m'appelle Eliane Edou je suis une artiste choregraphique et visu
 
 # Image must be here: content/images/students/eliane/projet1.jpg
 
-    image: eliane3/projet1.jpg
+    image: eliane3/projet1.png
 
     link: https://github.com/elianee
 
@@ -60,7 +60,7 @@ description: Je m'appelle Eliane Edou je suis une artiste choregraphique et visu
 
     description: Modifier projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests. 
 
-    image: eliane3/projet2.jpg
+    image: eliane3/projet2.png
 
     link: https://github.com/elianee
 
