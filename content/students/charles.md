@@ -25,7 +25,7 @@ date: 2020-10-27 16:12
 
 objective: M'améliorer sur python
 
-short_description: Je suis dans une école privée d'informatique te je voudrais diversifier mes possibilités et surtout solidifier mes bases en python
+short_description: Je voudrais diversifier mes possibilités et surtout solidifier mes bases en python
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
