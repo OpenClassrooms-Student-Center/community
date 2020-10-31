@@ -12,7 +12,6 @@ public: True
 projects:
   - title: Présentez-vous !
     description: Je m'appelle Eliane Edou je suis une artiste choregraphique et visuelle.
-    https://www.linkedin.com/in/eliane-edou-0099751a4.
     image: elianee/projet1.png
     link: https://github.com/elianee
     finished: true
