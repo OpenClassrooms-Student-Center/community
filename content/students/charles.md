@@ -89,7 +89,7 @@ projects:
 
     link: https://www.github.com/Azenki
 
-    finished: false
+    finished: true
 
 ---
 
