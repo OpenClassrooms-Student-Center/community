@@ -17,9 +17,7 @@ short_description: j'aime les nouvelle technologie et l'informatique.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: je suis fans d'appple est tout ce qui est en rapport avec les nouvelle technologie,
-j'aime aussi l'informatique , les jeux vidéos ps: je suis un fans playstation et aussi 
-les animés japonnais surtout my hero academia.
+description: je suis fans d'apple mais aussi de nouvelle technochologie ainsi que de jeux vidéos , je suis team playstation et j'adore par dessus tout les mangas est les animés.
   
 
 # image must be located in content/images/students
