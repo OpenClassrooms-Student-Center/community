@@ -40,9 +40,9 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source. 
-    image: ratus/projet_2.png
+    image: dimitry/dimitryprojet2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
-    finished: false
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: ratus/projet_3.png
