@@ -17,7 +17,7 @@ short_description: j'aime le code ainsi que les nouvelles technologies.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: j'aime tout se qui est en rapport avec les nouvelles techonologies, et je suis fans aussi d'apple mais également de jeux vidéos surtout playstation ainsi que de mangas et des animés surtout my hero academia.
+description: j'aime tout se qui est en rapport avec les nouvelles techonologies, et je suis fans aussi d'apple mais également de jeux vidéos.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
