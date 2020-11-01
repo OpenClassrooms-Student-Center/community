@@ -46,6 +46,6 @@ projects:
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: axel/project_3.jpg
-    link: https://www.github.com
-    finished: false
+    link: https://www.github.com/fr0zie-OpenClassrooms/Project3
+    finished: true
 ---
