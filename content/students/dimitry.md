@@ -30,7 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    salut je me présente je m'appelle dimitry j'ai 19ans ,je me suis reconvertie dans le numérique depuis cette été j'ai suivis l'apple foundation program et maintenant je suis actuellement le parcours développeur d'applications ios de open classroom.
+    salut je me présente je m'appelle dimitry j'ai 19ans je me suis reconvertie dans le numérique depuis cette été j'ai suivis l'apple foundation program et maintenant je suis actuellement le parcours développeur d'applications ios de open classroom.
     link: https://www.linkedin.com/in/dimitry-aumont-5814781ba/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
