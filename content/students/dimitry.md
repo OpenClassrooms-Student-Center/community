@@ -8,30 +8,29 @@ title: dimitry
 
 # First name or full name
 name: Dimitry
-date: 2020-10-31 12H007
+date: 2020-10-28 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: obtenir la certfication de dev IOS
-short_description: j'aime les nouvelle technologie et l'informatique.
+objective: obtenir ma certification.
+short_description: j'aime l'informatique et le code.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: je suis fans d'apple mais aussi de nouvelle technochologie ainsi que de jeux vidéos , je suis team playstation et j'adore par dessus tout les mangas est les animés.
-  
+description:
+   j'aime tout se qui est en rapport avec les nouvelle technologies et apple, j'aime aussi les jeux vidéos surtout playstation mais également les mangas et les animés surtout my hero academia.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: dimitry.jpg
 
 # Change this to True when you do you pull request.
-public: True
+public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    salut je me présente je m'appelle dimitry j'ai 19ans je me suis reconvertie dans le numérique depuis cette été j'ai suivis l'apple foundation program et maintenant je suis actuellement le parcours développeur d'applications ios de open classroom.
-    link: https://www.linkedin.com/in/dimitry-aumont-5814781ba/
+    description: salut je présente dimitry j'ai 19 ans, je me suis reconvertie dans le numérique depuis cette été j'ai suivis l'apple foundation program et je suis actuellement le parcours dev ios de open classrooms.https://www.linkedin.com/in/dimitry-aumont-5814781ba/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: dimitry/projet1.jpg
