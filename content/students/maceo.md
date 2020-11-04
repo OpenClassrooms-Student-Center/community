@@ -8,7 +8,7 @@ title: maceo
 
 # First name or full name
 name: Maceo Martiniani
-date: 2020-11-03 15:25
+date: 2020-11-04 11:11
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -18,7 +18,7 @@ short_description: Après des années dans la restauration de luxe, j'ai decidé
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-   Dans l'évolution du monde actuel, les nouvelles technologies ne cessent de gagner de la place dans nos vies. Je pense qu'il est important de monter dans le bon wagon et d'apprendre des choses utiles dans l'aire du temps. J'ai donc changé de voie pour devenir developpeur d'applications iOS et en faire mon métier.
+   Les nouvelles technologies ne cessent de gagner de la place dans nos vies. J'ai donc changé de voie pour devenir developpeur d'applications iOS et en faire mon métier.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -40,12 +40,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
+    image: maceo/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
+    image: maceo/projet_3.png
     link: https://www.github.com
     finished: false
 ---
