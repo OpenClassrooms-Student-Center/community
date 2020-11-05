@@ -52,6 +52,6 @@ projects:
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: david/Project2.png
     link: https://www.github.com
-    finished: false
+    finished: true
 
 
