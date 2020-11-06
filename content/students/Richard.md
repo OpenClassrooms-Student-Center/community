@@ -17,8 +17,8 @@ short_description: Je souhaite me spécialiser en tant que développeur mobile i
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-Je m'appelle Richard, j'ai 26 ans. Ayant suivi une formation Prép'fullstack cela ma permis de découvrir le monde de la programmation. Aujourd'hui je suis une formation Développeur d'applications iOS.
+description: Je m'appelle Richard, j'ai 26 ans. Ayant suivi une formation Prép'fullstack cela ma permis de découvrir le monde de la programmation. Aujourd'hui je suis une formation Développeur d'applications iOS.
+
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: richard.jpg
