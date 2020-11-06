@@ -7,19 +7,18 @@
 title: richard
 
 # First name or full name
-name: Ratus
+name: Richard
 date: 2020-11-05 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me former dans le développement mobile iOS SWIFT 
-short_description: Je souhaite me spécialiser en tant que développeur mobile iOS car c'est un métier d'avenir
+short_description: Je souhaite me spécialiser en tant que développeur mobile iOS 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
 Je m'appelle Richard, j'ai 26 ans. Ayant suivi une formation Prép'fullstack cela ma permis de découvrir le monde de la programmation. Aujourd'hui je suis une formation Développeur d'applications iOS.
-
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: richard.jpg
