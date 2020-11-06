@@ -35,14 +35,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: elianeedou/project1.jpg
+    image: elianeedou/projet1.jpg
     link: www.linkedin.com/in/eliane-edou-0099751a4
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pulls. 
-    image: elianeedou/project2.jpg
+    image: elianeedou/projet2.jpg
     link: https://github.com/ElianeOC/community
     finished: true
   - title: Aidez MacGyver à sortir !
