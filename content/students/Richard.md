@@ -28,24 +28,24 @@ public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
+  - title: Richard
     description: je me présente, richard 26 ans, je suis apprenti développeur ios.
     link: https://www.linkedin.com/in/richard-mazid/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Richard/projet_1.png
+    image: content/images/students/Richard/projet_1.png
     link: https://openclassrooms.workplace.com/profile.php?id=100052132534396
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Richard/projet_2.png
+    image: content/images/students/Richard/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: Richard/projet_3.png
+    image: content/images/students/Richard/projet_3.png
     link: https://www.github.com
     finished: false
 ---
