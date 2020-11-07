@@ -7,7 +7,7 @@
 title: richard
 
 # First name or full name
-name: richard
+name: Richard
 date: 2016-10-28 17:20
 
 # One line.
