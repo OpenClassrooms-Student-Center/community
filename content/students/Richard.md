@@ -13,7 +13,7 @@ date: 2016-10-28 17:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: me former dans le développement mobile ios swift
-short_description: Je souhaite me spécialiser en tant que développeur mobile ios
+short_description: Je souhaite me spécialiser en tant que développeur mobile ios swift
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
