@@ -25,7 +25,7 @@ date: 2020-11-09 16:20
 
 objective: Apprendre la programmation IOS.
 
-short_description: Je souhaite developper mes compétences dans la programmation pour me tourner vers de nouveaux horizon. 
+short_description: Je souhaite developper mes compétences dans la programmation. 
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
