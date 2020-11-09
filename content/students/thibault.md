@@ -25,7 +25,7 @@ date: 2020-11-05 16:20
 
 objective: Apprendre la programmation IOS.
 
-short_description: Je souhaite developper mes compétences dans la programmation pour me tourner vers de nouveaux horizon 
+short_description: Je souhaite developper mes compétences dans la programmation pour me tourner vers de nouveaux horizon. 
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -36,7 +36,7 @@ description:
 
     J'ai 24 ans, de région parisienne, j'ai un appétence pour les nouvelles technologies et la robotique.
 
-	De nature curieux .........
+	De nature touche a tout, j
 
 # image must be located in content/images/students
 
@@ -56,9 +56,9 @@ projects:
 
   - title: Définissez votre stratégie d'apprentissage !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
-
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    description: L’objectif de ce premier projet est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle ! 
+    
+	# Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
