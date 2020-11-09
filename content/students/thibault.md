@@ -9,7 +9,7 @@
 
 # lowercase, no blank space, Capital case or special character.
 
-title: Thibault
+title: thibault
 
 
 # First name or full name
