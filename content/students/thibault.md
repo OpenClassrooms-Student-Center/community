@@ -16,7 +16,7 @@ title: Thibault
 
 name: Thibault
 
-date: 2020-11-05 16:20
+date: 2020-11-09 16:20
 
 
 # One line.
@@ -34,15 +34,15 @@ template: students
 
 description:
 
-    J'ai 24 ans, de région parisienne, j'ai un appétence pour les nouvelles technologies et la robotique.
+    J'ai 24 ans, de région parisienne, depuis tout jeune, j'ai une appétence pour les nouvelles technologies.
 
-	De nature touche a tout, T
+    Je souhaite me reconvertir professionnellement afin d'associer ma passion et mon métier et participer a la création du monde digital.
 
 # image must be located in content/images/students
 
 # name should be the same as this file. Eg: celinemartinet.png
 
-image: thibault.pnj
+image: thibault.jpg
 
 
 # Change this to True when you do you pull request.
@@ -58,11 +58,11 @@ projects:
 
     description: L’objectif de ce premier projet est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle ! 
     
-	# Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: thibault/projet_1.png
 
     link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
 
@@ -76,19 +76,19 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image:
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link:
 
-    finished: true
+    finished: false
 
-  - title: Aidez MacGyver à sortir !
+  - title: Créez votre premier jeu vidéo avec Swift !
 
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+    description: Vous venez d’intégrer votre premier poste dans une entreprise de jeux vidéo : FrenchGame Factory.
 
-    image: ratus/projet_3.png
+    image:
 
-    link: https://www.github.com
+    link:
 
     finished: false
 
