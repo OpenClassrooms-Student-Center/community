@@ -84,7 +84,7 @@ projects:
 
   - title: Créez votre premier jeu vidéo avec Swift !
 
-    description: Vous venez d’intégrer votre premier poste dans une entreprise de jeux vidéo : FrenchGame Factory.
+    description: Vous venez d’intégrer votre premier poste dans une entreprise de jeux vidéo FrenchGame Factory.
 
     image:
 
