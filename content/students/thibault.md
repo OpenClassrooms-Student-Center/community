@@ -36,7 +36,7 @@ description:
 
     J'ai 24 ans, de région parisienne, j'ai un appétence pour les nouvelles technologies et la robotique.
 
-	De nature touche a tout, j
+	De nature touche a tout,
 
 # image must be located in content/images/students
 
