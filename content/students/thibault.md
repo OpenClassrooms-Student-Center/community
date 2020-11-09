@@ -56,7 +56,7 @@ projects:
 
   - title: Définissez votre stratégie d'apprentissage !
 
-    description: L’objectif de ce premier projet est de vous donner toutes les clés pour réussir votre parcours, puis votre insertion professionnelle ! 
+    description: comment apprendre à apprendre !
     
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -74,7 +74,7 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git. 
 
     image:
 
@@ -84,7 +84,7 @@ projects:
 
   - title: Créez votre premier jeu vidéo avec Swift !
 
-    description: Vous venez d’intégrer votre premier poste dans une entreprise de jeux vidéo FrenchGame Factory.
+    description: Apprendre la programmation orienté objet.
 
     image:
 
