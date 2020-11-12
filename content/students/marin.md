@@ -33,7 +33,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: marin/project1.png
-    link:
+    link: https://openclassrooms.com/fr/paths/68/projects/38/project-evaluation
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
@@ -45,6 +45,6 @@ projects:
     - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: marin/project2.png
-    link:https://openclassrooms.com/fr/paths/68/projects/156/assignment
-    finished: false
+    link: https://openclassrooms.com/fr/paths/68/projects/156/assignment
+    finished: true
 ---
