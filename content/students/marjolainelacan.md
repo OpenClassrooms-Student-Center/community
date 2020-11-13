@@ -59,6 +59,14 @@ projects:
     image: marjolainelacan/projet_5.png
     link: https://www.github.com
     finished: false
-
-    
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+    description: Ecrire une documentation technique
+    image: marjolainelacan/projet_6.png
+    link: https://www.github.com
+    finished: false
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
+    description: concevoir l’architecture technique d'une solution répondant aux besoins du client
+    image: marjolainelacan/projet_7.png
+    link: https://www.github.com
+    finished: false
 ---
