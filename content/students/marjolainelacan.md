@@ -41,7 +41,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests
-    image: marjolainelacan/projet_2.jpg
+    image: marjolainelacan/projet_2.png
     link: https://www.github.com
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
@@ -54,4 +54,11 @@ projects:
     image: marjolainelacan/Projet_4.png
     link: https://www.github.com
     finished: false
+  - title: Améliorez une application existante
+    description: Reprendre un projet existant de calculatrice
+    image: marjolainelacan/projet_5.png
+    link: https://www.github.com
+    finished: false
+
+    
 ---
