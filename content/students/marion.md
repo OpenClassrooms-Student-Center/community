@@ -102,7 +102,7 @@ projects:
 
     image: marion/projet_4.PNG
 
-    link: https://github.com
+    link: https://github.com/MarionGiusti
 
     finished: true
 
@@ -113,6 +113,26 @@ projects:
     image: marion/projet_5.jpg
 
     link: https://github.com/MarionGiusti/P5_PurBeurre
+
+    finished: true
+
+  - title: Imaginez une solution technique pour un système de pizzeria !
+
+    description: Conception de la solution technique.
+
+    image: marion/projet_6.png
+
+    link: https://github.com/MarionGiusti
+
+    finished: true
+
+  - title: Créez GrandPy Bot, le papy-robot !
+
+    description: Réalisation d'une application web via Flask.
+
+    image: marion/projet_7.png
+
+    link: https://github.com/MarionGiusti/P7_GrandPy-Bot
 
     finished: false
 
