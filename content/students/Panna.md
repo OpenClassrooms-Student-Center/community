@@ -8,7 +8,7 @@ title: panna
 
 # First name or full name
 name: Panna
-date: 05 octobre 2020 18:36
+date: 2020-10-05 18:36
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
