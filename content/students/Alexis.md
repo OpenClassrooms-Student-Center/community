@@ -44,5 +44,5 @@ projects:
   - title: Aidez MacGyver à s'échapper !!
     description: Créer un mini jeu de labyrinthe avec PyGame !
     image: Alexis/projet_3.png
-    link: https://github.com/AlexisFricard/community
+    link: https://github.com/AlexisFricard/P3_MacGyver
     finished: True
