@@ -30,13 +30,19 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Définissez votre stratégie d'apprentissage !
-    description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage... 
+    description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage...
     image: Alexis/Projet_1.png
     link: https://openclassrooms.com/fr/paths/68/projects/38/assignment
     finished: True
 
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: Alexis/projet_2.png
+    link: https://github.com/AlexisFricard/community
+    finished: True
+
+  - title: Aidez MacGyver à s'échapper !!
+    description: Créer un mini jeu de labyrinthe avec PyGame !
+    image: Alexis/projet_3.png
     link: https://github.com/AlexisFricard/community
     finished: True
