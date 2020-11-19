@@ -43,7 +43,7 @@ projects:
 
   - title: Aidez MacGyver à s'échapper !
     description: Créé un mini jeu 
-    image: 
-    link: https://github.com/AlexisFricard/community
-    finished: false
+    image: Alexis/projet_3.png
+    link: https://github.com/AlexisFricard/P3_MacGyver
+    finished: true
 ---
