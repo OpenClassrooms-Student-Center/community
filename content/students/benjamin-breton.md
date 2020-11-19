@@ -68,4 +68,10 @@ projects:
     description: Concevoir un dossier de spécifications fonctionnelles et trouver une solution technique
     image: benjamin-breton/project_6.png
     link: https://github.com/bbenj28/OC_project_6
+    finished: true
+  - title: Réalisez une application de voyage
+    description: Concevoir une application permettant la traduction, le change et l'affichage de la météo
+    image: benjamin-breton/project_9.png
+    link: https://github.com/bbenj28/OC_project_9
     finished: false
+
