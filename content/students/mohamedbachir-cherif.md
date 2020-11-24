@@ -36,19 +36,19 @@ projects:
     description: Une présentation de moi-même, intégration à la communauté et conception d'un planning.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: mohamedbachircherif/projet_1.png
+    image: mohamedbachir-cherif/projet_1.png
     link: https://www.linkedin.com/in/mohamed-bachir-cherif-57b439138/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des PR. 
-    image: mohamedbachircherif/projet_2.png
+    image: mohamedbachir-cherif/projet_2.png
     link: https://github.com/mbachircherif/community
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Réaliser un jeu de combat tour par tour pour iOS.
-    image: mohamedbachircherif/projet_3.png
+    image: mohamedbachir-cherif/projet_3.png
     link: https://github.com/mbachircherif/community
     finished: false
 ---
