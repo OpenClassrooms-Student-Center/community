@@ -53,7 +53,7 @@ projects:
     description: Une application de montage photos
     image: marjolainelacan/Projet_4.png
     link: https://www.github.com
-    finished: false
+    finished: true
   - title: Améliorez une application existante
     description: Reprendre un projet existant de calculatrice
     image: marjolainelacan/projet_5.png
