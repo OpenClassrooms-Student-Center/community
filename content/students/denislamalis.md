@@ -11,7 +11,7 @@ title: denislamalis
 
 # First name or full name
 name: denislamalis
-date: 2020-11-29 10:30
+date: 2020-11-29 12:45
 ---
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
@@ -20,13 +20,15 @@ date: 2020-11-29 10:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
+
 objective: Devenir enseignant en école d'ingénieurs en sciences du numérique et développement d'applications.
 short_description: Je fais partie du club informatique Gassendi. 
+
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-	Ayant une expérience professionnelle en développement, je veux actualiser mes connaissances.
-	Mon objectif est de devenir un spécialiste du développement de projet en Python et Web.
+	Ayant une experience professionnelle en développement, je veux actualiser mes connaissances.
+	Mon objectif est de devenir un specialiste du développement de projets en Python et applications Web.
 	
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -45,8 +47,10 @@ projects:
 	
     image: denislamalis/P1_capture_linkedin.png
     link: https://www.linkedin.com/in/denis-mass%C3%A9-39922718
+	
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+	
     finished: true
 	
   - title: Intégrez la communauté !
@@ -54,6 +58,7 @@ projects:
 	
     image: denislamalis/P2_capture_repo.png
     link: https://github.com/DenisLamalis/community
+	
     finished: true
 
 ---
