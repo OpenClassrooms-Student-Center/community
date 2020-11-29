@@ -21,18 +21,10 @@ date: 2020-11-29 10:30
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir enseignant en école d'ingénieurs en sciences du numérique et développement d'applications.
-short_description: Je suis passionné de technologies en tous genres et je fais partie d'un club informatique. 
+short_description: Je fais partie du club informatique Gassendi. 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Je m'appelle Jean-Baptiste Baillet, 35 ans. Marié et papa de 3 enfants. J'habite entre Rennes et Fougères.
-    Je profite d'une reconversion professionnelle pour me lancer dans la grande aventure du developpement d'applications pythons.
 	Ayant une expérience professionnelle en développement, je veux actualiser mes connaissances.
 	Mon objectif est de devenir un spécialiste du développement de projet en Python et Web.
 	
@@ -42,7 +34,7 @@ description:
 image: denislamalis.png
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
