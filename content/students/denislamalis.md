@@ -42,5 +42,10 @@ projects:
     image: denislamalis/P2_capture_repo.png
     link: https://github.com/DenisLamalis/community
     finished: true
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: P3_macGyver.png
+    link: https://www.github.com
+    finished: false
 ---
 
