@@ -8,11 +8,11 @@ title: xxcsxk53fsg5
 
 # First name or full name
 name: Bryan
-date: 2020-11-29 12:29
+date: 2020-11-28 20:01
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Réussir ma formation iOS
 short_description: Je me suis lancé dans cette formation car j'aime l'univers d'apple.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -41,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: xxcsxk53fsg5/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/xxcsxk53fsg5.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
