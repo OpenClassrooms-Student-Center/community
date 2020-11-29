@@ -8,11 +8,11 @@ title: xxcsxk53fsg5
 
 # First name or full name
 name: Bryan
-date: 2020-11-28 20:01
+date: 2020-11-29 12:19
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Réussir ma formation iOS.
+objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
 short_description: Je me suis lancé dans cette formation car j'aime l'univers d'apple.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -25,7 +25,7 @@ description:
 image: xxcsxk53fsg5.jpg
 
 # Change this to True when you do you pull request.
-public: true
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -33,7 +33,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: xxcsxk53fsg5/projet_1.jpg
+    image: xxcsxk53fsg5/projet_1.png
     link: https://www.linkedin.com/in/bryan-chron%C3%A9/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -48,5 +48,4 @@ projects:
     image: xxcsxk53fsg5/projet_3.png
     link: https://www.github.com
     finished: false
-    
 ---
