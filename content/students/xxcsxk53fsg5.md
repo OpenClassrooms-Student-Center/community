@@ -18,7 +18,7 @@ short_description: Je me suis lancé dans cette formation car j'aime l'univers d
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je m'appelle Bryan, j'ai 22 ans et je souhaite devenir développeur iOS.
+    Je m'appelle Bryan, j'ai 22 ans et je souhaite devenir développeur iOS .
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
