@@ -7,7 +7,6 @@ title: denislamalis
 # First name or full name
 name: denislamalis
 date: 2020-11-29 17:30
----
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -15,6 +14,7 @@ date: 2020-11-29 17:30
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir enseignant en école d'ingénieurs en sciences du numérique et développement d'applications.
+# max 100 characters
 short_description: Je fais partie du club informatique Gassendi. 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
