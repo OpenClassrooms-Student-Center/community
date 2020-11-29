@@ -38,13 +38,13 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: denislamalis/P2_capture_repo.png
     link: https://github.com/DenisLamalis/community
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: P3_macGyver.png
+    image: denislamalis/P3_macGyver.png
     link: https://www.github.com
     finished: false
 ---
