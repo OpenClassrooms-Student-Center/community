@@ -7,7 +7,7 @@
 title: stephane35
 
 # First name or full name
-name: Stéphane
+name: stephane
 date: 2020-12-02 17:20
 
 # One line.
@@ -18,7 +18,8 @@ short_description: Passionné de nouvelles technologies, j'ai une forte appéten
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Après avoir été diplômé de l'ENI, je souhaite me spécialiser dans le développement iOS 
+    Après avoir été diplômé de l'ENI, je souhaite me spécialiser dans le développement iOS.
+
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: stephane35.jpg
