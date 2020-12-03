@@ -1,3 +1,9 @@
+GITHUB_PAGES_BRANCH=master
+
+github: publish
+	ghp-import -b $(GITHUB_PAGES_BRANCH) -n $(OUTPUTDIR)
+	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git $(GITHUB_PAGES_BRANCH) > /dev/null
+  
 dist: xenial   # required for Python >= 3.7
 language: python
 python:
