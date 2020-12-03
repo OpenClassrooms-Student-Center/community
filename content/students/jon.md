@@ -7,7 +7,7 @@
 title:jon
 
 # First name or full name
-name: jon
+name: Jon
 date: 2020-12-1 17:20
 
 # One line.
@@ -18,9 +18,10 @@ short_description: Coeur vaillant rien d'impossible.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Apres avoir réaliser une formation full stack dev, je n'étais pas rassasié 
+    Apres avoir réaliser une formation rapide  full stack web dev,
+    je n'étais pas rassasié, 
     et quand ca va trop vite pour moi il n'y pas de plairir.
-    Donc me voila pour 2 ans et devenir swift dev.
+    Donc me voila pour 2 ans pour devenir swift dev.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: jon.jpg
