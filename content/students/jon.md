@@ -7,7 +7,7 @@
 title:jon
 
 # First name or full name
-name: Jon
+name: jon
 date: 2020-12-1 17:20
 
 # One line.
