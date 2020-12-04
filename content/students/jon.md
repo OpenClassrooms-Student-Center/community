@@ -24,7 +24,7 @@ description:
     Donc me voila pour 2 ans pour devenir swift dev.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: jon.jpg
+image: jon.png
 
 # Change this to True when you do you pull request.
 public: True
