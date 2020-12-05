@@ -43,9 +43,9 @@ projects:
     image: stephane44/projet_2.png
     link: https://github.com/SRihet?tab=repositories
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_2.png
+  - title: Créer mon premier jeu en swift !
+    description: Création d’un jeu développé en swift.
+    image: stephane44/projet_2.png
     link: https://www.github.com
     finished: false
 ---
