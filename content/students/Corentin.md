@@ -7,7 +7,7 @@
 title: corentin
 
 # First name or full name
-name: Corentin
+name: corentin
 date: 2016-10-28 17:20
 
 # One line.
@@ -42,12 +42,12 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: Corentin/projet_2.png
+    image: corentin/projet_2.png
     link: https://github.com/DebourdeauC
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: Corentin/projet_3.png
+    image: corentin/projet_3.png
     link: https://www.github.com
     finished: false
 ---
