@@ -45,8 +45,8 @@ projects:
     image: Corentin/projet_2.png
     link: https://github.com/DebourdeauC
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: Réaliser un jeu de combat tour par tour pour iOS.
     image: Corentin/projet_3.png
     link: https://www.github.com
     finished: false
