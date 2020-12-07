@@ -18,12 +18,12 @@ short_description: Je souhaite apporter ma créativité au développement d'appl
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Issus d'un milieu commerciale, j'ai découvert le métier de développeur un peu par
+    Issus d'un milieu commercial, j'ai découvert le métier de développeur un peu par
     hasard après mon BTS. Moi qui aime apprendre des nouvelles choses, je me suis
-    intéressé et j'ai notament suivi des formations pour apprendre à créer des sites
+    intéressé et j'ai notamment suivi des formations pour apprendre à créer des sites
     internet. Et aujourd'hui 2 ans après, j'ai décidé de suivre le parcours de
-    développeur iOS et me spécialiser dedans. J'ai toujours été dans l'eco systeme
-    d'apple, je touve normal et excitant de pouvoir développer mes idées et créer mes
+    développeur iOS et de me spécialiser. J'ai toujours été dans l'eco systeme
+    d'apple, je trouve normal et excitant de pouvoir développer mes idées et créer mes
     propres applications.
 
 # image must be located in content/images/students
@@ -53,11 +53,5 @@ projects:
     
     link: https://github.com/Fardi01/community
     
-    finished: true
-    
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
     finished: true
 ---
