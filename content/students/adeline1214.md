@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Adeline1214
+title: adeline1214
 
 # First name or full name
 name: Adeline
@@ -13,12 +13,12 @@ date: 2020-12-07 14:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir Développeur IOS
-short_description:Je souhaite aider les TPE et PME à se digitaliser et offrir une super expérience utilisateur.
+short_description: Je souhaite aider les TPE et PME à offrir une belle expérience utilisateur grâce à leur app.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je souhaite aider les TPE et PME à se digitaliser et offir une expérience utilisateur qui donne envie de revenir.
+    Je souhaite aider les TPE et PME à se digitaliser et offir une expérience utilisateur qui donne envie de revenir!!!
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
