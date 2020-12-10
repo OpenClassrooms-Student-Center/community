@@ -13,7 +13,7 @@ date: 2020-12-07 14:20
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir Développeur IOS
-short_description:Je souhaite aider les TPE et PME à se digitaliser et offrir une super expérience utilisateur.
+short_description: Je souhaite aider les TPE et PME à se digitaliser et offrir une super expérience utilisateur.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
