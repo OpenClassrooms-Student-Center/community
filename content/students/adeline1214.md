@@ -18,7 +18,7 @@ short_description: Offrir une belle expérience utilisateur grâce aux app.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je souhaite aider les TPE et PME à se digitaliser et offir une expérience utilisateur qui donne envie de revenir!!!
+    Je souhaite aider les TPE et PME à se digitaliser.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -41,7 +41,7 @@ projects:
     finished: true
 
   - title: Intégrez la communauté !
-    description: Cliquer sur l'icône pour voir le projet Open Source modifié ( pour comprendre le fonctionnement de Git, de Github et des pull requests ). 
+    description: Cliquer sur l'icône pour voir le projet Open Source modifié. 
     image: adeline1214/projet_2.png
     link: https://github.com/adeline-honore/community
     finished: true
