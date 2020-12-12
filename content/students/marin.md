@@ -31,7 +31,7 @@ public: True
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même.
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture. 
     # Image must be here: content/images/students/yourrepo/project1.png
     image: marin/project1.png
     link: https://openclassrooms.com/fr/paths/68/projects/38/project-evaluation
