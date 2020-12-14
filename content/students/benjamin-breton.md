@@ -73,5 +73,10 @@ projects:
     description: Concevoir une application permettant la traduction, le change et l'affichage de la météo
     image: benjamin-breton/project_9.png
     link: https://github.com/bbenj28/OC_project_9
+    finished: true
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
+    description: Concevoir un dossier de spécifications techniques
+    image: benjamin-breton/project_9.png
+    link: https://github.com/bbenj28/OC_project_7
     finished: false
 
