@@ -54,7 +54,7 @@ projects:
 
   - title: Présentez-vous !
 
-    description: Axel, 25ans , https://www.linkedin.com/in/axel-hoberdon-391798100/
+    description: Axel, 25ans
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
@@ -72,7 +72,7 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull
 
     image: Axel68/project2.png
 
