@@ -47,9 +47,9 @@ projects:
     image: keltoum/projet2.png
     link: https://github.com/Keltoum-BLK/community
     finished: true
-    - title: Créez votre premier jeu vidéo avec Swift !
-        description: Créer un rpg en programmation swift.
-        image: keltoum/P3.png
-        link: https://github.com/Keltoum-BLK/FrenchGameFactory
-        finished: true
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: Créer un rpg en programmation swift.
+    image: keltoum/P3.png
+    link: https://github.com/Keltoum-BLK/FrenchGameFactory
+    finished: true
 ---
