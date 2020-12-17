@@ -46,5 +46,10 @@ projects:
     description: Voici mon dossier forké sur mon profil.
     image: keltoum/projet2.png
     link: https://github.com/Keltoum-BLK/community
-    finished: false
----
+    finished: true
+  - titre: Créez votre premier jeu vidéo avec Swift !
+    description: La création de mon premier jeu en swift :).
+    image: keltoum/P3.png
+    link: https://github.com/Keltoum-BLK/FrenchGameFactory
+    finished: true
+----
