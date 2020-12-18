@@ -33,7 +33,7 @@ projects:
     description: Une présentation de moi-même.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: antoine/projet_1.png
+    image: antoine/projet_1.jpg
     link: https://openclassrooms.workplace.com/groups/108172763225648/permalink/668381670538085/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -41,7 +41,7 @@ projects:
     
   - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: antoine/projet_2.png
+    image: antoine/projet_2.jpg
     link: https://github.com/anradice
     finished: true
     
