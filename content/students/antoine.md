@@ -40,7 +40,7 @@ projects:
     finished: true
     
   - title: Intégrez la communauté OpenClassrooms !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: antoine/projet_2.jpg
     link: https://github.com/anradice
     finished: true
