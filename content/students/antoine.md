@@ -43,4 +43,9 @@ projects:
     image: antoine/projet_2.png
     link: https://github.com/anradice
     finished: true
+      - title: creez votre premier jeu avec swift !
+    description: Création d’un jeu développé en swift.
+    image: antoine/projet_3.png
+    link: https://www.github.com
+    finished: false
 ---
