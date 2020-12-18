@@ -38,12 +38,14 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
+    
   - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: antoine/projet_2.png
     link: https://github.com/anradice
     finished: true
-      - title: creez votre premier jeu avec swift !
+    
+  - title: creez votre premier jeu avec swift !
     description: Création d’un jeu développé en swift.
     image: antoine/projet_3.png
     link: https://www.github.com
