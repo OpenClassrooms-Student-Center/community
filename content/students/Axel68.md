@@ -32,7 +32,7 @@ short_description: Passionné d'informatique, de course à pied ,de randonnée..
 
 template: students
 
-description: Test
+description: Passionné d'informatique, de course à pied ,de randonnée..
 
 
 
