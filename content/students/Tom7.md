@@ -1,4 +1,4 @@
-﻿---
+---
 
 # FILENAME : Tom Jeantet
 # Example: https://openclassrooms.com/fr/membres/tom-jeantet
