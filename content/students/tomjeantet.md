@@ -17,13 +17,7 @@ short_description: Adepte du sport,de l'informatique,de la peinture mais aussi p
 
 # don't touch that
 template: students
-description:
-   Apres deux années a decouvrir le monde du travail afin
-   de vraiment faire un choix sur le chemin a prendre.
-   Me voila, eleve aupres de Openclassroom pour me familiariser
-   avec le codage et particulierement le langange python.
-   C'est donc pour moi l'occasion de, je l'espere;
-   trouver enfin un travail qui me passionne
+description: C'est pour moi l'occasion de, je l'espere; trouver enfin un travail qui me passionne.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
