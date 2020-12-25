@@ -4,7 +4,7 @@ title: gilles
 
 name: Gilles
 
-date: 2020-12-25 18:42
+date: 2020-12-25 19:48
 
 objective: Faire de l'informatique mon métier.
 
