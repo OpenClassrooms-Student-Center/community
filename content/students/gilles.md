@@ -4,18 +4,16 @@ title: gilles
 
 name: Gilles
 
-date: 2020-12-25 18:16
+date: 2020-12-25 18:42
 
 objective: Faire de l'informatique mon métier.
 
-short_description: J'aime la création, les mathématiques, j'aime pas le soleil.
+short_description: J'aime la création, les mathématiques.
 
 template: students
 
 description: 
-    Issue d'école d'art en design et graphisme, je suis aussi infographiste 3d.
-    j'essaye d'évoluer professionnellement vers le développement d'applications.
-    J'aime aussi les jeux videos et les interfaces avec la machine.
+    Issue d'école d'art, j'essaye d'évoluer professionnellement vers le développement d'applications.
 
 image: gilles.png
 
