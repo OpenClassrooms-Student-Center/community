@@ -85,8 +85,8 @@ projects:
 
     image: jean-baptiste/projet_3.png
 
-    link: https://www.github.com
+    link: https://github.com/jbbaillet85/SOSMacGyver
 
-    finished: false
+    finished: True
 ---
 
