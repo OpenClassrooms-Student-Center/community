@@ -22,8 +22,8 @@ template: students
 
 # max 500 characters
 description:
-    Issue d'une formation dans les arts graphiques et le design.
-	
+    Issue d'une formation dans les arts graphiques et le design, Je suis aussi Infographiste 3D. J'aime comprendre comment étaient réalisés les jeux Dos des année 90 comme Doom, Quake et les moteurs de rendu 3D comme Pixar Renderman. J'aime aussi les interfaces avec la machine et les nouvelles technologies comme la réalité augmenté, le machine learning ...
+
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 # max size: 200ko
