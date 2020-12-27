@@ -40,7 +40,6 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: gilles/projet_1.png
-
     link: https://vimeo.com/user24950611
     #image: raphael/raph-linkedin.png
     # 'true' makes it public. If 'false', then it will not show on the website.
