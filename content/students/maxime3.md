@@ -18,9 +18,7 @@ short_description: J'aime les challenges, le sport et le développement personne
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J'ai la trentaine, j'habite dans le sud de la France et j'aime apprendre de nouvelles choses. 
-	Mon esprit logique m'a guidé vers le parcours de Développeur d'applications mobiles iOS.
-	J'ai hâte de me mettre à fond dans SWIFT !
+    J'ai la trentaine, j'habite dans le sud de la France et j'aime apprendre de nouvelles choses. Mon esprit logique m'a guidé vers le parcours de Développeur d'applications mobiles iOS. J'ai hâte de me mettre à fond dans SWIFT !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -35,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: maxime3/projet_1.png
+    image: content/images/students/project1.png
     link: https://www.linkedin.com/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: false
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: maxime3/projet_2.png
+    image: content/images/students/project2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/maxime3.html
     finished: false
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: maxime3/projet_3.png
+    image: content/images/students/project3.png
     link: https://www.github.com
     finished: false
 ---
