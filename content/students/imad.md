@@ -34,8 +34,7 @@ template: students
 
 description:
 
-    J'étais comptable pendant 17 ans, et je souhaite me reconvertir en développeur d'applications iOS.
-    Mon intérêt pour ce métier est la gestion globale d'un projet tout en étant freelance, à moyen terme.
+    J'étais comptable pendant 17 ans, et je souhaite me reconvertir en développeur d'applications iOS. Mon intérêt pour ce métier est la gestion globale d'un projet tout en étant freelance, à moyen terme.
 
 # image must be located in content/images/students
 
