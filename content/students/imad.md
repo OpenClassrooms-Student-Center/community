@@ -55,10 +55,7 @@ projects:
 
   - title: Présentez-vous !
 
-    description: 3 tâches : 
-	1- Me présentez à la communauté d'openclassrooms
-	2- Explication de mon projet à mon mentor
-	3- Préparation de mon planning de formation et explication de son fonctionnement.
+    description: 3 tâches  1 Me présentez à la communauté d'openclassrooms 2 Explication de mon projet à mon mentor 3 Préparation de mon planning de formation et explication de son fonctionnement.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
