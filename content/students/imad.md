@@ -18,7 +18,7 @@ short_description: Anciennement comptable, je suis en reconversion d'application
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J'étais comptable pendant 17 ans, et je souhaite me reconvertir en développeur d'applications iOS. Mon intérêt pour ce métier est la gestion globale d'un projet tout en étant freelance, à moyen terme.
+    J'étais comptable pendant 17 ans, et je souhaite me reconvertir en développeur d'applications iOS
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -39,7 +39,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: false
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests
     image: imad/Projet_2.png
     link: https://github.com/OpenClassrooms-Student-Center/community
     finished: true
