@@ -5,7 +5,7 @@
 # lowercase, no blank space, Capital case or special character.
 title: kimad77
 # First name or full name
-name: Loïc
+name: kimad77
 date: 2020-12-31 11:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -41,7 +41,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift
-    description: Flavio le CTO il réfléchit déjà au prochain jeu que l’entreprise va développer et il souhaiterait vous confier le travail préparatoire de ce nouveau projet.
+  description: Flavio le CTO il réfléchit déjà au prochain jeu que l’entreprise va développer et il souhaiterait vous confier le travail préparatoire de ce nouveau projet.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: kimad77/projet3.jpg
