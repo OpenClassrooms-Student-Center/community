@@ -25,19 +25,19 @@ projects:
     description: me présentez à la communauté d'openclassrooms, explication de mon projet à mon mentor et faire le programme de formation sur 12 mois.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: kimad77/projet_1.png
+    image: kimad77/project1.png
     link: https://openclassrooms.com/fr/members/kqbf7w8m8964
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: modifier un projet open Source pour comprendre le fonctionnement de git, de github et des pull requests. 
-    image: kimad77/projet_2.png
+    image: kimad77/project2.png
     link: https://github.com/kimad77/community
     finished: true
   - title: créez votre premier jeu vidéo avec Swift
     description: flavio le cto il réfléchit déjà au prochain jeu que l’entreprise va développer et il souhaiterait vous confier le travail préparatoire de ce nouveau projet.
-    image: kimad77/projet_3.png
+    image: kimad77/project3.png
     link: https://openclassrooms.com/fr/paths/69/projects/59/assignment
-    finished: true
+    finished: false
 ---
