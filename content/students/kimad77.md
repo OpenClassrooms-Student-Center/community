@@ -1,5 +1,4 @@
 ---
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -39,7 +38,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: modifier un projet open Source pour comprendre le fonctionnement de git, de github et des pull requests. 
     image: kimad77/projet_2.png
     link: https://github.com/kimad77/community
     finished: true
@@ -47,5 +46,5 @@ projects:
     description: flavio le cto il réfléchit déjà au prochain jeu que l’entreprise va développer et il souhaiterait vous confier le travail préparatoire de ce nouveau projet.
     image: kimad77/projet_3.png
     link: https://openclassrooms.com/fr/paths/69/projects/59/assignment
-    finished: false
+    finished: true
 ---
