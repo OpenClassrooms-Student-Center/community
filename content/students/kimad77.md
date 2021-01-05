@@ -1,32 +1,25 @@
 ---
-
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: kimad77
-
 # First name or full name
 name: kimad77
 date: 2020-12-31 03:56
-
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir développeur Python et en faire mon métier.
-short_description: Passionné d'informatique et de nouvelle technologie, j'apprend le Python.
-
+objective: devenir developpeur appplication iOS.
+short_description: faire une reconversion de developpeur d application iOS et par la suite devenir freelance.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
     en reconversion en développement d'applications iOS.
-
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: kimad77.png
-
 # Change this to True when you do you pull request.
 public: True
-
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
@@ -44,7 +37,7 @@ projects:
     link: https://github.com/OpenClassrooms-Student-Center/community
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift
-    description: Flavio, le CTO, il réfléchit déjà au prochain jeu que l’entreprise va développer et il souhaiterait vous confier le travail préparatoire de ce nouveau projet.
+    description: Flavio le CTO il réfléchit déjà au prochain jeu que l’entreprise va développer et il souhaiterait vous confier le travail préparatoire de ce nouveau projet.
     image: kimad77/projet_3.png
     link: https://openclassrooms.com/fr/paths/69/projects/59/assignment
     finished: false
