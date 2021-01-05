@@ -4,28 +4,21 @@
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
 title: kimad77
-
 # First name or full name
 name: kimad77
 date: 2021-01-02 17:20
-
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: devenir developpeur appplication ios.
 short_description: faire une reconversion de developpeur d application iOS et par la suite devenir freelance.
-
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-    en reconversion en développement d'applications ios.
-
+description: en reconversion en développement d'applications ios.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: kimad77.jpg
-
 # Change this to True when you do you pull request.
 public: true
-
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
