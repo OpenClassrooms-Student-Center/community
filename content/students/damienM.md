@@ -12,8 +12,8 @@ date: 2021-01-07 11:35
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Changer de vie professionnelle après 10 années de bullshit job !
-short_description: Ne rien regretter.
+objective: Changer de vie professionnelle après dix années de bullshit job !
+short_description: Je suis désireux d'apprendre un nouveau métier et de le concilier avec mon           activité audiovisuelle.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -30,7 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien de mes reals audiovisuelles.
+    description: Une présentation de moi-même et un lien de mes réals audiovisuelles.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: damienM/projet_1.png
@@ -40,7 +40,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: damienM/projet_2.png
+    image: damienM/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/damienM.html
     finished: true
   - title: Aidez MacGyver à sortir !
