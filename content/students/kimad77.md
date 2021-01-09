@@ -6,7 +6,7 @@
 title: kimad77
 # First name or full name
 name: kimad77
-date: 2021-01-08 10:25
+date: 2021-01-08 10:26
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: devenir developpeur appplication ios.
