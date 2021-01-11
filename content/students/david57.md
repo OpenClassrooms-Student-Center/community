@@ -42,18 +42,18 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a nanew repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: david57/projet_1.png
+    image: david57/Projet_1.png
     link: https://www.linkedin.com/in/david-da-silva-75426b171/
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre Git, de Github et les pull requests.
-    image: david57/projet_2.png
+    image: david57/Projet_2.png
     link: 
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: david57/projet_3.png
+    image: david57/Projet_3.png
     link: 
     finished: false
     
