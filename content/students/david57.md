@@ -50,7 +50,7 @@ projects:
     description: Modifier un projet Open Source pour comprendre Git, de Github et les pull requests.
     image: david57/projet_2.png
     link: 
-    finished: false
+    finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: david57/projet_3.png
