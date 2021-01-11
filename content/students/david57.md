@@ -23,11 +23,8 @@ template: students
 
 # max 500 characters
 description:
-    Bonjour à tous, je m'apelle David DA SILVA, j'ai 21 ans et je suis heureux de rejoindre Openclassrooms !  Lorsque j'ai trouvé la formation developpeur d'application IOS, j'ai directement été attiré c'est pourquoi j'ai décidé de m'y inscrire et de me consacrer à cette formation à temps plein. 
-    Mes objectifs sont de : 
-    - Déouvrir le domaine
-    - Apprendre totutes les techniques et les compétences et les maîtriser
-    - Les mettre en application puis les gérer en toute autonomie
+    Bonjour à tous, je m'apelle David DA SILVA, j'ai 21 ans et je suis heureux de rejoindre Openclassrooms !  Lorsque j'ai trouvé la formation developpeur d'application IOS, j'ai directement été attiré c'est pourquoi j'ai décidé de m'y inscrire et de me consacrer à cette formation à temps plein. Mes objéctifs sont de découvrir le domaine, apprendre toutes les techniques et compétences afin de les maîtriser et les gerer en toute autonomie.
+    
 
 
 # image must be located in content/images/students
