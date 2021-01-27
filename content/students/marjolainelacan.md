@@ -58,7 +58,7 @@ projects:
     description: Reprendre un projet existant de calculatrice
     image: marjolainelacan/projet_5.png
     link: https://www.github.com
-    finished: false
+    finished: true
   - title: Analysez les besoins de votre client pour son groupe de pizzerias
     description: Ecrire une documentation technique
     image: marjolainelacan/projet_6.png
