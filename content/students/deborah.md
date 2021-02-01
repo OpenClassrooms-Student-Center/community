@@ -21,7 +21,7 @@ description: J'ai 19 ans, je suis diplômée d'un baccalauréat ES et j'ai déci
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: deborah.jpg
 
 # Change this to True when you do you pull request.
 public: False
