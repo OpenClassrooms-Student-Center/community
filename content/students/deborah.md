@@ -24,7 +24,7 @@ description: J'ai 19 ans, je suis diplômée d'un baccalauréat ES et j'ai déci
 image: deborah.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
