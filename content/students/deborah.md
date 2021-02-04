@@ -17,7 +17,7 @@ short_description: J'aime les sports nautiques, l'art et voyager.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: J'ai 19 ans, je suis diplômée d'un baccalauréat ES et j'ai décidé de poursuivre mes études avec Openclassrooms afin d'en apprendre davantage sur le coding. 
+description: J'ai 19 ans, je suis diplômée d'un baccalauréat ES et j'ai décidé de poursuivre mes études avec Openclassrooms.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
