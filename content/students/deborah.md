@@ -32,14 +32,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/deborah/projet_1.png
-    image: P1_03_capturedecran.png
+    image: deborah/projet_1.png
     link: https://openclassrooms.workplace.com/groups/108172763225648
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: content/images/students/deborah/projet_2.png
+    image: deborah/projet_2.png
     link: https://github.com/deborahSn/community
     finished: true
   - title: Aidez MacGyver à sortir !
