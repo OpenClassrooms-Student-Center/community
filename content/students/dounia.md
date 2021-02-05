@@ -17,7 +17,7 @@ short_description: passionnée d'astronomie.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: Développeur iOS en formation via OpenClassrooms reconversion anciennement Ingénieure pédagogique et Digital Learning manager .
+description: Développeur iOS en formation via OpenClassrooms reconversion .
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
