@@ -36,7 +36,7 @@ public: True
 projects:
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Ma présentation et un lien vers mon LinkedIn
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: benjamin-breton/project_1.png
@@ -78,5 +78,10 @@ projects:
     description: Concevoir un dossier de spécifications techniques
     image: benjamin-breton/project_7.png
     link: https://github.com/bbenj28/OC_project_7
+    finished: true
+  - title: Créez l’application Reciplease
+    description: Concevoir une application de recettes utilisant les appels réseaux et CoreData
+    image: benjamin-breton/project_10.png
+    link: https://github.com/bbenj28/OC_project_10
     finished: false
 
