@@ -42,7 +42,7 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et Github.
     image: nicolas74/projet_2.png
-    link: https://github.com/L-J210/community
+    link: https://github.com/nicodmng/community
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Programmer en orienté objet avec Swift.
