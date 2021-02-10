@@ -33,18 +33,15 @@ short_description: J'aime dessiner et les nouvelles technologie.
 template: students
 
 description:
-
+    
     Âgé de 37 ans, Diplômé du titre de technicien supérieur en Réseau informatique 
 
     et Télécommunication Niveau 5) et de concepteur développeur d'Applications 
 
-    ( Niveau 6) j’ai pu acquérir des compétences en HTML, CSS, Boostrap, Javascript
+    ( Niveau 6). Aujourd’hui, je souhaiterais approfondir mes connaissances  
 
-    ainsi qu’en JAVA ou j’ai acquis les bases de la programmation orientée objet.
+    dans le domaine des applications IOS.
 
-    Aujourd’hui, je souhaiterais approfondir mes connaissances dans le domaine 
-
-    des applications IOS.
 
 
 # image must be located in content/images/students
@@ -87,9 +84,9 @@ projects:
 
     image: Farid/projet2.png
 
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/FaridBenjomaa
 
-    finished: true
+    finished: false
 
   - title: Aidez MacGyver à sortir !
 
