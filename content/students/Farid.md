@@ -32,15 +32,7 @@ short_description: J'aime dessiner et les nouvelles technologie.
 
 template: students
 
-description:
-    
-    Âgé de 37 ans, Diplômé du titre de technicien supérieur en Réseau informatique 
-
-    et Télécommunication et de concepteur développeur d'Applications.
-
-    Aujourd’hui, je souhaiterais approfondir mes connaissances  
-
-    dans le domaine des applications IOS.
+description: Âgé de 37 ans, Aujourd’hui, je souhaiterais approfondir mes connaissances   
 
 # image must be located in content/images/students
 
