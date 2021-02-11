@@ -16,7 +16,7 @@ title: Farid
 
 name: Farid
 
-date: 2016-10-28 17:20
+date: 2021-02-11 09:15
 
 
 # One line.
@@ -25,14 +25,17 @@ date: 2016-10-28 17:20
 
 objective: Devenir développeur d'application IOS.
 
-short_description: J'aime dessiner et les nouvelles technologie.
+short_description: J'aime dessiner.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 
 template: students
 
-description: Âgé de 37 ans, Aujourd’hui, je souhaiterais approfondir mes connaissances   
+description:
+
+    Aujourd’hui, je souhaiterais approfondir mes connaissances.
+
 
 # image must be located in content/images/students
 
@@ -43,7 +46,7 @@ image: Farid.png
 
 # Change this to True when you do you pull request.
 
-public: True
+public: False
 
 
 # You need to keep the exact same structure for each new project.
@@ -60,7 +63,7 @@ projects:
 
     image: Farid/projet1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: https://www.linkedin.com/in/farid-benjomaa-b56907a5/
 
     # 'true' makes it fully available.
 
@@ -70,7 +73,7 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
     image: Farid/projet2.png
 
@@ -84,7 +87,7 @@ projects:
 
     image: Farid/projet2.png
 
-    link: https://www.github.com
+    link: https://github.com/FaridBenjomaa
 
     finished: false
 
