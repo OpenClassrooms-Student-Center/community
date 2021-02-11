@@ -23,7 +23,7 @@ date: 2016-10-28 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
+objective: Devenir Developpeur d'application IOS
 
 short_description: J'aime dessiner et les nouvelles technologie.
 
@@ -36,13 +36,11 @@ description:
     
     Âgé de 37 ans, Diplômé du titre de technicien supérieur en Réseau informatique 
 
-    et Télécommunication Niveau 5) et de concepteur développeur d'Applications 
+    et Télécommunication et de concepteur développeur d'Applications.
 
-    ( Niveau 6). Aujourd’hui, je souhaiterais approfondir mes connaissances  
+    Aujourd’hui, je souhaiterais approfondir mes connaissances  
 
     dans le domaine des applications IOS.
-
-
 
 # image must be located in content/images/students
 
@@ -80,13 +78,13 @@ projects:
 
   - title: Intégrez la communauté !
 
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et des pull requests. 
 
     image: Farid/projet2.png
 
     link: https://github.com/FaridBenjomaa
 
-    finished: false
+    finished: true
 
   - title: Aidez MacGyver à sortir !
 
