@@ -23,7 +23,7 @@ date: 2016-10-28 17:20
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Devenir Developpeur d'application IOS
+objective: Devenir Developpeur d'application IOS.
 
 short_description: J'aime dessiner et les nouvelles technologie.
 
