@@ -36,7 +36,7 @@ public: True
 projects:
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Ma présentation et un lien vers mon LinkedIn
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: benjamin-breton/project_1.png
@@ -52,7 +52,36 @@ projects:
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Concevoir un prototype de jeu de combat entre personnages avec Swift
     image: benjamin-breton/project_3.png
-    link: https://github.com/bbenj28
+    link: https://github.com/bbenj28/OC_project_3
+    finished: true
+  - title: Développez Instagrid une application de montage photo !
+    description: Concevoir une application responsive respectant le MVC
+    image: benjamin-breton/project_4.png
+    link: https://github.com/bbenj28/OC_project_4
+    finished: true
+  - title: Améliorez une application existante
+    description: Améliorer, débuguer, et tester une application existante
+    image: benjamin-breton/project_5.png
+    link: https://github.com/bbenj28/OC_project_5
+    finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+    description: Concevoir un dossier de spécifications fonctionnelles et trouver une solution technique
+    image: benjamin-breton/project_6.png
+    link: https://github.com/bbenj28/OC_project_6
+    finished: true
+  - title: Réalisez une application de voyage
+    description: Concevoir une application permettant la traduction, le change et l'affichage de la météo
+    image: benjamin-breton/project_9.png
+    link: https://github.com/bbenj28/OC_project_9
+    finished: true
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
+    description: Concevoir un dossier de spécifications techniques
+    image: benjamin-breton/project_7.png
+    link: https://github.com/bbenj28/OC_project_7
+    finished: true
+  - title: Créez l’application Reciplease
+    description: Concevoir une application de recettes utilisant les appels réseaux et CoreData
+    image: benjamin-breton/project_10.png
+    link: https://github.com/bbenj28/OC_project_10
     finished: false
-    
----
+

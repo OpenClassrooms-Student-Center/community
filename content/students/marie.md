@@ -52,7 +52,7 @@ projects:
     finished: true
   - title: Analysez les besoins de votre client pour son groupe de pizzerias
     description: Rédaction des spécifications fonctionnelles pour le projet OC Pizza
-    image:marie/Projet4_OK.jpg
+    image: marie/Projet4_OK.jpg
     link: https://www.github.com
     finished: true
 
