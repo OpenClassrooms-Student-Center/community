@@ -42,12 +42,17 @@ projects:
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests.
-    image: marie/Projet2_en-cours.jpg
+    image: marie/Projet2_OK.jpg
     link: 
-    finished: false 
+    finished: true 
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: 
+    image: marie/Projet3_OK.jpg
     link: https://www.github.com
-    finished: false
----
+    finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+    description: Rédaction des spécifications fonctionnelles pour le projet OC Pizza
+    image: marie/Projet4_OK.jpg
+    link: https://www.github.com
+    finished: true
+
