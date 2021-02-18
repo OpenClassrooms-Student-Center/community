@@ -8,7 +8,7 @@ date: 2020-07-10 12:00
 
 objective: Reconvertion professionnelle.
 
-short_description: J'ai 28 ans, guitariste de jazz, travaille en restauration.
+short_description: J'ai 29 ans, guitariste de jazz, travaille en restauration.
 
 template: students
 
@@ -60,6 +60,26 @@ projects:
     image: thomas75/projet_04.png
 
     link: none
+
+    finished: true
+    
+  - title: Utilisez les données publiques de l'OpenFoodFacts.
+
+    description: Concevoir une application de substituts alimentaires. Utilisation de MySQL.
+
+    image: thomas75/projet_05.png
+
+    link: https://github.com/OBud75/OpenFoodFacts
+
+    finished: true
+    
+  - title: Concevez la solution technique d’un système de gestion de pizzeria
+
+    description: Solution technique du projet 4, UML classes, composants, déploiement, base de données.
+
+    image: thomas75/projet_05.png
+
+    link:none
 
     finished: false
 
