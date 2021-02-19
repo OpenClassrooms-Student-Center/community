@@ -35,7 +35,7 @@ projects:
     
     # Image must be here: content/images/students/yourrepo/project1.jpg
     
-    image: lea/projet1.PNG
+    image: lea/projet1.jpg
     
     link: https://www.linkedin.com/in/léa-kieffer-1761a5176/
     
@@ -49,14 +49,14 @@ projects:
     
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git Github et de pull request. 
     
-    image: lea/projet2.PNG
+    image: lea/projet2.jpg
     
     link: https://github.com/june63/community
 
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: lea/projet3.PNG
+    image: lea/projet3.jpg
     link: https://www.github.com
     
     finished: false
