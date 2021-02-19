@@ -21,8 +21,7 @@ description: J'ai 27ans, depuis juillet 2021 je suis diplomé Développeur web e
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: lea.jpg
-
+image: lea.PNG
 # Change this to True when you do you pull request.
 public: True
 
@@ -36,7 +35,7 @@ projects:
     
     # Image must be here: content/images/students/yourrepo/project1.jpg
     
-    image: lea/projet1.jpeg
+    image: lea/projet1.PNG
     
     link: https://www.linkedin.com/in/léa-kieffer-1761a5176/
     
@@ -50,14 +49,14 @@ projects:
     
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git Github et de pull request. 
     
-    image: lea/projet2.jpeg
+    image: lea/projet2.PNG
     
     link: https://github.com/june63/community
 
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: lea/projet3.jpeg
+    image: lea/projet3.PNG
     link: https://www.github.com
     
     finished: false
