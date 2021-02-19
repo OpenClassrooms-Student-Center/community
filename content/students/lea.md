@@ -17,8 +17,7 @@ short_description: J'aime l'équitation, la nature, l'histoire.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-    J'ai 27ans, depuis juillet 2021 je suis diplomé Développeur web et web mobile. Ne trouvant pas d'emploi, j'ai décidé de me spécialiser dans le développement d'application IOS.
+description: J'ai 27ans, depuis juillet 2021 je suis diplomé Développeur web et web mobile. Ne trouvant pas d'emploi, j'ai décidé de me spécialiser dans le développement d'application IOS.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -49,7 +48,7 @@ projects:
   
   - title: Intégrez la communauté !
     
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git Github et de pull request. 
     
     image: lea/projet2.jpeg
     
