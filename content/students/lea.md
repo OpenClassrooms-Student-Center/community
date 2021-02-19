@@ -21,7 +21,7 @@ description: J'ai 27ans, depuis juillet 2021 je suis diplomé Développeur web e
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: lea.JPEGs
+image: lea.JPEG
 # Change this to True when you do you pull request.
 public: True
 
