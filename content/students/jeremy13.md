@@ -17,8 +17,7 @@ short_description: je suis un geek
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-    je souhaite créer mon jeu mobile IOS
+description: je souhaite créer mon jeu mobile IOS
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -41,13 +40,13 @@ projects:
 
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: adeline1214/projet_2.png
-    link: https://github.com/adeline-honore/community
+    image: P2jeremy13.png
+    link: https://github.com/knakinak20/community/commit/dcaebdc1a803130ec4075a5e3682e0ca47b6a098
     finished: true
 
   - title: Créer votre premier jeu vidéo avec Swift !
     description: Création d’un jeu vidéo.
-    image: adeline1214/projet_3.png
+    image: 
     link: https://www.github.com
     finished: false
 ---
