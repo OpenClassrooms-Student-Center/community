@@ -24,7 +24,7 @@ projects:
     link: https://www.linkedin.com/in/paul-rey-48b7ab107/
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git.
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: paul/projet_2.png
     link: https://github.com/paulrey31/community
     finished: true
