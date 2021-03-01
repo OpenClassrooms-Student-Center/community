@@ -34,19 +34,19 @@ projects:
     description: Une simple présentation de moi-même.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: pierre-alexandre/projet_1.png
+    image: pierre-alexandre/project_1.png
     link:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: pierre-alexandre/projet_2.png
+    image: pierre-alexandre/project_2.png
     link: 
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Création d'un prototype de jeu de combat entre personnages avec Swift. 
-    image: pierre-alexandre/projet_3.png
+    image: pierre-alexandre/project_3.png
     link:
     finished: false
 ---
