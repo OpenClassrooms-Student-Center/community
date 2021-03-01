@@ -19,7 +19,7 @@ template: students
 description:
     J'ai appris le code civil et le code pénal. 
     Puis j'ai appris le code AutoIt et le code C#. 
-    J'ai un poste de Développeur et me spécialise en Swift.
+    Je veux devenir Développeur et me spécialise en Swift.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
