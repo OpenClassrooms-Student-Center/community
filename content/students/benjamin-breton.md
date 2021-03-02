@@ -85,7 +85,7 @@ projects:
     link: https://github.com/bbenj28/OC_project_10
     finished: true
   - title: Documentez votre système de gestion de pizzeria
-    description: Concevoir un dossier de conception fonctionnelle, un dossier de conception technique, un dossier d’exploitation, et un procès-verbal de livraison finale
+    description: Concevoir des dossiers de conception fonctionnelle, de conception technique, d’exploitation, et un PV de livraison finale
     image: benjamin-breton/project_8.png
     link: https://github.com/bbenj28/OC_project_8
     finished: false
