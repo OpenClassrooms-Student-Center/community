@@ -83,5 +83,5 @@ projects:
     description: Concevoir une application de recettes utilisant les appels réseaux et CoreData
     image: benjamin-breton/project_10.png
     link: https://github.com/bbenj28/OC_project_10
-    finished: false
+    finished: true
 
