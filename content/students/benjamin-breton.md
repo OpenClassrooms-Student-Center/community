@@ -84,4 +84,9 @@ projects:
     image: benjamin-breton/project_10.png
     link: https://github.com/bbenj28/OC_project_10
     finished: true
+  - title: Documentez votre système de gestion de pizzeria
+    description: Concevoir des dossiers de conception fonctionnelle, technique, d'exploitation, et un PV de livraison
+    image: benjamin-breton/project_8.png
+    link: https://github.com/bbenj28/OC_project_8
+    finished: false
 
