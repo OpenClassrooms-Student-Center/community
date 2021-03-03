@@ -33,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: content/images/students/maxime3/project1.png
+    image: maxime3/project1.png
     link: https://www.linkedin.com/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: content/images/students/maxime3/project2.png
+    image: maxime3/project2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/maxime3.html
     finished: true
   - title: Créez votre premier jeu avec SWIFT !
     description: Création d’un jeu de rôle développé en SWIFT, orienté objet.
-    image: content/images/students/maxime3/project3.png
+    image: maxime3/project3.png
     link: https://www.github.com/UOXAM
     finished: true
 ---
