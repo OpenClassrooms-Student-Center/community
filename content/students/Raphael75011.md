@@ -30,19 +30,21 @@ public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
+
   - title: Définissez votre stratégie d'apprentissage !
     description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage.
-    # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/images/students/yourrepo/project1.png
     image: Raphael75011/P1_01_planning.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
     description: Versionner son projet et travailler en collaboration.
     image: Raphael75011/P2_01_Screenshot.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
+    finished: true
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: Programmer en orienté objet avec Swift.
+    image: Projet3.png
+    link: https://openclassrooms.com/fr/paths/69/projects/59/assignment
     finished: false
     
     
