@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: cmm4tcvlz977
+title: Raphael75011
 
 # First name or full name
 name: Raphael
@@ -33,17 +33,17 @@ projects:
 
   - title: Définissez votre stratégie d'apprentissage !
     description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage.
-    image: cmm4tcvlz977/P1_01_planning.jpg
+    image: Raphael75011/P1_01_planning.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
     description: Versionner son projet et travailler en collaboration.
-    image: cmm4tcvlz977/P2_01_Screenshot.jpg
+    image: Raphael75011/P2_01_Screenshot.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Programmer en orienté objet avec Swift.
-    image: cmm4tcvlz977/Projet3.png
+    image: Raphael75011/Projet3.png
     link: https://openclassrooms.com/fr/paths/69/projects/59/assignment
     finished: false 
 ---
