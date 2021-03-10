@@ -17,8 +17,7 @@ short_description: En pleine reconversion pour devenir iOS Dev.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-    Aprés 25 ans dans les air comme chef de cabine, je commence un nouveau chapitre. 
+description: Aprés 25 ans dans les air comme chef de cabine, je commence un nouveau chapitre. 
     Transformer ma passion de developpement iOS en carriere professionnelle.
 
 # image must be located in content/images/students
