@@ -42,7 +42,7 @@ projects:
   - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: romain82/projet_2.png
-    link: https://openclassrooms-student-center.github.io/community/students/romain82.html
+    link: https://github.com/RBuewaert/community
     finished: false
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Apprendre la programmation orientée objet.
