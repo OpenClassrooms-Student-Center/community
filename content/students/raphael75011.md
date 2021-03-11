@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: raphael75011
+title: cmm4tcvlz977
 
 # First name or full name
 name: Raphael
@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: raphael75011.jpg
+image: cmm4tcvlz977.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -33,19 +33,19 @@ projects:
     description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: raphael75011/projet1.jpg
+    image: cmm4tcvlz977/projet1.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git.
-    image: raphael75011/projet2.jpg
+    image: cmm4tcvlz977/projet2.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Programmer en orienté objet avec Swift.
-    image: raphael75011/projet3.png
+    image: cmm4tcvlz977/projet3.png
     link: https://openclassrooms.com/fr/paths/69/projects/59/assignment
     finished: false
 ---
