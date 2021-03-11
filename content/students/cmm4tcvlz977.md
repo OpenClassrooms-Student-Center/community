@@ -8,20 +8,26 @@ title: cmm4tcvlz977
 
 # First name or full name
 name: Raphael
-date: 2020-03-10 12:20
+date: 2020-09-12 05:35
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir iOS dev.
+
+# max 100 characters
 short_description: En pleine reconversion.
 
-# Ne modifiez pas le paramètre 'template', seulement la description
+# don't touch that
 template: students
+
+# max 500 characters
 description:
     Aprés 25ans dans les airs à voyager, je commence un nouveau chapitre.
 
+
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
+# max size: 200ko
 image: cmm4tcvlz977.jpg
 
 # Change this to True when you do you pull request.
@@ -30,16 +36,16 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Définissez votre stratégie d'apprentissage !
+    # max 100 characters
     description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: cmm4tcvlz977/projet1.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
-    # 'true' makes it fully available.
-    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git.
+    description: Modifier un projet pour comprendre le fonctionnement de Git.
     image: cmm4tcvlz977/projet2.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
     finished: true
