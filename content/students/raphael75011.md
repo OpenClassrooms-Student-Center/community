@@ -33,19 +33,19 @@ projects:
     description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: raphael75011/P1_01_planning.jpg
+    image: raphael75011/projet1.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: raphael75011/P2_01_Screenshot.jpg
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git.
+    image: raphael75011/projet2.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Programmer en orienté objet avec Swift.
-    image: raphael75011/Projet3.png
+    image: raphael75011/projet3.png
     link: https://openclassrooms.com/fr/paths/69/projects/59/assignment
     finished: false
 ---
