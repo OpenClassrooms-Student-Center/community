@@ -7,8 +7,8 @@
 title: cmm4tcvlz977
 
 # First name or full name
-name: Raphael
-date: 2020-09-12 05:35
+name: Raphael75011
+date: 2020-03-12 19:35
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -21,8 +21,7 @@ short_description: En pleine reconversion.
 template: students
 
 # max 500 characters
-description:
-    Aprés 25ans dans les airs à voyager, je commence un nouveau chapitre.
+description: Aprés 25ans dans les airs à voyager, je commence un nouveau chapitre.
 
 
 # image must be located in content/images/students
@@ -37,7 +36,7 @@ public: True
 projects:
   - title: Définissez votre stratégie d'apprentissage !
     # max 100 characters
-    description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage.
+    description: Création d'un planning de formation.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: cmm4tcvlz977/projet1.jpg
