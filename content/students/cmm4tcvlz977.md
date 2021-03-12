@@ -13,15 +13,14 @@ date: 2020-03-12 19:35
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir iOS dev.
-
-# max 100 characters
 short_description: En pleine reconversion.
 
 # don't touch that
 template: students
 
 # max 500 characters
-description: Aprés 25ans dans les airs à voyager, je commence un nouveau chapitre.
+description:
+    Aprés 25ans dans les airs à voyager, je commence un nouveau chapitre.
 
 
 # image must be located in content/images/students
