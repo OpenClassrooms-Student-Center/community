@@ -1,57 +1,56 @@
 ---
 
+# FILENAME : please use your OpenClassrooms's name, available in your url.
+# Example: https://openclassrooms.com/membres/celinemartinet
+# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# lowercase, no blank space, Capital case or special character.
 title: cmm4tcvlz977
 
+# First name or full name
 name: Raphael75011
+date: 2020-03-12 19:35
 
-date: 2020-07-10 12:00
-
+# One line.
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir iOS dev.
 
+# max 100 characters
 short_description: En pleine reconversion.
 
+# don't touch that
 template: students
 
-description: Aprés 25ans dans les airs à voyager, je commence un nouveau chapitre.
+# max 500 characters
+description:
+    Aprés 25ans dans les airs à voyager, je commence un nouveau chapitre.
 
-
+# image must be located in content/images/students
+# name should be the same as this file. Eg: celinemartinet.png
+# max size: 200ko
 image: cmm4tcvlz977.jpg
 
+# Change this to True when you do you pull request.
 public: True
 
-
+# You need to keep the exact same structure for each new project.
 projects:
-
   - title: Définissez votre stratégie d'apprentissage !
-
-    description: Définir une stratégie d'apprentissage, un planning, les objectifs et comment les réaliser.
-
-    image: cmm4tcvlz977/projet1.jpg
-
+    # max 100 characters
+    description: Création d'un planning de formation.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: cmm4tcvlz977/projet_1.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
-
+    # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
-
   - title: Intégrez la communauté !
-
-    description: S'initier à Git, GitHub et l'opensource en ajoutant ses informations dans un dossier collectif.
-
-    image: cmm4tcvlz977/projet2.jpg
-
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    image: cmm4tcvlz977/projet_2.png
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
-
     finished: true
-
   - title: Créez votre premier jeu vidéo avec Swift !
-
     description: Programmer en orienté objet avec Swift.
-
-    image: cmm4tcvlz977/projet3.png
-
-    link: https://openclassrooms.com/fr/paths/69/projects/59/assignment
-
+    image: cmm4tcvlz977/projet_3.png
+    link: https://www.github.com
     finished: false
-
-
-
 ---
