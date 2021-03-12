@@ -45,7 +45,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre Git.
-    image: cmm4tcvlz977/projet_2.png
+    image: cmm4tcvlz977/projet_2.jpg
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
