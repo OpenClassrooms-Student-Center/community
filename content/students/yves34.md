@@ -27,7 +27,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: YvesC88.jpeg
+image: YvesC88.jpg
 
 # Change this to True when you do you pull request.
 public: False
@@ -38,19 +38,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: ratus/projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    image: YvesC88/P1_capture.png
+    link: https://www.linkedin.com/in/yves-charpentier-9a14961b8/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: ratus/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    description: Découverte de la communauté sur Workplace !
+    image: YvesC88/P2_capture.png
+    link: https://github.com/YvesC88/community/blob/master/content/images/students/YvesC88/P2_capture.png
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
+  - title: Git et GitHub !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    image: YvesC88/P3_capture.png
+    link: https://github.com/YvesC88/community/blob/master/content/images/students/YvesC88/P3_capture.png
     finished: false
 ---
