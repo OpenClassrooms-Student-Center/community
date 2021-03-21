@@ -14,22 +14,25 @@ date: 2021-02-20 10:42
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Concrétiser mes projets perso et pratiquer un nouveau métier dans le digital.
 
+# max 100 characters
+short_description: Short description was missing :)
+
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J'aime la création en général et les défis pro. J'aime l'autonomie et travailler dans un environnement sain. Je recherche l'épanouissement personnel à travers mes entreprises propres.
+    J'aime la création en général et les défis pro.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: greg.jpg
 
 # Change this to True when you do you pull request.
-public: False
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: J'ai travaillé plus de 18 ans en tant qu'infographiste et souhaite rajouter la corde du développement d'applications mobiles à mon arc.
+    description: J'ai travaillé 18 ans en tant qu'infographiste et souhaite rajouter le développement à mon arc.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: greg/projet_1.jpg
