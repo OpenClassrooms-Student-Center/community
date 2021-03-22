@@ -27,10 +27,10 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: YvesC88.jpg
+image: yves34.jpg
 
 # Change this to True when you do you pull request.
-public: True
+public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
