@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: alpha
+title: Ousmanemassamba
 
 # First name or full name
 name:Ousmanemassamba
@@ -20,7 +20,7 @@ short_description: Sportif et amateur de cusine.
 template: students
 description:
 Issu du milieu de l'aéronautique, je me lance dans une reconversion en interne dans les métiers du digital : Developpeur d'application.
-    C'est des métiers qui demande de plus en plus de mains d'œuvre, cela s'accentue avec la digitalisation de plusieurs métiers et dans plusieurs secteurs.
+    C'est des métiers qui demandent de plus en plus de mains d'œuvre, cela s'accentue avec la digitalisation de plusieurs métiers et dans plusieurs secteurs.
     Et qui di digitalisation dis applications qui doivent être fonctionnelles afin de faciliter le quotidien des utilisateurs.
     Cette formation opérationnelle au métier de développeurs s'intégre parfaitement dans mon projet de reconversion au sein de l'entreprise.
     En effet ce programme de formation me permettra de developper de nouvelles compétences, d'acquérir les fondamentaux dans le métier.
@@ -37,8 +37,8 @@ projects:
   - title: Définissez votre stratégie d'apprentissage !
     description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage... 
     image: ousmanemassamba/Projet2.1.png
-    link: https://openclassrooms.com/fr/paths/68/projects/38/assignment
-    finished: true
+    link: https://github.com/OpenClassrooms-Student-Center/community
+    finished: True
 
   - title: Intégrez la communauté !
     description: Prise en main de Git et GitHub, contribution à un projet collectif hébergé sur GiHub. 
@@ -47,8 +47,6 @@ projects:
     finished: true
 
   - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: alpha/Projet3.png
-    link: https://openclassrooms.com/fr/paths/68/projects/156/assignment
+    description: 
     finished: false
 ---
