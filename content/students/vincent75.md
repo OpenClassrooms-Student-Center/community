@@ -33,14 +33,19 @@ projects:
     description: Mettre en place mon planning de formation et me présenter à mon mentor et à la communauté.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: vincent75/projet1.jpg
+    image: vincent75/projet_1.jpg
     link: https://openclassrooms.workplace.com/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
-    finished: false
-  - title: Intégrez la communauté !
+    finished: true
+  - title: Intégrez la communauté OpenClassrooms !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: vincent/projet_2.png
+    image: vincent75/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/vincent75.html
+    finished: false
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: Création du prototype d’un jeu pour en tester sa logique dans le Terminal.
+    image: vincent75/projet_3.png
+    link: https://github.com/centvingt/TermRPG
     finished: false
 ---
