@@ -41,7 +41,7 @@ projects:
   - title: Intégrez la communauté !
     description: Apprendre à utiliser Git et GitHub 
     image: claire/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/claire.html
+    link: https://github.com/KlereBibi/community.git
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
