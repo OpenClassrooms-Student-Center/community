@@ -38,19 +38,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: YvesC88/P1_capture.png
+    image: yves34/P1_capture.png
     link: https://www.linkedin.com/in/yves-charpentier-9a14961b8/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Découverte de la communauté sur Workplace !
-    image: YvesC88/P2_capture.png
-    link: https://github.com/YvesC88/community/blob/master/content/images/students/YvesC88/P2_capture.png
+    image: yves34/P2_capture.png
+    link: https://github.com/YvesC88/community/blob/master/content/images/students/yves34/P2_capture.png
     finished: true
   - title: Git et GitHub !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: YvesC88/P3_capture.png
-    link: https://github.com/YvesC88/community/blob/master/content/images/students/YvesC88/P3_capture.png
+    link: https://github.com/YvesC88/community/blob/master/content/images/students/yves34/P3_capture.png
     finished: false
 ---
