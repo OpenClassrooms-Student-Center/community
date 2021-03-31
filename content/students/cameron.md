@@ -12,7 +12,7 @@ date: 2021-03-26 14:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir un trés bon développeur iOS
+objective: Devenir un trés trés bon développeur iOS
 short_description: En reconversion professionnelle, je suis prêt a apprendre pour devenir un trés bon développeur iOS
 
 # Ne modifiez pas le paramètre 'template', seulement la description
