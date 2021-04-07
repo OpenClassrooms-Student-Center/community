@@ -5,7 +5,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: ratus
+title: remiexpleo
 
 # First name or full name
 name: Rémi
@@ -19,10 +19,7 @@ short_description: J'aime la nature et le sport.
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation.
-Si je devais résumer ma vie aujourd’hui avec vous, je dirais que c’est d’abord des rencontres, des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas.
-Et c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée…
-Parce que quand on a le goût de la chose, la chose bien faite, parfois on ne trouve pas l’interlocuteur en face, je dirais, le miroir qui vous aide à avancer.
+    Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise situation. Si je devais résumer ma vie aujourd’hui avec vous, je dirais que c’est d’abord des rencontres, des gens qui m’ont tendu la main, peut-être à un moment où je ne pouvais pas. Et c’est assez curieux de se dire que les hasards, les rencontres forgent une destinée… Parce que quand on a le goût de la chose, la chose bien faite, parfois on ne trouve pas l’interlocuteur en face, je dirais, le miroir qui vous aide à avancer.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
