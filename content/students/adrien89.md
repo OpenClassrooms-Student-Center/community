@@ -33,19 +33,19 @@ projects:
     link: https://www.linkedin.com/in/adrien-perea-a12a88102/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: adrien89/projet_1.jpg
+    image: adrien89/project_1.jpg
     link: https://openclassrooms.workplace.com/profile.php?id=100064917588120
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source. 
-    image: adrien89/projet_2.jpg
+    image: adrien89/project_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: adrien89/projet_3.jpg
+    image: adrien89/project_3.jpg
     link: https://www.github.com
     finished: false
 ---
