@@ -12,7 +12,7 @@ date: 2021-04-07 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: changer de carrière professionnelle.
+objective: Changer de carrière professionnelle.
 short_description: j'aime l'informatique et le sport.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
