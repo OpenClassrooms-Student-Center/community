@@ -7,7 +7,7 @@
 title: adrien89
 
 # First name or full name
-name: Adrien PEREA
+name: Adrien
 date: 2021-04-03 20:20
 
 # One line.
@@ -17,8 +17,7 @@ short_description: J'aime l'informatique, le sport et profiter de la vie.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-    Etudiant OpenClassRooms en développement IOS , je compte sur cette formation pour faire de ma passion mon métier.
+description: Etudiant OpenClassRooms en développement IOS , je compte sur cette formation pour faire de ma passion mon métier.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -31,15 +30,16 @@ public: True
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    link: https://www.linkedin.com/in/adrien-perea-a12a88102/
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: adrien89/projet_1.jpg
-    link: https://www.linkedin.com/in/adrien-perea-a12a88102/
+    link: https://openclassrooms.workplace.com/profile.php?id=100064917588120
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    - title: Intégrez la communauté !
+    description: Modifier un projet Open Source. 
     image: adrien89/projet_2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/adrien89.html
     finished: true
