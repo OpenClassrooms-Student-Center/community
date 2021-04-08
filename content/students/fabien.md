@@ -18,9 +18,8 @@ short_description: J'aime la musique, les jeux vidéos et la mimolette ! J'ai h�
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je m'appelle Fabien et je viens du Sud-Ouest. Même si j'ai toujours été attiré par les métiers des nouvelles technologies, 
-        ce n'est qu'après des années à travailler dans le domaine de l'art que j'ai décidé de lier les deux ensembles.
-
+    Je m'appelle Fabien et je viens du Sud-Ouest. 
+    Même si j'ai toujours été attiré par les métiers des nouvelles technologies, ce n'est qu'après des années à travailler dans le domaine de l'art que j'ai décidé de me lancer dans la formation de Développeur d'application iOS afin de pouvoir lier les deux. 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: fabien.jpg
