@@ -38,13 +38,11 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source. 
     image: eddy/project_2.jpg
     link: https://github.com/EddyRog/community
     finished: true
-
   - title: Prochainement !
     description: Création d’un jeu développé en Swift.
     image: eddy/project_3.jpg
