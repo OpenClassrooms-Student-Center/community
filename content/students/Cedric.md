@@ -55,7 +55,7 @@ projects:
     link: 
     finished: true
   - title: Utilisez les données publiques de l'OpenFoodFacts.
-    description: Developper un programme qui interagirait avec la base OpenFoodFacts pour en récupérer les aliments, les comparer et proposer à l'utilisateur un substitut plus sain.
+    description: Récupérer des aliments, les comparer et proposer un substitut plus sain.
     image: Cedric/projet5.jpg
     link: https://github.com/FaillHarder/P5_OpenFoodFacts.git
     finished: true
