@@ -63,6 +63,11 @@ projects:
     description: Ecrire une documentation technique
     image: marjolainelacan/projet_6.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
+    finished: true
+  - title: Réalisez une application de voyage
+    description: réaliser une application de voyage (météo, taduction, taux de change)
+    image: marjolainelacan/projet_9.png
+    link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: false
   - title: Concevez la solution technique d’un système de gestion de pizzeria
     description: concevoir l’architecture technique d'une solution répondant aux besoins du client
