@@ -65,7 +65,7 @@ projects:
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
   - title: Réalisez une application de voyage
-    description: réaliser une application de voyage (météo, taduction, taux de change)
+    description: réaliser une application de voyage (météo, traduction, taux de change)
     image: marjolainelacan/projet_9.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: false
