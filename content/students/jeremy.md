@@ -18,7 +18,7 @@ short_description: J'aime les voyages, jeux video et les séries. J'apprends à 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Actuellement contrôleur qualité dans l'industrie, j'apprend la programmation pour pouvoir en faire mon métier. Je connais un peu Python et je compte m'améliorer avec la formation Devenir dévellopeur Python d'openclassroom. Je souhaite plus tard faire du back end ou des logiciels.
+    Actuellement contrôleur qualité dans l'industrie, j'apprends la programmation pour pouvoir en faire mon métier. Je connais un peu Python et je compte m'améliorer avec la formation Devenir développeur Python d'openclassroom. Je souhaite plus tard faire du back end ou des logiciels.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -45,29 +45,29 @@ projects:
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: 
-    link: https://www.github.com
-    finished: false
-  - title: Analisez les besoins de votre client pour son groupe de pizzieras !
-    description: A faire
-    image: 
-    link: https://www.github.com
-    finished: false
+    image: jeremy/projet_3.PNG
+    link: https://github.com/Walrick/Projet_3
+    finished: true
+  - title: Analisez les besoins de votre client pour son groupe de pizzerias !
+    description: Analyser un besoin client avec les diagrammes de contextes et fonctionnels UML
+    image: jeremy/projet_4.PNG
+    link: https://app.diagrams.net/#G1-cXkuRKmm2s_YFiKZSc6QcqDnZi6Otun
+    finished: true
   - title: Utilisez les données publiques de l'OpenFoodFacts
-    description: A faire
-    image: 
-    link: https://www.github.com
-    finished: false
+    description: Créer un logiciel qui interagit avec une base de donnée mysql et une api
+    image: jeremy/projet_5.PNG
+    link: https://github.com/Walrick/Projet5
+    finished: true
   - title: Concevez la solution technique d'un systéme de gestion de pizzeria
-    description: A faire
-    image: 
-    link: https://www.github.com
-    finished: false
+    description: Completer l'analyse de la pizzeria avec une solution technique avec UML et y implementer la base de donnée
+    image: jeremy/projet_6.PNG
+    link: https://app.diagrams.net/#G1-CIXd1YrtNyJSy_1fMNFDvLJZa7rdjg7
+    finished: true
   - title: CrǸez GrandPy Bot, le papy-robot
-    description: A faire
-    image: 
-    link: https://www.github.com
-    finished: false
+    description: Créer un chat-bot avec flask - https://grandpy.jeremycombes.fr/
+    image: jeremy/projet_7.PNG
+    link: https://github.com/Walrick/Projet_7-Grand_Py
+    finished: true
   - title: Créez une plateforme pour amateurs de Nutella
     description: A faire
     image: 
