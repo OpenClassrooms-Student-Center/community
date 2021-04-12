@@ -23,7 +23,7 @@ description: En route pour changer de vie.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: raphaelpierre.jpg
+image: raphaelpierre.png
 
 # Change this to True when you do you pull request.
 public: True
