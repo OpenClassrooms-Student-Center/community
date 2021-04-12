@@ -39,7 +39,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et de Github. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et de Github.
     image: jeremy/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/jeremy.html
     finished: true
@@ -59,7 +59,7 @@ projects:
     link: https://github.com/Walrick/Projet5
     finished: true
   - title: Concevez la solution technique d'un systéme de gestion de pizzeria
-    description: Completer l'analyse de la pizzeria avec une solution technique avec UML et y implementer la base de donnée
+    description: Concevoir la solution technique avec UML et y implementer la base de donnée
     image: jeremy/projet_6.png
     link: https://app.diagrams.net/#G1-CIXd1YrtNyJSy_1fMNFDvLJZa7rdjg7
     finished: true
