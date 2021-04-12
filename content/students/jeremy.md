@@ -33,39 +33,39 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: jeremy/projet_1.PNG
+    image: jeremy/projet_1.png
     link: https://www.linkedin.com/in/j%C3%A9r%C3%A9my-combes-375846110/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et de Github. 
-    image: jeremy/projet_2.PNG
+    image: jeremy/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/jeremy.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: jeremy/projet_3.PNG
+    image: jeremy/projet_3.png
     link: https://github.com/Walrick/Projet_3
     finished: true
   - title: Analisez les besoins de votre client pour son groupe de pizzerias !
     description: Analyser un besoin client avec les diagrammes de contextes et fonctionnels UML
-    image: jeremy/projet_4.PNG
+    image: jeremy/projet_4.png
     link: https://app.diagrams.net/#G1-cXkuRKmm2s_YFiKZSc6QcqDnZi6Otun
     finished: true
   - title: Utilisez les données publiques de l'OpenFoodFacts
     description: Créer un logiciel qui interagit avec une base de donnée mysql et une api
-    image: jeremy/projet_5.PNG
+    image: jeremy/projet_5.png
     link: https://github.com/Walrick/Projet5
     finished: true
   - title: Concevez la solution technique d'un systéme de gestion de pizzeria
     description: Completer l'analyse de la pizzeria avec une solution technique avec UML et y implementer la base de donnée
-    image: jeremy/projet_6.PNG
+    image: jeremy/projet_6.png
     link: https://app.diagrams.net/#G1-CIXd1YrtNyJSy_1fMNFDvLJZa7rdjg7
     finished: true
   - title: CrǸez GrandPy Bot, le papy-robot
     description: Créer un chat-bot avec flask - https://grandpy.jeremycombes.fr/
-    image: jeremy/projet_7.PNG
+    image: jeremy/projet_7.png
     link: https://github.com/Walrick/Projet_7-Grand_Py
     finished: true
   - title: Créez une plateforme pour amateurs de Nutella
