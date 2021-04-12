@@ -32,11 +32,11 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Féru de nouvelles technologies et de développement depuis le plus jeune âge. J’ai décidé de vivre de ma passion en me lançant dans une formation « Développeur d’application IOS » chez OpenClassrooms. https://www.linkedin.com/in/sebastiendaguin94/
+    description: Féru de nouvelles technologies et de développement depuis le plus jeune âge. J’ai décidé de vivre de ma passion en me lançant dans une formation « Développeur d’application IOS » chez OpenClassrooms.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: content/images/students/sebastien94 /projet_1.png
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link:https://www.linkedin.com/in/sebastiendaguin94/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
@@ -51,8 +51,8 @@ projects:
     link: https://github.com/Sebastien972-collab/Projet_3_daguin_sebastien
     finished: true
     - title: Instagrid
-      description: Création d’une application de montage photo développé en Swift en utilisant Xcode.
-      image: content/images/students/sebastien94 /projet_4.png
-      link: https://github.com/Sebastien972-collab/Instagrid
-      finished: true
+    description: Création d’une application de montage photo développé en Swift en utilisant Xcode.
+    image: content/images/students/sebastien94 /projet_4.png
+    link: https://github.com/Sebastien972-collab/Instagrid
+    finished: true
 ---
