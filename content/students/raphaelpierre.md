@@ -14,9 +14,12 @@ date: 2021-04-12 13:20
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir develloppeur iOS
 
+# max 100 characters
+short_description: En pleine reconversion professionnelle.
+
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: En pleine reconversion professionnelle.
+description: En route pour changer de vie.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
