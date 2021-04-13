@@ -55,7 +55,7 @@ projects:
     link: https://www.github.com
     finished: true
   - title: Utilisez les données publiques de l'Open Food Facts
-    description: Développer une application de recherche de substituts d'aliments à partir des données OFF récupérées via la "search API" et stockées localement dans une base de données MySQL (à modéliser et à créer)
+    description: Développer une application de recherche de substituts d'aliments
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: marie/Projet5_OK.jpg 
