@@ -35,7 +35,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: je m'apelle Reda j'ai 29ans aprés une expérience significative dans le domaine bancaire j'ai décidé de me réorientier dans l'informatique plus précisement dans le développement mobile.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: reda/projet_1.png
