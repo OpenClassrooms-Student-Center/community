@@ -32,7 +32,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Féru de nouvelles technologies et de développement depuis le plus jeune âge. J’ai décidé de vivre de ma passion en me lançant dans une formation « Développeur d’application IOS » chez OpenClassrooms.
+    description: Féru de nouvelles technologies et de développement depuis le plus jeune âge.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: sebastien94/projet_1.png
@@ -41,7 +41,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git.
     image: sebastien94/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
