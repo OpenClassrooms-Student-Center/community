@@ -36,23 +36,23 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: content/images/students/sebastien94 /projet_1.png
-    link:https://www.linkedin.com/in/sebastiendaguin94/
+    link: https://www.linkedin.com/in/sebastiendaguin94/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: content/images/students/sebastien94 /projet_2.png
+    image: content/images/students/sebastien94/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Création d’un jeu développé en Swift en utilisant Xcode.
-    image: content/images/students/sebastien94 /projet_3.png
+    image: content/images/students/sebastien94/projet_3.png
     link: https://github.com/Sebastien972-collab/Projet_3_daguin_sebastien
     finished: true
     - title: Instagrid
     description: Création d’une application de montage photo développé en Swift en utilisant Xcode.
-    image: content/images/students/sebastien94 /projet_4.png
+    image: content/images/students/sebastien94/projet_4.png
     link: https://github.com/Sebastien972-collab/Instagrid
     finished: true
 ---
