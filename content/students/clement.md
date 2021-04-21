@@ -18,7 +18,8 @@ short_description: Un diplôme de développeur et 7 ans en Irlande. Assez pour a
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J’ai eu la chance et le plaisir de vivre 7 ans en Irlande à la suite de mes études. Apres avoir atteint les objectifs professionnels que je m’étais fixer, j’ai décidé de m’inscrire à cette formation.
+    J’ai eu la chance et le plaisir de vivre 7 ans en Irlande à la suite de mes études.
+    Apres avoir atteint les objectifs professionnels que je m’étais fixer, j’ai décidé de m’inscrire à cette formation.
     Un nouveau challenge pour de nouveaux objectifs.
 
 # image must be located in content/images/students
