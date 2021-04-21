@@ -24,7 +24,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: clement.png
+image: clementgarcia8.png
 
 # Change this to True when you do you pull request.
 public: True
@@ -35,19 +35,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: clement/projet_1.png
+    image: clementgarcia8/projet_1.png
     link: https://openclassrooms.workplace.com/profile.php?id=100066613980880
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: clement/projet_2.jpg
+    image: clementgarcia8/projet_2.jpg
     link: https://github.com/clmtg/community
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: clement/projet_3.png
+    image: clementgarcia8/projet_3.png
     link: https://www.github.com
     finished: false
 ---
