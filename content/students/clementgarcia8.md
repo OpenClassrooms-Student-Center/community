@@ -36,12 +36,12 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: clementgarcia8/projet_1.png
-    link: https://openclassrooms.workplace.com/profile.php?id=100066613980880
+    link: https://www.linkedin.com/in/garciaclement/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    description: Modifier un projet pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: clementgarcia8/projet_2.jpg
     link: https://github.com/clmtg/community
     finished: true
