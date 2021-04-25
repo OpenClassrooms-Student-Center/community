@@ -46,7 +46,7 @@ projects:
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Concevoir un prototype de jeu de combat entre personnages avec Swift
-    image: marjolainelacan/Projet3.png
+    image: marjolainelacan/Projet_3.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
   - title: Développez Instagrid
