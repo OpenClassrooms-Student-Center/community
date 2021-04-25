@@ -65,12 +65,12 @@ projects:
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
   - title: Réalisez une application de voyage
-    description: réaliser une application de voyage (météo, traduction, taux de change)
+    description: Réaliser une application de voyage (météo, traduction, taux de change)
     image: marjolainelacan/projet_9.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
   - title: Concevez la solution technique d’un système de gestion de pizzeria
-    description: concevoir l’architecture technique d'une solution répondant aux besoins du client
+    description: Concevoir l’architecture technique d'une solution répondant aux besoins du client
     image: marjolainelacan/projet_7.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: false
