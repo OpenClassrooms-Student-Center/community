@@ -55,4 +55,9 @@ projects:
     image: sebastien94/projet_4.png
     link: https://github.com/Sebastien972-collab/Instagrid
     finished: true
+  - title: Count On Me
+    description: Améliorez une application existante et faire des tests unitaire.
+    image: sebastien94/projet_5.png
+    link: https://github.com/Sebastien972-collab/CountOnMe
+    finished: true
 ---
