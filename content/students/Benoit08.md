@@ -33,19 +33,19 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: Benoit08/Projet_1.png
+    image: Benoit08/Projet_1.jpg
     link: https://www.linkedin.com/in/benoît-lary-08/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et Github, et des pull request
-    image: Benoit08/Projet_2.png
+    image: Benoit08/Projet_2.jpg
     link: https://github.com/OpenClassrooms-Student-Center/community
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source
-    image: Benoit08/Projet_3.png
+    image: Benoit08/Projet_3.jpg
     link:
     finished: true
 ---
