@@ -13,12 +13,12 @@ date: 2020-05-02 09:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Améliorer ma pratique apprendre de nouvelles choses
-short_description: Je suis actuelement en rechrche d'emploi
+short_description: Je suis actuelement en rechrche d'emploii
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-        Je désire réussir cette formartion ' Developpeur d'applications  Ios ' dans une pratique commune avec tous las  autres membres de ce groupe
+    Je désire réussir cette formartion ' Developpeur d'applications  Ios ' dans une pratique commune avec tous las  autres membres de ce groupe
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -30,27 +30,22 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
  # - title: Présentez-vous !
- projects:
-   - title: Présentez-vous !
-     description: Une présentation de moi-même et un lien vers mon LinkedIn.
-     image: laurent2/p1_01.png
-     link: https://www.linkedin.com/in/laurent-aubourg-95831926/
-     finished: true 
-  - title: Integrez la communaute !
+
+  - title: Intégrez la communauté !
     description: Définissez votre stratégie d'apprentissage. 
     image: laurent2/p1_01.png
-    link: https://github.com/laurentAubourg/community
-    finished: true
+    link: https://github.com/laurentAubourg/
+    finished: True
   - title: GitHub
     description: Fork du dépôt community d'OC sur mon GitHub. 
-    image: laurent2/p2_02.png
+    image:  laurent2/p2_02.png
     link: https://github.com/laurentAubourg/
-    finished: true
+    finished: True
     title: GitHub pull
     description: Pull du dépôt community vers OC depuis mon GitHub. 
     image:  laurent2/p2_03.png
     link: https://github.com/laurentAubourg/
-    finished: true
+    finished: True
 
 ---
 
