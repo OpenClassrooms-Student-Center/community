@@ -22,10 +22,10 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: 
+image: projet_2.png
 
 # Change this to True when you do you pull request.
-public: True
+public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -36,19 +36,15 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
   - title: Intégrez la communauté !
-    description: Comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image:
+    description: Définissez votre stratégie d'apprentissage. 
+    image:p1_01.png
     link:
-    finished: false
+    finished: true
   - title: GitHub
     description: Fork du dépôt community d'OC sur mon GitHub. 
-    image:
-    link:
-    finished: true
-  - title: LinkedIn
-    description: Le lien vers mon LinkedIn. 
-    image: 
-    link: www.linkedin.com/in/laurent-aubourg-95831926/
-    finished: true
+    image:p2_02.png
+    link:https://github.com/laurentAubourg/
+    finished: false
+
 ---
 
