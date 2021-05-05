@@ -42,14 +42,14 @@ projects:
     finished: True
   - title: GitHub
     description: Fork du dépôt community d'OC sur mon GitHub. 
-    image:  laurent2/p2_02.png
+    image: laurent2/p2_02.png
     link: https://github.com/laurentAubourg/
     finished: True
     title: GitHub pull
-     description: Pull du dépôt community vers OC depuis mon GitHub. 
-     image:  laurent2/p2_03.png
-     link: https://github.com/laurentAubourg/
-     finished: True
+    description: Pull du dépôt community vers OC depuis mon GitHub. 
+    image:  laurent2/p2_03.png
+    link: https://github.com/laurentAubourg/
+    finished: True
 
 ---
 
