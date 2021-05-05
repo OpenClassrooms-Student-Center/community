@@ -35,8 +35,8 @@ projects:
      description: Une présentation de moi-même et un lien vers mon LinkedIn.
      image: laurent2/p1_01.png
      link: https://www.linkedin.com/in/laurent-aubourg-95831926/
-     finished: true   
-  - title: Intégrez la communauté !
+     finished: true 
+  - title: Integrez la communaute !
     description: Définissez votre stratégie d'apprentissage. 
     image: laurent2/p1_01.png
     link: https://github.com/laurentAubourg/community
