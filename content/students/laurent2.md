@@ -35,17 +35,16 @@ projects:
     description: Définissez votre stratégie d'apprentissage. 
     image: laurent2/p1_01.png
     link: https://github.com/laurentAubourg/
-    finished: True
+    finished: true
   - title: GitHub
     description: Fork du dépôt community d'OC sur mon GitHub. 
     image:  laurent2/p2_02.png
     link: https://github.com/laurentAubourg/
-    finished: True
+    finished: true
     title: GitHub pull
     description: Pull du dépôt community vers OC depuis mon GitHub. 
     image:  laurent2/p2_03.png
     link: https://github.com/laurentAubourg/
-    finished: True
-
+    finished: false
 ---
 
