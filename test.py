@@ -1,10 +1,7 @@
-import markdown
-
-# import markdown_metayaml
-import random
-import unittest
-import codecs
+import os
 import time
+# import markdown_metayaml
+import unittest
 from codecs import (
     BOM_UTF8,
     BOM_UTF16_BE,
@@ -12,8 +9,9 @@ from codecs import (
     BOM_UTF32_BE,
     BOM_UTF32_LE,
 )
+
+import markdown
 from full_yaml_metadata import FullYamlMetadataExtension
-import os
 
 BOMS = (
     (BOM_UTF8, "UTF-8"),
@@ -231,7 +229,7 @@ class RandomTest(unittest.TestCase):
 
         # uncomment to list all wrong files
         # for md_file in sorted(markdowns):
-        #     try:
+        #
         #         self.student_file(md_file)
         #     except:
         #         print(md_file)
