@@ -1,0 +1,52 @@
+---
+
+Example: https://openclassrooms.com/membres/david57
+
+title: david57
+
+name: David DA SILVA
+date: 2021-01-08 13:51
+
+objective : Me réorienter afin de travailler dans un métier d'avenir et m'épanouir professionnellement.
+short description: J'aime le sport, particulièrement le football que je pratique depuis mes 8 ans, et je m'interesse aux nouvelles technologies. 
+
+template : students
+description:
+    Bonjour à tous, je m'apelle David DA SILVA, j'ai 21 ans et je suis heureux de rejoindre
+    Openclassrooms ! Pour vous expliquer un peu d'où je viens et mon parcours scolaire, après avoir
+    obtenu mon BAC, j'ai poursuivi par un BTS étude économie de la construction puis par un titre
+    BAC+3 en gestion d'entrepriuse en alternance en qualité de manager de rayon chez Auchan. Je 
+    me suis rendu compte que ces domaines ne me correspondaient pas totalment, j'ai donc 
+    recherché sur plusieurs plateformes des métiers d'avenir qui pourraient me correspondre et pour 
+    lesquels je pourrai m'épanouir dans mon futur job. Lorsque j'ai trouvé la formation developpeur 
+    d'application IOS, j'ai directement été attiré c'est pourquoi j'ai décidé de m'y inscrire et de me 
+    consacrer à cette formation à temps plein. Partant de 0, je suis tout de même motivé et curieux 
+    d'apprendre. 
+    Mes objectifs sont de : 
+    - Découvrir le domaine 
+    - Apprendre toutes les techniques et les compétences et les maîtriser
+    - Les mettre en application puis les gérer en toute autonomie
+    
+image: david57.jpg
+
+public: true
+
+- title: Présentez-vous 
+description: Une présentation de moi-même et un lien vers mon LinkedIn.
+image: david57/projet_1.png
+link: https://www.linkedin.com/in/david-da-silva-75426b171/
+finished: true
+
+- title: Intégrez la communauté !
+description: Modifier un projet Open Source pour comprendre Git, de Github et les pull requests.
+image: david57/projet_2.png
+link: 
+finished: false
+
+- title: Aidez MacGyver à sortir !
+description: Création d’un jeu développé en Python et utilisant PyGame.
+image: david57/projet_3.png
+link: 
+finished: false
+
+---
