@@ -63,4 +63,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
+  - title: Concevez la solution technique d'un système de gestion de pizzeria
+    description: Rédaction des spécifications techniques pour le projet OC Pizza
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: marie/Projet6_OK.jpg 
+    link: 
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    finished: true
 
