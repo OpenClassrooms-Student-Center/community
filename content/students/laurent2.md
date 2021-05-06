@@ -12,8 +12,8 @@ date: 2020-05-02 09:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Améliorer ma pratique apprendre de nouvelles choses
-short_description: Je suis actuelement en rechrche d'emploii
+objective: Améliorer ma pratique et maîtriser la mise en place d'un projet Ios du début à la fin
+short_description: Codeur tendance spaghetties en reconversion. 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -34,7 +34,7 @@ projects:
   - title: Intégrez la communauté !
     description: Définissez votre stratégie d'apprentissage. 
     image: laurent2/p1_01.png
-    link: https://github.com/laurentAubourg/
+    link: http://parsoflex.info
     finished: true
   - title: GitHub
     description: Fork du dépôt community d'OC sur mon GitHub. 
@@ -46,6 +46,4 @@ projects:
     image:  laurent2/p2_03.png
     link: https://github.com/laurentAubourg/
     finished: false
-    
 ---
-
