@@ -10,6 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/travis.yml': {'path': '.travis.yml'}}
+
 SITEURL = 'https://openclassrooms-student-center.github.io/community'
 RELATIVE_URLS = False
 
