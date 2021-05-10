@@ -13,7 +13,7 @@ date: 03-05-2021 09:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Apprendre mon futur métier numérique.
-short_description: J'aime mon pays, ma maison et la bonne nourriture. Je suis presser du week-end.
+short_description: J'aime mon pays, ma maison et la bonne nourriture. Je suis presser d'être en week-end.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -44,9 +44,4 @@ projects:
     image: nicolas93/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: nicolas93/projet_3.png
-    link: https://www.github.com
-    finished: false
 ---
