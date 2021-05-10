@@ -13,7 +13,7 @@ date: 2021-05-10
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me reconvertir dans le domaine du développemet d'application Ios.
-short_description: Après douze années dans le domaine du droit, j'engage une reconversion dans le développement d'application mobile IOS.
+short_description: Après douze années dans le domaine du droit, je me reconvertis.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
