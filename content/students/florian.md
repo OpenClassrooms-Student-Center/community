@@ -18,8 +18,7 @@ short_description: Je veux apprendre à coder et concevoir des sites web, logici
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    J'ai 26 ans et je souhaite me reconvertir. Passionné, curieux et ambitieux 
-    j'aspire à devenir dévellopeur depuis fort longtemps. 
+    J'ai 30 ans, je joue de la basse, j'ai une société de vente de basses qui s'appelle BassGears.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 image: Florian.jpg
