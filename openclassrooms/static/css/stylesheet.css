@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    color: #f56900;
+    color: #7451eb;
 }
 
 h1, h2 {
@@ -40,15 +40,15 @@ h2, h3 {
 }
 
 .button:hover {
-    color: #f56900;
+    color: #7451eb;
     background-color: #fff;
     text-decoration: none;
 }
 
 .button-primary {
-    background: #f56900;
+    background: #7451eb;
     color: #fff;
-    border-color: #f56900;
+    border-color: #7451eb;
 }
 
 .rounded {
@@ -63,6 +63,7 @@ h2, h3 {
 
 
 /************ Disclaimer cookies ***************/
+
 #disclaimer {
     background-color: #4c88a1;
     color: white;
@@ -85,6 +86,7 @@ h2, h3 {
     text-decoration: underline;
 }
  
+
 #disclaimer-button {
     text-decoration: none;
     text-align: center;
@@ -135,7 +137,8 @@ h2, h3 {
 }
 
 .header-logo img {
-    height: 80px;
+    height: 200px;
+    margin-top: -70px;
 }
 
 /************ Banner ***************/
@@ -176,12 +179,14 @@ h2, h3 {
 /************ Students section ***************/
 .thumbnail {
     max-width: 120px;
+    width:120px;
+    height:120px;
     overflow: hidden;
     margin: 20px auto;
 }
 
 .thumbnail.rounded {
-    border: 1px solid #f56900;
+    border: 3px solid #7451eb;
 }
 
 .student-item {
@@ -207,7 +212,7 @@ h2, h3 {
 }
 
 #description h3 {
-    color: #f56900;
+    color: #7451eb;
     text-align: center;
     margin: 0;
     padding: 5% 0 2% 0;
@@ -247,4 +252,20 @@ h2, h3 {
 
 .fa-map-signs {
     margin-right: 10px;
+}
+.thumbnail a>img, .thumbnail>img {
+   margin-right: 0 !important;
+    margin-left: -10px !important;
+    margin-top: -10px !important;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    min-width: 140px;
+    min-height: 140px;
+    display:block;
+}
+img.img-responsive {
+    width: 120%;
+    height: 120%;
+    margin-left: -10%;
+    margin-top: -10%;
 }
