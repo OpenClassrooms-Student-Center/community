@@ -1,4 +1,5 @@
 ---
+
 title: emilio
 # First name or full name
 name: Emilio
@@ -26,16 +27,15 @@ public: True
 
 # Images must be here: content/images/students/emilio/projet_#.png
 projects:
-- title: Définissez votre stratégie d'apprentissage
-# max 100 characters
-description: Le tout premier projet du parcours, j'intègre la communauté.
-image: emilio/projet_1.png
-link: https://www.linkedin.com/in/emilio-del-castillo/
-finished: true
-
-- title: Intégrez la communauté OpenClassrooms !
-description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-image: emilio/projet_2.png
-link: https://github.com/EmilioDelCastillo/community
-finished: true
+  - title: Définissez votre stratégie d'apprentissage
+    # max 100 characters
+    description: Le tout premier projet du parcours, j'intègre la communauté.
+    image: emilio/projet_1.png
+    link: https://www.linkedin.com/in/emilio-del-castillo/
+    finished: true
+  - title: Intégrez la communauté OpenClassrooms !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    image: emilio/projet_2.png
+    link: https://github.com/EmilioDelCastillo/community
+    finished: true
 ---
