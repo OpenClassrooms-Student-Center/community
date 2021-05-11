@@ -10,7 +10,7 @@ date: 2021-05-11 15:02
 objective: Décrocher mon diplôme de développeur.
 
 # max 100 characters
-short_description: J'aime les vielles machines et les nouvelles technologies, et observer tout le chemin entre les deux !
+short_description: J'aime les vielles machines et les nouvelles technologies, et admirer tout le chemin entre les deux!
 
 # don't touch that
 template: students
