@@ -12,7 +12,7 @@ date: 2021-05-11 13:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Acquérir les compétences et savoir-faire me permettant de créer une application de bout en bout
+objective: Acquérir les compétences et savoir-faire me permettant de créer une application de bout en bout en 12 mois.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
