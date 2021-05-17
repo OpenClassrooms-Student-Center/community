@@ -40,6 +40,8 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github
     image: thierry1978/projet_2.png
+    image: thierry1978/P2_01_repo.png
+    image: thierry1978/P2_02_pullrequest.png
     link: https://github.com/thierry1978/community
     finished: true
   - title: Aidez MacGyver à sortir !
