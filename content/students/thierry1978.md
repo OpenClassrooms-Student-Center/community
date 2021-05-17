@@ -17,7 +17,7 @@ objective: Acquérir les compétences et savoir-faire me permettant de créer un
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-      Je suis Thierry Marcellin Ngongo Foe, 43 ans en reconversion professionnelle comme Dev d’application ios. J’ai une longue expérience dans la relation clientèle, et ce, depuis les années 2000. J’ai travaillé soit en CDD soit en intérim avec une interruption de 2008 à 2011 en CDI pour l’entreprise hygena cuisine ou j’étais concepteur de cuisines 3D. Par la suite, j'ai continué en tant que téléconseiller chargé de clientèle avec une autre petite interruption en 2018 pour une petite formation dans le développement Web. Ma dernière expérience s’est arrêtée fin février 2021. Aujourd’hui, j’ai enfin l’opportunité d’une reconversion complète comme développeur d’applications iOS.
+      Je suis Thierry Marcellin Ngongo Foe, 43 ans en reconversion professionnelle comme Dev d’application ios.J’ai une longue expérience dans la relation clientèle,et ce, depuis les années 2000.J’ai travaillé soit en CDD soit en intérim avec une interruption de 2008 à 2011 en CDI pour l’entreprise hygena cuisine ou j’étais concepteur de cuisines 3D.Par la suite,j'ai continué en tant que téléconseiller chargé de clientèle avec une autre petite interruption en 2018 pour une petite formation dans le développement Web. Ma dernière expérience s’est arrêtée fin février 2021. Aujourd’hui, j’ai enfin l’opportunité d’une reconversion complète comme développeur d’applications iOS.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
