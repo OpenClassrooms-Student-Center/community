@@ -13,7 +13,7 @@ date: 2020-09-14 13:00
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur Python.
-short_description: OpenClassRooms est une aubaine pour apprendre à coder et concevoir des sites web, logiciels et applications.
+short_description: OpenClassRooms est une aubaine pour apprendre à coder des sites web, logiciels et applications.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
