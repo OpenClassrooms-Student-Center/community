@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ratus.jpg
+image: habib.jpg
 
 # Change this to True when you do you pull request.
 public: False
@@ -30,6 +30,7 @@ public: False
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
+    Habib 42 ans en reconversion pour devenir developpeur mobile
     www.linkedin.com/in/habib-abina-2783a4212
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
