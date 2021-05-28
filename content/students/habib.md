@@ -7,23 +7,18 @@
 title: ratus
 
 # First name or full name
-name: Ratus
-date: 2016-10-28 17:20
+name: habib
+date: 2021-05-25 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Devenir indpendant et pouvoir travaillez de n'importe ou.
+short_description: J'aime les mangas, les jeux video et faire des application IOS
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Je m'appel Habib soignant de formation j'aime les mangas,les jeux videos et la nature
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
