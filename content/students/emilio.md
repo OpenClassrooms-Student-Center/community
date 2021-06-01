@@ -34,7 +34,7 @@ projects:
     link: https://www.linkedin.com/in/emilio-del-castillo/
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
-    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    description: Modifier un projet Open Source pour comprendre comment fonctionnent Git et  Github.
     image: emilio/projet_2.png
     link: https://github.com/EmilioDelCastillo/community
     finished: true
