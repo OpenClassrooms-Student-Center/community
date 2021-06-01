@@ -38,4 +38,9 @@ projects:
     image: emilio/projet_2.png
     link: https://github.com/EmilioDelCastillo/community
     finished: true
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: Développer un petit jeu tour par tour sur iOS.
+    image: emilio/projet_3.png
+    link: https://user.oc-static.com/upload/2019/04/30/15566142366469_icon-above-font.png
+    finished: false
 ---
