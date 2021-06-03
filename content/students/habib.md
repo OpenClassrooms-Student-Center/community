@@ -32,7 +32,7 @@ description:
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 # max size: 200ko
-image: habib.jpg
+image: habib/habib.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -45,14 +45,14 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: habib/projet_1.png
-    link: https://www.github.com
+    link: https://github.com/sanji92/community/blob/master/content/students/habib.md
     # 'true' makes it public. If 'false', then it will not show on the website.
     finished: true
     
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: habib/projet_2.png
-    link: https://www.github.com
+    link: https://github.com/sanji92/community/blob/master/content/students/habib.md
     finished: true
     
   - title: Créez votre premier jeu vidéo avec Swift !
