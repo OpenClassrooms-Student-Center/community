@@ -29,7 +29,15 @@ description:
 image: mohammad.jpg
 
 # Change this to True when you do you pull request.
+<<<<<<< HEAD
 public: False
+=======
+<<<<<<< HEAD
+public: True 
+=======
+public:True 
+>>>>>>> 780d359539009879fd079339abe3d18173a30be4
+>>>>>>> 0fd3ccfd293f0eceafacc854cbfada256203d75a
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -52,4 +60,8 @@ projects:
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
+<<<<<<< HEAD
 ---
+=======
+    ---
+>>>>>>> 0fd3ccfd293f0eceafacc854cbfada256203d75a
