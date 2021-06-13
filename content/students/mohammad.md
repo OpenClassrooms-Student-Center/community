@@ -1,3 +1,5 @@
+---
+
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
@@ -6,16 +8,13 @@ title: mohammad
 
 # First name or full name
 name: mohammad
-<<<<<<< HEAD
-date: 2021-06-13 20:55
-=======
-date: 2021-06-13 20:01
->>>>>>> 780d359539009879fd079339abe3d18173a30be4
+date: 2021-06-13 17:20
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: D'apprendre de créer applications mobile iOS.
 short_description: j'aime ecouter à radio, et developper le web, l'informatique c'est ma passione.
+
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -30,11 +29,7 @@ description:
 image: mohammad.jpg
 
 # Change this to True when you do you pull request.
-<<<<<<< HEAD
-public: False 
-=======
-public:True 
->>>>>>> 780d359539009879fd079339abe3d18173a30be4
+public: False
 
 # You need to keep the exact same structure for each new project.
 projects:
@@ -57,3 +52,4 @@ projects:
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
+---
