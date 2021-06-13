@@ -15,7 +15,6 @@ date: 2021-06-13 23:01
 objective: D'apprendre de créer applications mobile iOS.
 short_description: j'aime ecouter à radio, et developper le web, l'informatique c'est ma passione.
 
-
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
@@ -52,8 +51,4 @@ projects:
     image: ratus/projet_3.png
     link: https://www.github.com
     finished: false
-<<<<<<< HEAD
 ---
-=======
-    ---
->>>>>>> 0fd3ccfd293f0eceafacc854cbfada256203d75a
