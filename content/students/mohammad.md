@@ -31,7 +31,7 @@ image: mohammad.jpg
 
 # Change this to True when you do you pull request.
 <<<<<<< HEAD
-public: False 
+public: True 
 =======
 public:True 
 >>>>>>> 780d359539009879fd079339abe3d18173a30be4
