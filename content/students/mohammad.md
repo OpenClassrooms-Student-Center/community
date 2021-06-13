@@ -29,15 +29,7 @@ description:
 image: mohammad.jpg
 
 # Change this to True when you do you pull request.
-<<<<<<< HEAD
-public: true
-=======
-<<<<<<< HEAD
-public: True 
-=======
-public:True 
->>>>>>> 780d359539009879fd079339abe3d18173a30be4
->>>>>>> 0fd3ccfd293f0eceafacc854cbfada256203d75a
+public: True
 
 # You need to keep the exact same structure for each new project.
 projects:
