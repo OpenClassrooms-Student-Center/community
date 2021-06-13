@@ -6,7 +6,7 @@ title: mohammad
 
 # First name or full name
 name: mohammad
-date: 2021-06-13 19:55
+date: 2021-06-13 20:01
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -26,7 +26,7 @@ description:
 image: mohammad.jpg
 
 # Change this to True when you do you pull request.
-public: True 
+public:True 
 
 # You need to keep the exact same structure for each new project.
 projects:
