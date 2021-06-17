@@ -73,5 +73,5 @@ projects:
     description: Concevoir l’architecture technique d'une solution répondant aux besoins du client
     image: marjolainelacan/projet_7.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
-    finished: false
+    finished: true
 ---
