@@ -30,7 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je m'appel Yoan et voici mon lien gitHub: https://github.com/yoan8306.
+    description: Je m'appel Yoan et voici mon lien gitHub: https://github.com/yoan8306 avec mes repos.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: yoan/projet_1.png
