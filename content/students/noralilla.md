@@ -33,10 +33,12 @@ short_description: J'aime la glace au pavot. J'apprends à coder pour me faire u
 template: students
 
 description:
-
- Je m’appelle Nora Lilla et dans le cadre d’une reconversion professionnelle j’ai décidé de rejoindre l’aventure Openclassroom.
-Mon objectif est de devenir développeur d’application iOS.
-J’ai déjà suivi une formation dans l’informatique pour devenir technicienne supérieur de systèmes et réseaux, sans le terminer, qui m’as permis de réaliser que je suis beaucoup plus intéressée par la programmation que par les réseaux.
+    Je m’appelle Nora Lilla et dans le cadre d’une reconversion professionnelle,
+    j’ai décidé de rejoindre l’aventure Openclassroom. Mon objectif est de devenir
+    développeur d’application iOS. J’ai déjà suivi une formation dans l’informatique 
+    pour devenir technicienne supérieur de systèmes et réseaux, sans le terminer,
+    qui m’as permis de réaliser que je suis beaucoup plus intéressée par la programmation 
+    que par les réseaux.
 
 
 # image must be located in content/images/students
