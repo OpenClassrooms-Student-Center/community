@@ -39,8 +39,20 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
+<<<<<<< HEAD
     description: Créer un profil Github
     image: Projet2.png
     link: https://github.com/Sosone
     finished: true
+=======
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    image: 
+    link: 
+    finished: true
+  - title: 
+    description: 
+    image: 
+    link: https://www.github.com
+    finished: true
+>>>>>>> da413bfbfd7b6b15198889758ae487862b7bc5fe
 ---
