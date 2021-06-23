@@ -14,7 +14,7 @@ date: 2020-02-11 16:21
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Devenir développeur iOS et tous les jours apprendre quelque chose de nouveau et d'instructif.
 short_description: Je cherche à compléter ma formation actuelle par une formation iOS,
-    ce qui me permettra de proposer davantage au sein de mon entreprise.
+    ce qui me permettra de proposer davantage au sein de mon entreprise ou de trouver un nouveau travail intéressant.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
