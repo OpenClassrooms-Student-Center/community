@@ -43,6 +43,4 @@ projects:
     image: Projet2.png
     link: https://github.com/Sosone
     finished: true
-=======
->>>>>>> da413bfbfd7b6b15198889758ae487862b7bc5fe
 ---
