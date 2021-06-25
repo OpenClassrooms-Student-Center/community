@@ -41,33 +41,5 @@ projects:
     link: https://github.com/procha7?tab=repositories
     finished: true
 
-  - title: P3 - Aidez MacGyver à s'échapper !
-    description: Créer un mini jeu labyrinthe avec la POO
-    image: 
-    link: 
-    finished: false
-
-  - title: P4 - Analysez les besoins de votre client pour son groupe de pizzerias !
-    description: Création du dossier de spécifications fonctionelles 
-    image: 
-    link: 
-    finished: false
-
-  - title: P5 - Utilisez les données publiques de l'OpenFoodFacts
-    description: Créer une application pour substitué un aliment à un autre.
-    image: 
-    link: 
-    finished: false
-
-  - title: P6 - Concevez la solution technique d’un système de gestion de pizzeria
-    description: Création du MPD et du dossier de spécifications techniques
-    image: 
-    link: 
-    finished: false
-
-  - title: P7 - Créez GrandPy Bot, le papy-robot 🤖 👴
-    description: Création d'un bot utilisant l'API Google et WikiMédia, utilisation de Flask
-    image: 
-    link: 
-    finished: false 
+  
 ---
