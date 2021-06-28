@@ -22,7 +22,7 @@ description:
     j'aspire à devenir développeur depuis fort longtemps. 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: Paulo.jpg
+image: paulo.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -31,13 +31,13 @@ public: True
 projects:
   - title: P1 - Définissez votre stratégie d'apprentissage !
     description: Création d'un planning de formation, mise en place d'une stratégie d'apprentissage... 
-    image: Paulo/projet_1.png
+    image: paulo/projet 1.png
     link: https://openclassrooms.com/fr/paths/69/projects/38/assignment
     finished: true
 
   - title: P2 - Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des PR. 
-    image: Paulo/projet_2.png
+    image: paulo/projet 2.png
     link: https://github.com/procha7?tab=repositories
     finished: true
 
