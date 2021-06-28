@@ -33,8 +33,8 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: guillaume/guillaume.png
-    link: https://openclassrooms.workplace.com/groups/108172763225648/permalink/509847656391488/
+    image: mohammad/mohammad.jpg
+    link: https://openclassrooms.workplace.com/groups/205447624756846/posts/210127647622177
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
@@ -42,8 +42,8 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: guillaume/guillaume.png
-    link: https://openclassrooms.workplace.com/groups/108172763225648/permalink/509847656391488/
+    image: mohammad/mohammad.jpg
+    link: https://openclassrooms.workplace.com/groups/1830287663956032/posts/2912711472380307
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
@@ -51,8 +51,8 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: guillaume/guillaume.png
-    link: https://openclassrooms.workplace.com/groups/108172763225648/permalink/509847656391488/
+    image: mohammad/mohammad.jpg
+    link: https://openclassrooms.workplace.com/groups/108172763225648/posts/775289433180641
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true    
