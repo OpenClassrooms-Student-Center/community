@@ -16,7 +16,7 @@ title: jose
 
 name: jose
 
-date: 2021-06-23 15:20
+date: 2021-06-30 15:00
 
 
 # One line.
@@ -34,7 +34,9 @@ template: students
 
 description:
 
-    Après une longue carrière dans la maintenance industrielle, l’industrialisation et la production j’ai choisi de changer de direction pour le domaine du développement logiciel qui m’a toujours attiré.
+    Après une longue carrière dans la maintenance industrielle, l’industrialisation et la
+    production j’ai choisi de changer de direction pour le domaine du développement logiciel
+    qui m’a toujours attiré.
 
 # image must be located in content/images/students
 
@@ -45,7 +47,7 @@ image: jose.jpg
 
 # Change this to True when you do you pull request.
 
-public: True
+public: true
 
 
 # You need to keep the exact same structure for each new project.
@@ -68,7 +70,7 @@ projects:
 
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
 
-    finished: True
+    finished: true
 
   - title: Intégrez la communauté !
 
@@ -78,8 +80,16 @@ projects:
 
     link: https://openclassrooms-student-center.github.io/presentation/students/jose.html
 
-    finished: True
+    finished: true
 
+  - title: Aidez MacGyver à sortir !
 
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+
+    image: jose/projet_2.png
+
+    link: https://www.github.com
+
+    finished: false
 
 ---
