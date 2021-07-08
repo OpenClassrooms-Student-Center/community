@@ -45,9 +45,5 @@ projects:
     image: vincent93/projet2.png
     link: https://openclassrooms-student-center.github.io/community/students/TheLastGold.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: ratus/projet_3.png
-    link: https://www.github.com
-    finished: false
+  
 ---
