@@ -12,7 +12,7 @@ date: 2021-08-22 14:45
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Trouver un emploi en tant que développeur d'application IOS.
+objective: trouver un emploi en tant que développeur d'application IOS.
 short_description: Reconversion professionnelle dans le milieu de l'informatique.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
@@ -42,8 +42,8 @@ projects:
     image: carl/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/carl.html
     finished: true
-  - title: Aidez MacGyver à sortir !
-    description: Création d’un jeu développé en Python et utilisant PyGame.
+  - title: Créez votre premier jeu vidéo avec Swift !
+    description: Création d'un jeu de combat tour par tour.
     image: carl/projet_3.png
     link: https://www.github.com
     finished: false
