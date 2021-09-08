@@ -48,4 +48,9 @@ projects:
     image: claire/projet_3.png
     link: https://github.com/KlereBibi/MacGyver.git
     finished: true
+  - title: Utilisez les données publiques d'Open Food Facts !
+    description: Application permettant à l'utilisateur de chercher un substitut à l'aliment qui lui fait envie
+    image: claire/projet_5.png
+    link: https://github.com/KlereBibi/-P5-Open-Food-Facts.git
+    finished: true
 ---
