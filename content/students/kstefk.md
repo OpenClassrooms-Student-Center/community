@@ -34,7 +34,7 @@ template: students
 
 description:
 
-    J'étais en congé de reclassement jusqu’a la fin du mois dernier, suite à un licenciement économique après avoir passé + de 22 ans en tant qu’ingénieur systèmes(Linux)/sécurité et réseau(Cisco) dans un grand groupe américain de communication.
+    Je m'appelle Stéphane Kerhoas et étais en congé de reclassement jusqu’a la fin du mois dernier, suite à un licenciement économique après avoir passé + de 22 ans en tant qu’ingénieur systèmes(Linux)/sécurité et réseau(Cisco) dans un grand groupe américain de communication.
     L’occasion pour moi était alors peut-être d’explorer de nouvelles voies ? Le développement mobile m’intéressant fortement ... 
     J'ai donc décidé de rejoindre OC pour un parcours IOS dev :-)
 
