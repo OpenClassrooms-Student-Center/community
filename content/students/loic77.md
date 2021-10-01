@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: loic
+title: loic77
 
 # First name or full name
 name: Loïc Mazuc
@@ -12,12 +12,14 @@ date: 2021-09-23 14:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Approfondir mes connaissances dans le développement mobile iOS.
+objective:
+    Approfondir mes connaissances dans le développement mobile iOS.
 short_description: Développeur iOS Junior. Aller voir mon application sur AppleStore : Pineapple !
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: J'ai 22 ans, et après plusieurs moi je recherche, je peux enfin commencer mon alternance !
+description: 
+    J'ai 22 ans, et après plusieurs moi je recherche, je peux enfin commencer mon alternance !
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
