@@ -38,7 +38,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: joffrey.jpg
+    image: students/joffrey/linkedin.jpg
     link: https://www.linkedin.com/in/joffrey-terrine-706a37181/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
@@ -48,14 +48,9 @@ projects:
     image: ratus/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
     finished: true
-  - title: CurrencyConverter
-    description: Création d'un application iOS permettant de faire des conversions de monnaies.
-    image: none
-    link: https://github.com/DeafMan972/CurrencyConverter
-    finished: true
     - title: CalculateAgeInSecondsApp
     description: Création d'un application iOS permettant de faire une conversion d'âge en secondes.
-    image: none
+    image: students/joffrey/cainseconds.jpg
     link: https://github.com/DeafMan972/CalculateAgeInSecondsApp
     finished: true
 
