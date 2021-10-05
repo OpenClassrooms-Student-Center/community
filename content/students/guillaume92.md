@@ -12,13 +12,13 @@ date: 2021-10-05 17:04
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Etendre mes compétences en programmation et me spécialiser en développement iOS
-short_description: J'aime le monde de l'informatique (jeux vidéos, programmation, etc.), le sport et biensure les sorties 
+objective: Étendre mes compétences en programmation et me spécialiser en développement iOS
+short_description: J'aime le monde de l'informatique (jeux vidéos, programmation, etc.), le sport et biensûr les sorties 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je m'appelle Guillaume et j'ai 23 ans. J'ai un bac+3 dans le développement web et ai maintenant envie de m'orienter vers le développement mobile iOS qui m'interresse enormément
+    Je m'appelle Guillaume et j'ai 23 ans. J'ai un bac+3 dans le développement web et ai maintenant envie de m'orienter vers le développement mobile iOS qui m'interresse énormément
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
