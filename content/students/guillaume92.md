@@ -13,7 +13,7 @@ date: 2021-10-05 17:04
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Étendre mes compétences en programmation et me spécialiser en développement iOS
-short_description: J'aime le monde de l'informatique (jeux vidéos, programmation, etc.), le sport et biensûr les sorties 
+short_description: J'aime le monde de l'informatique (jeux, programmation, etc.), le sport et biensûr les sorties
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
@@ -30,7 +30,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Je m'appelle Guillaume, j'ai 23 ans et je me lance dans l'aventure developpeur d'applications iOS pour tenter d'en faire mon métier
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: guillaume92/projet_1.png
