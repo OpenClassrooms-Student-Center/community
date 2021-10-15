@@ -42,5 +42,5 @@ projects:
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git
     image: fabriceBaret/P2_01_captureEcranRepoForkeModifier.png
     link: https://github.com/BARETFabrice?tab=repositories
-    finished: false
+    finished: true
 ---
