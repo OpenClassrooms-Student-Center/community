@@ -48,4 +48,14 @@ projects:
     image: claire/projet_3.png
     link: https://github.com/KlereBibi/MacGyver.git
     finished: true
+   - title: Analysez les besoins de votre client pour son groupe de pizzerias
+    description: établissement d'un dossier de conception fonctionnel 
+    image: claire/projet_4.png
+    link: https://github.com/KlereBibi/P4-Analysez-les-besoins-de-votre-client-pour-son-groupe-de-pizzerias.git
+    finished: true
+   - title: Utilisez les données publiques de l'OpenFoodFacts
+    description: Création d'une application permettant de chercher une substitut à partir des données d'open food facts
+    image: claire/projet_5.png
+    link: https://github.com/KlereBibi/P5-Open-Food-Facts
+    finished: true
 ---
