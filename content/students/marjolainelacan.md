@@ -30,7 +30,7 @@ public: true
 
 # You need to keep the exact same structure for each new project.
 projects:
-  - title: Présentez-vous !
+  - title: P1 - Présentez-vous !
     description: En reconversion professionnelle, je me spécialise en développement mobile
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
@@ -39,39 +39,49 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title: P2 - Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests
     image: marjolainelacan/projet_2.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
-  - title: Créez votre premier jeu vidéo avec Swift !
+  - title: P3 - Créez votre premier jeu vidéo avec Swift !
     description: Concevoir un prototype de jeu de combat entre personnages avec Swift
     image: marjolainelacan/Projet_3.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
-  - title: Développez Instagrid
+  - title: P4 - Développez Instagrid
     description: Une application de montage photos
     image: marjolainelacan/Projet_4.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
-  - title: Améliorez une application existante
+  - title: P5 - Améliorez une application existante
     description: Reprendre un projet existant de calculatrice
     image: marjolainelacan/projet_5.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
-  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+  - title: P6 - Analysez les besoins de votre client pour son groupe de pizzerias
     description: Ecrire une documentation technique
     image: marjolainelacan/projet_6.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
-  - title: Réalisez une application de voyage
+  - title: P9 - Réalisez une application de voyage
     description: Réaliser une application de voyage (météo, traduction, taux de change)
     image: marjolainelacan/projet_9.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
-  - title: Concevez la solution technique d’un système de gestion de pizzeria
+  - title: P7 - Concevez la solution technique d’un système de gestion de pizzeria
     description: Concevoir l’architecture technique d'une solution répondant aux besoins du client
     image: marjolainelacan/projet_7.png
     link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
+     - title: P10 - Réalisez une application de bons petits plats
+    description: Réaliser une application de recettes de cuisine
+    image: marjolainelacan/projet_10.png
+    link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
+    finished: true
+     - title: P8 - Documentez votre système de gestion de pizzeria
+    description: Avoir une connaissance du fonctionnement général d’Internet et des systèmes informatiques.
+    image: marjolainelacan/projet_8.png
+    link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
+    finished: false
 ---
