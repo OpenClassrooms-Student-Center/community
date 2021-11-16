@@ -57,15 +57,15 @@ public: False
 
 projects:
 
-  - title: Projet 1 - Définizer votre stratégie d'apprentissage.
+  - title: Projet 1 - Définissez votre stratégie d'apprentissage.
 
-    description: Créer un planning de formation, un document se présentant eteffectuer un post sur Workspace.
+    description: Créer un planning de formation, un document se présentant et effectuer un post sur Workspace.
 
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
     # Image must be here: content/images/students/yourrepo/project1.png
 
-    image: ratus/projet_1.png
+    image: yann/projet_1.png
 
     link: https://www.linkedin.com/in/yannrouzaud/
 
@@ -79,7 +79,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: ratus/projet_2.png
+    image: yann/projet_2.png
 
     link: https://github.com/yann-rzd
 
