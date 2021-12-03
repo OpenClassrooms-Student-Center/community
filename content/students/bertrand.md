@@ -77,7 +77,7 @@ projects:
 
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
 
-    image: bertrand/mongithub.png
+    image: bertrand/mongithub.PNG
 
     link: https://github.com/zouritre/community
 
