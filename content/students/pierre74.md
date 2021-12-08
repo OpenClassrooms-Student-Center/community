@@ -7,7 +7,7 @@
 title: pierre74
 
 # First name or full name
-name: pierre maddio
+name: Pierre maddio
 date: 2021-12-06 16:14
 
 # One line.
