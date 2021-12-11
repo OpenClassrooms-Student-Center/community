@@ -32,7 +32,7 @@ projects:
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: sofyan/myLinkedin.png
+    image: sofyan/myLinkedin2.png
     link: https://www.linkedin.com/in/sofyan-zarouri-dev-web-react/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
