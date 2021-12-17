@@ -17,7 +17,7 @@ short_description: Esprit curieux en quête de nouveaux défis
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description: test    
+description: tests    
     
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
