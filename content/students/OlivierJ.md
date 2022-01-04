@@ -4,10 +4,10 @@
  # Example: https://openclassrooms.com/membres/celinemartinet
  # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
  # lowercase, no blank space, Capital case or special character.
- title: Olivier
+ title: olivierj
 
  # First name or full name
- name: OlivierJ
+ name: Olivier Jouve
  date: 2021-12-16 11:07
 
  # One line.
@@ -27,20 +27,21 @@
  # image must be located in content/images/students
  # name should be the same as this file. Eg: celinemartinet.png
  # max size: 200ko
- image: Olivier.jpeg
+ image: olivier.jpeg
 
  # Change this to True when you do you pull request.
  public: True
 
  # You need to keep the exact same structure for each new project.
- projects:
+ project_1:
    - title: Présentez-vous !
      # max 100 characters
      description: Etudiant chez Openclassrooms pour devenir developpeur iOS depuis Décembre 2021.
      # Create a new repository for your images. Name it the same as your nickname and profile picture.
      # Image must be here: content/images/students/yourrepo/project1.png
-     image: OlivierJ/iOS.jpeg
+     image: olivierj/projet_1.jpeg
      # link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
      # 'true' makes it public. If 'false', then it will not show on the website.
      finished: true
+     
  ---
