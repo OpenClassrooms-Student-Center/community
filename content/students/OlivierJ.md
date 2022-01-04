@@ -15,7 +15,7 @@
  objective: Changer de vie.
 
  # max 100 characters
- short_description: J'ai beaucoup coder dans mon coin mais sans vraiment connaître.A 47ans, c'est le moment.
+ short_description: J'ai beaucoup coder dans mon coin mais sans vraiment connaître.A 47ans, c'est le moment. 
 
  # don't touch that
  template: students
