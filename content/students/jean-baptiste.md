@@ -87,6 +87,67 @@ projects:
 
     link: https://github.com/jbbaillet85/SOSMacGyver
 
-    finished: True
+    finished: true
+  
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias
+
+    description: Un client souhaite créer un système de gestion des commandes pour ses pizzerias.
+    Le projet consiste à analyser ses besoins et d'élaborer les spécifications fonctionnelles du futur système.
+
+    image: jean-baptiste/projet_4.png
+
+    link: https://github.com/jbbaillet85/OCpizzas
+
+    finished: true
+  
+  - title: Utilisez les données pubiques de l'OpenFoodFacts
+
+    description: Réalisation d'un programme qui interroge l'API OpenFoodFacts pour récupérer des aliments et en proposer un autre de substitution.
+
+    image: jean-baptiste/projet_5.png
+
+    link: https://github.com/jbbaillet85/OpenFoodFact
+
+    finished: true
+  
+  - title: Concevez la solution technique d'un système de gestion de pizzeria
+
+    description: Modélisation du domaine fonctionnel et conception de la solution technique adapté au besoins du client.
+
+    image: jean-baptiste/projet_6.png
+
+    link: https://github.com/jbbaillet85/OCpizzas
+
+    finished: true
+  
+  - title: Créez GrandPy Bot, le papy-robot
+
+    description: Implémentation d'un robot conversationnel qui donne l'adresse recherché tout en racontant une histoire du lieux.
+
+    image: jean-baptiste/projet_7.png
+
+    link: https://github.com/jbbaillet85/GrandPyBot-le-papy-robot
+
+    finished: true
+  
+  - title: Créez une plateforme pour amateur de Nutella
+
+    description: La startup Pur Beurre veut créer une plateform web qui permet à tous de trouver un substitut sain à tout aliments.
+
+    image: jean-baptiste/projet_8.png
+
+    link: https://github.com/jbbaillet85/PureBeurre
+
+    finished: true
+  
+  - title: Documentez votre système de gestion de pizzeria
+
+    description: Redaction du dossier de conception fonctionnelle, de conception technique, d'exploitation et le PV de livraison finale.
+
+    image: jean-baptiste/projet_9.png
+
+    link: https://github.com/jbbaillet85/documentez-votre-systeme-de-gestion-de-pizzeria
+
+    finished: true
 ---
 
