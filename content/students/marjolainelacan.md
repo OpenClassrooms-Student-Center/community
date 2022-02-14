@@ -42,31 +42,36 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, Github et pull requests
     image: marjolainelacan/projet_2.png
-    link: https://www.github.com
+    link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Concevoir un prototype de jeu de combat entre personnages avec Swift
-    image: marjolainelacan/projet_3.png
-    link: https://www.github.com
+    image: marjolainelacan/Projet3.png
+    link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
   - title: Développez Instagrid
     description: Une application de montage photos
     image: marjolainelacan/Projet_4.png
-    link: https://www.github.com
+    link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: true
   - title: Améliorez une application existante
     description: Reprendre un projet existant de calculatrice
     image: marjolainelacan/projet_5.png
-    link: https://www.github.com
-    finished: false
+    link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
+    finished: true
   - title: Analysez les besoins de votre client pour son groupe de pizzerias
     description: Ecrire une documentation technique
     image: marjolainelacan/projet_6.png
-    link: https://www.github.com
-    finished: false
+    link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
+    finished: true
+  - title: Réalisez une application de voyage
+    description: réaliser une application de voyage (météo, traduction, taux de change)
+    image: marjolainelacan/projet_9.png
+    link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
+    finished: true
   - title: Concevez la solution technique d’un système de gestion de pizzeria
     description: concevoir l’architecture technique d'une solution répondant aux besoins du client
     image: marjolainelacan/projet_7.png
-    link: https://www.github.com
+    link: https://openclassrooms.com/fr/paths/69-developpeur-dapplication-ios
     finished: false
 ---

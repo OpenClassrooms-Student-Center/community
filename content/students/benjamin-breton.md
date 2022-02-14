@@ -36,7 +36,7 @@ public: True
 projects:
   - title: Présentez-vous !
 
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Ma présentation et un lien vers mon LinkedIn
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: benjamin-breton/project_1.png
@@ -52,31 +52,47 @@ projects:
   - title: Créez votre premier jeu vidéo avec Swift !
     description: Concevoir un prototype de jeu de combat entre personnages avec Swift
     image: benjamin-breton/project_3.png
-    link: https://github.com/bbenj28/OC_project_3
+    link: https://github.com/benjaminbreton/OC_project_3
     finished: true
   - title: Développez Instagrid une application de montage photo !
     description: Concevoir une application responsive respectant le MVC
     image: benjamin-breton/project_4.png
-    link: https://github.com/bbenj28/OC_project_4
+    link: https://github.com/benjaminbreton/OC_project_4
     finished: true
   - title: Améliorez une application existante
     description: Améliorer, débuguer, et tester une application existante
     image: benjamin-breton/project_5.png
-    link: https://github.com/bbenj28/OC_project_5
+    link: https://github.com/benjaminbreton/OC_project_5
     finished: true
   - title: Analysez les besoins de votre client pour son groupe de pizzerias
     description: Concevoir un dossier de spécifications fonctionnelles et trouver une solution technique
     image: benjamin-breton/project_6.png
-    link: https://github.com/bbenj28/OC_project_6
+    link: https://github.com/benjaminbreton/OC_project_6
     finished: true
   - title: Réalisez une application de voyage
     description: Concevoir une application permettant la traduction, le change et l'affichage de la météo
     image: benjamin-breton/project_9.png
-    link: https://github.com/bbenj28/OC_project_9
+    link: https://github.com/benjaminbreton/OC_project_9
     finished: true
   - title: Concevez la solution technique d’un système de gestion de pizzeria
     description: Concevoir un dossier de spécifications techniques
     image: benjamin-breton/project_7.png
-    link: https://github.com/bbenj28/OC_project_7
+    link: https://github.com/benjaminbreton/OC_project_7
+    finished: true
+  - title: Créez l’application Reciplease
+    description: Concevoir une application de recettes utilisant les appels réseaux et CoreData
+    image: benjamin-breton/project_10.png
+    link: https://github.com/benjaminbreton/OC_project_10
+    finished: true
+  - title: Documentez votre système de gestion de pizzeria
+    description: Concevoir des dossiers de conception fonctionnelle, technique, d'exploitation, et un PV de livraison
+    image: benjamin-breton/project_8.png
+    link: https://github.com/benjaminbreton/OC_project_8
+    finished: true
+  - title: Réalisez un projet libre à impact social
+    description: Concevoir une application utile à autrui
+    image: benjamin-breton/project_12.png
+    link: https://github.com/benjaminbreton/OC_project_12
     finished: false
+
 

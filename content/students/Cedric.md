@@ -47,6 +47,16 @@ projects:
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: Cedric/projet3.jpg
+    link: https://github.com/FaillHarder/MacGyver
+    finished: true
+  - title: Analysez les besoins de votre client pour son groupe de pizzerias.
+    description: Création d’un dossier de spécifications fonctionnelles et technique.
+    image: Cedric/projet4.jpg
     link: 
-    finished: false
+    finished: true
+  - title: Utilisez les données publiques de l'OpenFoodFacts.
+    description: Récupérer des aliments, les comparer et proposer un substitut plus sain.
+    image: Cedric/projet5.jpg
+    link: https://github.com/FaillHarder/P5_OpenFoodFacts.git
+    finished: true
 ---
