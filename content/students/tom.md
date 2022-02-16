@@ -23,9 +23,9 @@ description:
     Je m’appelle Thomas Heinis et je suis actuellement basé à Mulhouse. Après avoir
     été développeur web pendant environ 10 ans, je suis devenu commercial. Pendant
     les 10 ans qui ont suivi, j’ai donc vendu un logiciel web et les applications 
-	mobiles qui l’accompagnent. Dans la continuité, j’ai décidé de devenir 
-	développeur d’application mobile. Et pour joindre l’utile à l’agréable, j’ai 
-	choisi de me spécialiser sur iOS.
+    mobiles qui l’accompagnent. Dans la continuité, j’ai décidé de devenir 
+    développeur d’application mobile. Et pour joindre l’utile à l’agréable, j’ai 
+    choisi de me spécialiser sur iOS.
 	
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
