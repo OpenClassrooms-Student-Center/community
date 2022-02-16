@@ -49,7 +49,7 @@ projects:
     link: https://github.com/gemini-crocket/community
     finished: true
   - title: Créez votre premier jeu vidéo avec Swift !
-    description: Ça y est, votre rêve se réalise ! Vous venez de commencer un stage dans une entreprise de jeux vidéo : FrenchGame Factory.
+    description: Votre rêve se réalise ! Vous venez de commencer un stage dans une entreprise de jeux vidéo !
     image: tom/projet_3.png
     # link: https://www.github.com
     finished: false
