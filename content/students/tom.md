@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: thomas-heinis
+title: tom
 
 # First name or full name
 name: Tom
@@ -46,7 +46,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
-    description: Alors à vous de jouer : ajoutez une belle présentation et faites partie de l’équipe !
+    description: Alors à vous de jouer, ajoutez une belle présentation et faites partie de l’équipe !
     image: tom/projet_2.png
     link: https://github.com/gemini-crocket/community
     finished: true
