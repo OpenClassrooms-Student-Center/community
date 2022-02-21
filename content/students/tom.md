@@ -21,11 +21,11 @@ short_description: Apprendre. Agir. Évaluer. Swift. Les pommes. Fan du fruit et
 template: students
 description:
     Je m’appelle Thomas Heinis et je suis actuellement basé à Mulhouse. Après avoir
-    été développeur web pendant environ 10 ans, je suis devenu commercial. Pendant
-    les 10 ans qui ont suivi, j’ai donc vendu un logiciel web et les applications 
-    mobiles qui l’accompagnent. Dans la continuité, j’ai décidé de devenir 
-    développeur d’application mobile. Et pour joindre l’utile à l’agréable, j’ai 
-    choisi de me spécialiser sur iOS.
+    été développeur web pendant une dizaine d’années, je suis devenu commercial,
+    une dizaine d’années aussi. Pendant cette période, j’ai vendu un logiciel web
+    et les applications mobiles qui l’accompagnent. Dans la continuité, j’ai décidé
+    de devenir développeur d’application mobile. Pour joindre l’utile
+    à l’agréable, je me spécialise sur iOS.
 	
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
@@ -37,7 +37,7 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Définissez votre stratégie d’apprentissage
-    description: L’objectif de ce premier projet est de vous donner toutes les clés pour réussir votre parcours !
+    description: Découverte des outils pour gérer son temps et ses tâches, mise en place d’un calendrier de la formation ainsi que d’un planning hebdomadaire.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: tom/projet_1.png
@@ -46,7 +46,7 @@ projects:
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté OpenClassrooms !
-    description: Alors à vous de jouer, ajoutez une belle présentation et faites partie de l’équipe !
+    description: Découverte de Git, GitHub et Python, réalisation et intégration de cette page dans ce projet afin d’appréhender le travail collaboratif. 
     image: tom/projet_2.png
     link: https://github.com/gemini-crocket/community
     finished: true
