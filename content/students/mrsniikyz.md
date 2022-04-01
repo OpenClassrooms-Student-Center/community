@@ -1,10 +1,10 @@
 ---
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
-# Example: https://openclassrooms.com/membres/celinemartinet
-# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# Example: https://openclassrooms.com/membres/mrsniikyz
+# must be the name of your file. If file name is mrsniikyz.md, title is mrsniikyz.
 # lowercase, no blank space, Capital case or special character.
-title: MrSniikyz
+title: mrsniikyz
 
 # First name or full name
 name: MrSniikyz
@@ -29,7 +29,7 @@ description:
     trouvé par "dépit" suite à mes études.
 
 # image must be located in content/images/students
-# name should be the same as this file. Eg: celinemartinet.png
+# name should be the same as this file. Eg: mrsniikyz.png
 # max size: 200ko
 image: mrsniikyz.png
 
