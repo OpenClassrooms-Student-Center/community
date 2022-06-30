@@ -1,185 +1,46 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2638
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Monaco;}
-{\colortbl;\red255\green255\blue255;\red246\green246\blue239;\red0\green0\blue0;\red124\green126\blue119;
-\red255\green255\blue255;}
-{\*\expandedcolortbl;;\cssrgb\c97255\c97255\c94902;\cssrgb\c0\c0\c0;\cssrgb\c56078\c56471\c54118;
-\cssrgb\c100000\c100000\c100000;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww13580\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
+---
 
-\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
----\
-\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # FILENAME : please use your OpenClassrooms's name, available in your url.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # Example: https://openclassrooms.com/membres/celinemartinet\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # lowercase, no blank space, Capital case or special character.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 title: SamyB10\
-\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # First name or full name\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 name: Samy\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 date: 2022-06-22 17:20\
-\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # One line.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 objective: Devenir D\'e9veloppeur d\'92application IOS\cf4 \
-\cf2 short_description: J'aime le sport, l\'92informatique et les nouvelles technologie.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # Ne modifiez pas le param\'e8tre 'template', seulement la description\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 template: students\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 description: 
-\fs26 \cf5 Je souhaite devenir une D\'e9veloppeur iOS freelance.
-\fs24 \cf2 \
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2    \cf4 \
-\cf2 # image must be located in content/images/students\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # name should be the same as this file. Eg: celinemartinet.png\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 image: SamyB10.png\
-\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # Change this to True when you do you pull request.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 public: False\
-\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 # You need to keep the exact same structure for each new project.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 projects:\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2   - title: Pr\'e9sentez-vous !\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     description: Bonjour je m\'92appel Samy j\'92ai 21 ans \
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     # Create a new repository for your images. Name it the same as your nickname and profile picture.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     # Image must be here: content/images/students/yourrepo/project1.png\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     image: SamyB10/projet_1.png\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     link: https://github.com/SamyB10/Nba\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     # 'true' makes it fully available.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     finished: true\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2   - title: Int\'e9grez la communaut\'e9 !\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. \
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     image: ratus/projet_2.png\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     finished: true\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2   - title: Aidez MacGyver \'e0 sortir !\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     description: Cr\'e9ation d\'92un jeu d\'e9velopp\'e9 en Python et utilisant PyGame.\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     image: ratus/projet_3.png\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     link: https://www.github.com\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2     finished: false\
-\pard\pardeftab720\qr\partightenfactor0
-\cf4 \
-\pard\pardeftab720\partightenfactor0
-\cf2 ---}
+# FILENAME : please use your OpenClassrooms's name, available in your url.
+# Example: https://openclassrooms.com/membres/celinemartinet
+# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# lowercase, no blank space, Capital case or special character.
+title: ratus
+
+# First name or full name
+name: Samy
+date: 2022-06-30 17:20
+
+# One line.
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
+objective: Devenir développeur d'application ios freelance.
+short_description: J'aime le sport et l'informatique.
+
+# Ne modifiez pas le paramètre 'template', seulement la description
+template: students
+description:
+    Je m'appelle Samy et je suis passionné de sport football, basket, tennis, boxe, j'adore aussi tout ce qui concerne l'informatique jeu vidéo, nouvelle technologie et en particularité le développement d'application spécialiser IOS. J'espère donc pouvoir en faire mon métier.
+# image must be located in content/images/students
+# name should be the same as this file. Eg: celinemartinet.png
+image: SamyB10.png
+
+# Change this to True when you do you pull request.
+public: False
+
+# You need to keep the exact same structure for each new project.
+projects:
+  - title: Présentez-vous !
+    description: Une présentation de moi-même et un lien vers mon GitHub
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: SamyB10/projet_1.png
+    link: https://github.com/SamyB10
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    finished: true
+  - title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
+    image: SamyB10/projet_2.png
+    link: https://github.com/SamyB10
+    finished: true
+  -
+---
