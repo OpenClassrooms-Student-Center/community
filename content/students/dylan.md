@@ -46,10 +46,4 @@ projects:
     link: https://openclassrooms.com/fr/paths/501/projects/151/assignment
     finished: false
 	
-  - title: Créez votre premier jeu vidéo avec Swift !
-    description: Ça y est, votre rêve se réalise ! Vous venez de commencer un stage dans une entreprise de jeux vidéo : FrenchGame Factory.
-    image: dylan/projet_3.png
-    link: https://openclassrooms.com/fr/paths/501/projects/59/assignment
-    finished: false
-	
 ---
