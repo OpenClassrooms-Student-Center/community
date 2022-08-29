@@ -30,7 +30,7 @@ public: False
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Bonjour, je suis actuellement infographiste, et indépendant depuis une vingtaine d'années. Je réalise des sites internet, mais aussi des .
+    description: Bonjour, je suis actuellement infographiste, et indépendant depuis une vingtaine d'années. Je réalise notamment des sites internet.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: lionel/projet_1.jpg
@@ -41,6 +41,6 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
     image: lionel/projet_2.jpg
-    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    link: https://github.com/LionelLagadec/community
     finished: true
 ---
