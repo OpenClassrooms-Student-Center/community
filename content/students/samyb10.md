@@ -35,14 +35,14 @@ projects:
     description: Une présentation de moi-même et un lien vers mon GitHub
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
-    image: SamyB10/projet_1.png
+    image: SamyB10/project_1.png
     link: https://github.com/SamyB10
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
-    image: SamyB10/projet_2.png
+    image: SamyB10/project_2.png
     link: https://github.com/SamyB10
     finished: true
   -
