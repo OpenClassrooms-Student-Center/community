@@ -32,18 +32,18 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon GitHub
+    description: Une présentation de moi-même et un lien vers mon Linkedin
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: samyb10/projet_1.png
-    link: https://github.com/SamyB10
+    link: https://www.linkedin.com/in/samy-boussair-381925234/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: samyb10/projet_2.png
-    link: https://github.com/SamyB10
+    link: https://github.com/SamyB10/community
     finished: true
   -
 ---
