@@ -4,25 +4,25 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: jeremy
+title: stephane1772
 
 # First name or full name
-name: Jérémy
-date: 2020-07-19 11:02
+name: Stephane
+date: 2022-09-18 11:02
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Devenir développeur Python pour en faire mon métier.
-short_description: J'aime les voyages, jeux video et les séries. J'apprends à coder pour en faire mon métier.
+objective: Relancer mon activité de consultant indépendant tout en proposant du développement d’applications IOS.
+short_description: Après 5 ans dans une corporation et 20 ans de consulting j’aimerais faire du développement d’applications IOS. Je commencerai par développer une application à laquelle je pense depuis 15 ans et que personne n’a encore développé.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Actuellement contrôleur qualité dans l'industrie, j'apprends la programmation pour pouvoir en faire mon métier. Je connais un peu Python et je compte m'améliorer avec la formation Devenir développeur Python d'openclassroom. Je souhaite plus tard faire du back end ou des logiciels.
+    Actuellement contrôleur qualité dans l'industrie, Après 5 ans dans une corporation et 20 ans de consulting j’aimerais faire du développement d’applications IOS. Je commencerai par développer une application à laquelle je pense depuis 15 ans et que personne n’a encore développé.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: jeremy.jpg
+image: stephane1772.jpg
 
 # Change this to True when you do you pull request.
 public: True
@@ -30,41 +30,41 @@ public: True
 # You need to keep the exact same structure for each new project.
 projects:
   - title: Présentez-vous !
-    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    description: Une présentation de moi-même.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
-    # Image must be here: content/images/students/yourrepo/project1.png
-    image: jeremy/projet_1.png
-    link: https://www.linkedin.com/in/j%C3%A9r%C3%A9my-combes-375846110/
+    # Image must be here: content/images/students/yourrepo/project1.jpg
+    image: stephane1772/projet1.pjpg
+    link: https://www.linkedin.com
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git et de Github.
-    image: jeremy/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/jeremy.html
+    image: stephane1772/projet2.jpg
+    link: https://openclassrooms-student-center.github.io/presentation/students/stephane1772.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
-    image: jeremy/projet_3.png
-    link: https://github.com/Walrick/Projet_3
-    finished: true
+    image: stephane1772/projet3.jpg
+    link: https://github.com/Epiphane1772/project3.git
+    finished: false
   - title: Analisez les besoins de votre client pour son groupe de pizzerias !
     description: Analyser un besoin client avec les diagrammes de contextes et fonctionnels UML
-    image: jeremy/projet_4.png
-    link: https://app.diagrams.net/#G1-cXkuRKmm2s_YFiKZSc6QcqDnZi6Otun
-    finished: true
+    image: stephane1772/projet4.jpg
+    link: https://www
+    finished: false
   - title: Utilisez les données publiques de l'OpenFoodFacts
     description: Créer un logiciel qui interagit avec une base de donnée mysql et une api
-    image: jeremy/projet_5.png
-    link: https://github.com/Walrick/Projet5
-    finished: true
+    image: stephane1772/projet5.jpg
+    link: https://github.com
+    finished: false
   - title: Concevez la solution technique d'un systéme de gestion de pizzeria
     description: Concevoir la solution technique avec UML et y implementer la base de donnée
-    image: jeremy/projet_6.png
-    link: https://app.diagrams.net/#G1-CIXd1YrtNyJSy_1fMNFDvLJZa7rdjg7
-    finished: true
+    image: stephane1772/projet6.jpg
+    link: https://www
+    finished: false
   - title: CrǸez GrandPy Bot, le papy-robot
-    description: Créer un chat-bot avec flask - https://grandpy.jeremycombes.fr/
+    description: Créer un chat-bot avec flask - https://www
     image: jeremy/projet_7.png
     link: https://github.com/Walrick/Projet_7-Grand_Py
     finished: true
