@@ -18,7 +18,7 @@ short_description: Après 5 ans dans une corporation et 20 ans de consulting j�
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Actuellement contrôleur qualité dans l'industrie, Après 5 ans dans une corporation et 20 ans de consulting j’aimerais faire du développement d’applications IOS. Je commencerai par développer une application à laquelle je pense depuis 15 ans et que personne n’a encore développé.
+    Après 5 ans dans une corporation et 20 ans de consulting j’aimerais faire du développement d’applications IOS. Je commencerai par développer une application à laquelle je pense depuis 15 ans et que personne n’a encore développé.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
