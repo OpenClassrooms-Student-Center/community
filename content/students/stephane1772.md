@@ -65,7 +65,7 @@ projects:
     finished: false
   - title: CrǸez GrandPy Bot, le papy-robot
     description: Créer un chat-bot avec flask - https://www
-    image: jeremy/projet_7.png
+    image: stephane1772/projet7.jpg
     link: https://github.com/Walrick/Projet_7-Grand_Py
     finished: true
   - title: Créez une plateforme pour amateurs de Nutella
