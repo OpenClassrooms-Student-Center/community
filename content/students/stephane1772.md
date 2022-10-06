@@ -37,7 +37,7 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
-  - title: Intégrez la communauté !
+  - title:  Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git
     image: stephane1772/projet2.jpg
     link: https://openclassrooms-student-center.github.io/presentation/students/stephane1772.html
