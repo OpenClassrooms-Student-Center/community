@@ -33,7 +33,7 @@ projects:
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/images/students/yourrepo/project1.png
     image: stephane1772/projet1.jpg
-    link: https://www.linkedin.com/in/mathieu-seveno-168262147
+    link: https://www.linkedin.com/in/stephane-lefebvre-b88a08212/
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
