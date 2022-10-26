@@ -25,7 +25,7 @@ date: 2022-10-19 11:48
 
 objective: Apprendre un nouveau langage de programmation et devenir un super développeur iOS.
 
-short_description: afezgrzgze
+short_description: Je m'appelle Demian, je veux devenir le meilleur dev iOS.
 
 
 # Ne modifiez pas le paramètre 'template', seulement la description
