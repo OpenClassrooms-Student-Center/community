@@ -4,7 +4,7 @@
 # Example: https://openclassrooms.com/membres/celinemartinet
 # must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
 # lowercase, no blank space, Capital case or special character.
-title: Thomas G
+title: thomasg
 
 # First name or full name
 name: Thomas G
@@ -22,7 +22,7 @@ description:
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image: ThomasG.jpg
+image: thomasg.jpeg
 
 # Change this to True when you do you pull request.
 public: True
@@ -40,7 +40,7 @@ projects:
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: thomasg/projet_2.png
+    image: thomasg/projet2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/thomasg.html
     finished: true
 ---
