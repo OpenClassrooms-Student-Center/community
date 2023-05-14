@@ -149,5 +149,25 @@ projects:
     link: https://github.com/jbbaillet85/documentez-votre-systeme-de-gestion-de-pizzeria
 
     finished: true
+  
+    - title: Déployez votre application sur un serveur comme un pro !
+
+    description: Déployer une application sur un serveur.
+
+    image: jean-baptiste/projet_10.PNG
+
+    link: https://github.com/jbbaillet85/PureBeurreDeploiement
+
+    finished: true
+  
+      - title: Projet final Veille_tracking
+
+    description: application de veille communautaire grâce aux livres 
+
+    image: jean-baptiste/projet_13.PNG
+
+    link: https://github.com/jbbaillet85/PureBeurreDeploiement
+
+    finished: true
 ---
 

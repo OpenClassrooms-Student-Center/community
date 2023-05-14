@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+blinker = "==1.4"
+docutils = "==0.14"
+feedgenerator = "==1.9"
+ghp-import = "==0.5.5"
+jinja2 = "==2.11.3"
+markdown = "==2.6.9"
+markupsafe = "==1.1.1"
+pelican = "==3.7.1"
+pygments = "==2.7.4"
+python-dateutil = "==2.6.1"
+pytz = "==2017.3"
+pyyaml = "==5.4"
+six = "==1.11.0"
+unidecode = "==0.4.21"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
