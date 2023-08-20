@@ -72,4 +72,13 @@ projects:
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
+  - title: Créez GrandPy Bot, le papy-robot !
+    description: Développer une appli Web de recherche sur un lieu : adresse, GPS et Wikipédia
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: marie/Projet7_OK.jpg 
+    link: https://gpybot-mc.herokuapp.com/ 
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    finished: true
 
