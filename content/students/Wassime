@@ -1,0 +1,51 @@
+---
+
+# FILENAME : please use your OpenClassrooms's name, available in your url.
+# Example: https://openclassrooms.com/membres/celinemartinet
+# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# lowercase, no blank space, Capital case or special character.
+title: wassime
+
+# First name or full name
+name: wassime
+date: 2022-10-03 20:42
+
+# One line.
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
+objective: Devenir un developpeur Ios pour pouvoir me lancer dans cette branche.
+short_description: Je suis un jeune etudiant passionée d'informatique avec plein de projet en tete
+
+# Ne modifiez pas le paramètre 'template', seulement la description
+template: students
+description:
+ ayant deja eu plein d'experience dans le monde de l'informatique avec plein de projet effectuer j'ai pu voir les langage et les domaines qui m'interesser le plus et il se trouve que developpeur d'application et le domaine qui me fais vibrer j'aimerais pouvoir en faire mon metier afin de pouvoir exercer un metier qui me passionne.
+
+# image must be located in content/images/students
+# name should be the same as this file. Eg: celinemartinet.png
+image: wassime.jpg
+
+# Change this to True when you do you pull request.
+public: true
+
+# You need to keep the exact same structure for each new project.
+projects:
+  - title: Présentez-vous !
+    description: Une présentation de moi-même et un lien vers mon LinkedIn.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/images/students/yourrepo/project1.png
+    image: wassime/projet_1.png
+    link: 
+    # 'true' makes it fully available.
+    # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
+    finished: true
+  - title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    image: ratus/projet_2.png
+    link: https://github.com/OpenClassrooms-Student-Center/community
+    finished: true
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
+---
