@@ -93,6 +93,11 @@ projects:
     description: Concevoir une application utile à autrui
     image: benjamin-breton/project_12.png
     link: https://github.com/benjaminbreton/OC_project_12
-    finished: false
+    finished: true
+  - title: Construisez une veille technologique
+    description: Construire une veille technologique
+    image: benjamin-breton/project_11.png
+    link: https://github.com/benjaminbreton/OC_project_11
+    finished: true
 
 
