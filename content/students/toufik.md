@@ -4,19 +4,19 @@
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
 
-# Example: https://openclassrooms.com/membres/celinemartinet
+# Example: https://openclassrooms.com/membres/toufik
 
-# must be the name of your file. If file name is celinemartinet.md, title is celinemartinet.
+# must be the name of your file. If file name is toufik.md, title is Toufik.
 
 # lowercase, no blank space, Capital case or special character.
 
-title: LABED
+title: Toufik
 
  
 
 # First name or full name
 
-name: LABED
+name: Toufik
 
 date: 2023-11-03 17:29
 
@@ -26,9 +26,7 @@ date: 2023-11-03 17:29
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 
-objective: Me faire une nouvelle jeunesse en quittant le papier pour le digital.
-
-short_description: J'aime les belles lettres, le fromage et les pages écornées. J'apprends à coder pour me faire une nouvelle jeunesse.
+objective: Me lancer un nouveau challenge et apprendre un nouveau métier.
 
  
 
@@ -38,7 +36,7 @@ template: students
 
 description:
 
-    A venir.
+ Bonjour. Je suis Toufik LABED  . je suis cette formation pour acquérir des connaissances et compétences de bases qui me permettront d'intégrer le monde des développeurs.
 
  
 
