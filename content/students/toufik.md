@@ -68,7 +68,7 @@ projects:
 
     image: toufik/projet_1.png
 
-    link: http://www.ricochet-jeunes.org/auteurs/recherche/10146-olivier-vogel
+    link: www.linkedin.com/in/toufik-labed-a972066a
 
     # 'true' makes it fully available.
 
