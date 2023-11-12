@@ -23,7 +23,7 @@ objective: Me lancer dans un nouveau challenge et apprendre un nouveau métier.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 
-template: students
+template:students
 
 description:je suis cette formation pour acquérir des connaissances et compétences de bases qui me permettront d'intégrer le monde des développeurs IOS.
 
