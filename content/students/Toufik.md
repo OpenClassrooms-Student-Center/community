@@ -6,9 +6,6 @@
 # lowercase, no blank space, Capital case or special character.
 
 title: Toufik
-
- 
-
 # First name or full name
 
 name: Toufik
