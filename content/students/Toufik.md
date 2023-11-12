@@ -1,11 +1,8 @@
 --
 
 # FILENAME : please use your OpenClassrooms's name, available in your url.
-
 # Example: https://openclassrooms.com/membres/toufik
-
 # must be the name of your file. If file name is toufik.md, title is Toufik.
-
 # lowercase, no blank space, Capital case or special character.
 
 title: Toufik
