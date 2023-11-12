@@ -19,7 +19,7 @@ date: 2023-11-03 17:29
 
 objective: Me lancer dans un nouveau challenge et apprendre un nouveau métier.
 
-# Ne modifiez pas le paramètre 'template', seulement la description
+#Ne modifiez pas le paramètre 'template', seulement la description
 template:students
 
 description:je suis cette formation pour acquérir des connaissances et compétences de bases qui me permettront d'intégrer le monde des développeurs IOS.
