@@ -18,7 +18,7 @@ short_description: je suis cette formation pour acquérir des connaissances et c
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    Je me suis inscrite dans cette formation, je me lance pour apprendre de nouvelles choses.
+    Je me suis inscrit dans cette formation, je me lance pour apprendre plus sur IOS.
 
 
 # image must be located in content/images/students
