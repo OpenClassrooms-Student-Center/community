@@ -12,8 +12,8 @@ date: 2023-11-13 14:30
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
-objective: Réussir ma formation.
-short_description: Je me suis inscrite dans cette formation parce que j'aime iOS.
+objective: Me lancer dans un nouveau challenge et apprendre un nouveau métier..
+short_description: je suis cette formation pour acquérir des connaissances et compétences de bases qui me permettront d'intégrer le monde des développeurs IOS.
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
