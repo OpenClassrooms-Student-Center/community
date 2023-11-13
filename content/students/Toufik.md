@@ -18,8 +18,6 @@ name: Toufik
 
 date: 2023-11-03 17:29
 
- 
-
 # One line.
 
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
