@@ -4,18 +4,14 @@
 # Example: https://openclassrooms.com/membres/toufik
 # must be the name of your file. If file name is toufik.md, title is Toufik.
 # lowercase, no blank space, Capital case or special character.
-
 title: Toufik
+
 # First name or full name
-
 name: Toufik
-
 date: 2023-11-03 17:29
 
- 
 # One line.
-
-#If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
+# If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
 objective: Me lancer dans un nouveau challenge et apprendre un nouveau métier.
 #Ne modifiez pas le paramètre 'template', seulement la description
 template:students
