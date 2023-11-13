@@ -17,7 +17,6 @@ objective: Me lancer dans un nouveau challenge et apprendre un nouveau métier.
 template:students
 
 description:je suis cette formation pour acquérir des connaissances et compétences de bases qui me permettront d'intégrer le monde des développeurs IOS.
-
  
 
 # image must be located in content/images/students
